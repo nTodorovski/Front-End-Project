@@ -1,0 +1,905 @@
+{
+  "telekom": [
+    {
+      "name": "HUAWEI MATE 20 LITE",
+      "price": "17.990",
+      "img": "https://www.telekom.mk/webimg?id=27381&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27381&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53",
+        "screen": "6.30 inches, 1080 x 2340 pixels",
+        "main_camera": "Dual 20MP + 2MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3750 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 710",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY A6 (2018)",
+      "price": "13.990",
+      "img": "https://www.telekom.mk/webimg?id=27066&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27066&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=lavender",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720x1480 pixels",
+        "main_camera": "16MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Exynos 7870 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SONY XPERIA XA2",
+      "price": "12.990",
+      "img": "https://www.telekom.mk/webimg?id=26931&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26931&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 2.2 GHz Cortex-A53",
+        "screen": "5.2 inches, 1080x1920 pixels",
+        "main_camera": "23MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3300 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Qualcommm SDM630 Snapdragon 630",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY S10+",
+      "price": "58.990",
+      "img": "https://www.telekom.mk/webimg?id=28729&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28729&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=prism%20green",
+      "specifications": {
+        "ram": "8 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440x3040 pixels",
+        "main_camera": "12MP,12MP,16MP",
+        "selfie_camera": "10MP,8MP",
+        "battery": "Li-on 4100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY S10",
+      "price": "53.990",
+      "img": "https://www.telekom.mk/webimg?id=28699&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28699&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=prism%20black",
+      "specifications": {
+        "ram": "8 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440x3040 pixels",
+        "main_camera": "12MP,12MP,16MP",
+        "selfie_camera": "10MP,8MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY S10e",
+      "price": "43.990",
+      "img": "https://www.telekom.mk/webimg?id=28669&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28669&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=prism%20black",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,16MP",
+        "selfie_camera": "10MP",
+        "battery": "Li-on 3100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P SMART 2019",
+      "price": "13.990",
+      "img": "https://www.telekom.mk/webimg?id=28560&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28560&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20black",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.21 inches, 1080 x 2340 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Hisilicon Kirin 710",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "CAT S61",
+      "price": "52.990",
+      "img": "https://www.telekom.mk/webimg?id=28558&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28558&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.2 GHz Cortex-A53",
+        "screen": "5.2 inches, 1080 x 1920 pixels",
+        "main_camera": "16MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 4500 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM630 Snapdragon 630",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "iPhone XS MAX",
+      "price": "87.990",
+      "img": "https://www.telekom.mk/webimg?id=28500&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28500&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.5 inches, 1242 x 2688 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "12MP",
+        "battery": "Li-on 3174 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "MOTOROLA ONE",
+      "price": "11.990",
+      "img": "https://www.telekom.mk/webimg?id=28388&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28388&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=white",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.9 inches, 720 x 1520 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "iPhone XS",
+      "price": "70.990",
+      "img": "https://www.telekom.mk/webimg?id=28226&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28226&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "12MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "XIAOMI MI A2 LITE",
+      "price": "10.990",
+      "img": "https://www.telekom.mk/webimg?id=28163&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28163&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 4000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY A7 (2018)",
+      "price": "19.990",
+      "img": "https://www.telekom.mk/webimg?id=28130&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28130&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+        "screen": "6.0 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP.5MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-Po 3300 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 7885 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY J4+",
+      "price": "8.990",
+      "img": "https://www.telekom.mk/webimg?id=28102&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28102&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=pink",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "6.0 inches, 720 x 1480 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3300 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "NOKIA 5.1",
+      "price": "10.990",
+      "img": "https://www.telekom.mk/webimg?id=28074&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28074&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
+        "screen": "5.5 inches, 1080 x 2160 pixels",
+        "main_camera": "16MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 2970 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "MediaTek Helio P18",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "NOKIA 2.1",
+      "price": "3.990",
+      "img": "https://www.telekom.mk/webimg?id=28036&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28036&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
+      "specifications": {
+        "ram": "1 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "5.5 inches, 720 x 1280 pixels",
+        "main_camera": "8MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": " 8GB up to 128 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "iPhone XR",
+      "price": "55.990",
+      "img": "https://www.telekom.mk/webimg?id=27874&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27874&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.1 inches, 828 x 1792 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2942 mAh",
+        "memory": "128 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "HUAWEI MATE 20 PRO",
+      "price": "49.990",
+      "img": "https://www.telekom.mk/webimg?id=27780&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27780&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=twilight",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.39 inches, 1440 x 3120 pixels",
+        "main_camera": "40MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "XIAOMI MI MIX 2S",
+      "price": "30.990",
+      "img": "https://www.telekom.mk/webimg?id=27730&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27730&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+        "screen": "5.99 inches, 1080 x 2160 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB",
+        "chipset": "Qualcomm MSM8998 Snapdragon 835",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "XIAOMI REDMI 6A",
+      "price": "4.990",
+      "img": "https://www.telekom.mk/webimg?id=27701&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27701&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Mediatek MT6761 Helio A22 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "CAT S31",
+      "price": "13.990",
+      "img": "https://www.telekom.mk/webimg?id=27347&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27347&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.3 GHz Cortex-A7",
+        "screen": "4.7 inches, 720 x 1280 pixels",
+        "main_camera": "8MP",
+        "selfie_camera": "2MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "16 GB up to 64 GB",
+        "chipset": "Qualcomm MSM8909 Snapdragon 210 ",
+        "os": "Android 7.0"
+      }
+    },
+    {
+      "name": "SONY XPERIA XZ3",
+      "price": "37.990",
+      "img": "https://www.telekom.mk/webimg?id=27301&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27301&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+        "screen": "6.0 inches, 1440 x 2880 pixels",
+        "main_camera": "19MP",
+        "selfie_camera": "13MP",
+        "battery": "Li-Ion 3300 mAh",
+        "memory": "64 GB up to 512 GB",
+        "chipset": "Qualcomm SDM845 Snapdragon 845 ",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "MOTOROLA MOTO G6 PLAY",
+      "price": "9.990",
+      "img": "https://www.telekom.mk/webimg?id=27260&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27260&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=deep%20indigo",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI Y6 2018",
+      "price": "6.990",
+      "img": "https://www.telekom.mk/webimg?id=27229&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27229&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG NOTE 9",
+      "price": "52.990",
+      "img": "https://www.telekom.mk/webimg?id=27184&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27184&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP 12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "128 GB up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "ALCATEL 1X",
+      "price": "4.990",
+      "img": "https://www.telekom.mk/webimg?id=27157&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27157&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=grey",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "screen": "5.3 inches, 480 x 960 pixels",
+        "main_camera": "8MP 13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "16 GB up to 32 GB",
+        "chipset": "Mediatek MT6739 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY J6",
+      "price": "9.990",
+      "img": "https://www.telekom.mk/webimg?id=27051&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27051&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Exynos 7870 Octa ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI Y5 2018",
+      "price": "5.990",
+      "img": "https://www.telekom.mk/webimg?id=26973&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26973&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3020 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Mediatek MT6739 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SONY XPERIA L1",
+      "price": "5.990",
+      "img": "https://www.telekom.mk/webimg?id=26903&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26903&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.45 GHz Cortex-A53",
+        "screen": "5.5 inches, 720x1280 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 2620 mAh",
+        "memory": "16 GB, up to 256 GB",
+        "chipset": "Mediatek MT6737T ",
+        "os": "Android 7.0"
+      }
+    },
+    {
+      "name": "SONY XPERIA XZ2",
+      "price": "19.990",
+      "img": "https://www.telekom.mk/webimg?id=26870&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26870&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+        "screen": "5.7 inches, 1080 x 2160 pixels",
+        "main_camera": "19MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 3180 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Qualcomm SDM845 Snapdragon 845",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI P20 PRO",
+      "price": "42.990",
+      "img": "https://www.telekom.mk/webimg?id=26802&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26802&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "6.1 inches, 1080 x 2240 pixels",
+        "main_camera": "40MP,20MP,8MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20",
+      "price": "35.990",
+      "img": "https://www.telekom.mk/webimg?id=26771&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26771&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20blue",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.8 inches, 1080 x 2240 pixels",
+        "main_camera": "12MP,20MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20 LITE",
+      "price": "15.990",
+      "img": "https://www.telekom.mk/webimg?id=26678&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26678&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=pink",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "16MP,2MP",
+        "selfie_camera": "16MP,24MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 659",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY S9+",
+      "price": "42.990",
+      "img": "https://www.telekom.mk/webimg?id=26599&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26599&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20black",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "6.2 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3500 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY S9",
+      "price": "37.990",
+      "img": "https://www.telekom.mk/webimg?id=26569&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26569&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "NOKIA 105 (2017)",
+      "price": "490",
+      "img": "https://www.telekom.mk/webimg?id=26476&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26476&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 MB",
+        "cpu": "/",
+        "screen": "1.8 inches, 120 x 160 pixels",
+        "main_camera": "/",
+        "selfie_camera": "/",
+        "battery": "Li-on 800 mAh",
+        "memory": "4MB",
+        "chipset": "/",
+        "os": "/"
+      }
+    },
+    {
+      "name": "iPhone 8",
+      "price": "51.990",
+      "img": "https://www.telekom.mk/webimg?id=25451&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25451&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=silver",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 1821 mAh",
+        "memory": "64 GB",
+        "chipset": "Apple A11 Bionic (10 nm)",
+        "os": "iOS 11"
+      }
+    },
+    {
+      "name": "MOTOROLA MOTO E4 PLUS",
+      "price": "8.990",
+      "img": "https://www.telekom.mk/webimg?id=26155&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26155&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=gold",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 1.3 GHz Cortex-A53",
+        "screen": "5.5 inches, 720 x 1280 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 5000 mAh",
+        "memory": "16 GB, up to 128 GB",
+        "chipset": "Mediatek MT6737 (28 nm)",
+        "os": "Android 7.1.1"
+      }
+    },
+    {
+      "name": "MOTOROLA MOTO C 4G",
+      "price": "3.990",
+      "img": "https://www.telekom.mk/webimg?id=26128&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26128&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=gold",
+      "specifications": {
+        "ram": "1 GB",
+        "cpu": "Quad-core 1.1 GHz Cortex-A53",
+        "screen": "5.0 inches, 480 x 854 pixels",
+        "main_camera": "5MP",
+        "selfie_camera": "2MP",
+        "battery": "Li-Po 2350 mAh",
+        "memory": "16 GB, up to 32 GB",
+        "chipset": "Mediatek MT6737M (28 nm)",
+        "os": "Android 7.0"
+      }
+    },
+    {
+      "name": "iPhone X",
+      "price": "61.990",
+      "img": "https://www.telekom.mk/webimg?id=25965&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25965&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2716 mAh",
+        "memory": "64 GB",
+        "chipset": "Apple A11 Bionic (10 nm)",
+        "os": "iOS 11.1.1"
+      }
+    },
+    {
+      "name": "iPhone 8 Plus",
+      "price": "49.990",
+      "img": "https://www.telekom.mk/webimg?id=25486&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25486&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=space%20gray",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "screen": "5.5 inches, 1080 x 1920 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2691 mAh",
+        "memory": "64 GB",
+        "chipset": "Apple A11 Bionic (10 nm)",
+        "os": "iOS 11"
+      }
+    },
+    {
+      "name": "SAMSUNG GALAXY NOTE 8",
+      "price": "49.990",
+      "img": "https://www.telekom.mk/webimg?id=25316&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25316&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=gold",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEA",
+        "screen": "6.3 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP, 12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Po 3300 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 8895 Octa (10 nm) - EMEA",
+        "os": "Android 7.1.1"
+      }
+    },
+    {
+      "name": "SONY XPERIA XZ PREMIUM",
+      "price": "40.990",
+      "img": "https://www.telekom.mk/webimg?id=25217&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25217&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+        "screen": "5.46 inches, 3840 x 2160 pixels",
+        "main_camera": "19MP",
+        "selfie_camera": "13MP",
+        "battery": "Li-Po 3230 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+        "os": "Android 7.1"
+      }
+    },
+    {
+      "name": "HTC U11",
+      "price": "19.990",
+      "img": "https://www.telekom.mk/webimg?id=25055&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25055&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=sapphire%20blue",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+        "screen": "5.5 inches, 1440 x 2560 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-Po 3000 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+        "os": "Android 7.1"
+      }
+    },
+    {
+      "name": "HUAWEI P10 PLUS",
+      "price": "19.990",
+      "img": "https://www.telekom.mk/webimg?id=24783&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=24783&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=silver",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.5 inches, 1440 x 2560 pixels",
+        "main_camera": "12MP,20MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Po 3750 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 960 (16 nm)",
+        "os": "Android 7.0"
+      }
+    },
+    {
+      "name": "SONY XPERIA XZ",
+      "price": "37.990",
+      "img": "https://www.telekom.mk/webimg?id=24018&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=24018&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "screen": "5.2 inches, 1080 x 1920 pixels",
+        "main_camera": "23MP",
+        "selfie_camera": "13MP",
+        "battery": "Li-Po 2900 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "os": "Android 6.0.1"
+      }
+    },
+    {
+      "name": "CAT B30",
+      "price": "3.490",
+      "img": "https://www.telekom.mk/webimg?id=23896&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=23896&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
+      "specifications": {
+        "ram": "/",
+        "cpu": "/",
+        "screen": "2.0 inches, 144 x 176 pixels",
+        "main_camera": "2MP",
+        "selfie_camera": "/",
+        "battery": "Li-Po 1000 mAh",
+        "memory": "up to 16 GB",
+        "chipset": "Spreadtrum 7701",
+        "os": "/"
+      }
+    },
+    {
+      "name": "ALCATEL 2008G",
+      "price": "990",
+      "img": "https://www.telekom.mk/webimg?id=22935&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=22935&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black/metal%20silver",
+      "specifications": {
+        "ram": "/",
+        "cpu": "/",
+        "screen": "2.4 inches, 320 x 240 pixels",
+        "main_camera": "2MP",
+        "selfie_camera": "/",
+        "battery": "Li-Po 1400 mAh",
+        "memory": "16MB, up to 32 GB",
+        "chipset": "/",
+        "os": "/"
+      }
+    },
+    {
+      "name": "SONY XPERIA X",
+      "price": "31.990",
+      "img": "https://www.telekom.mk/webimg?id=22627&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=22627&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=white",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)",
+        "screen": "5.0 inches, 1080 x 1920 pixels",
+        "main_camera": "23MP",
+        "selfie_camera": "13MP",
+        "battery": "Li-Po 2620 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8956 Snapdragon 650",
+        "os": "Android 6.0.1"
+      }
+    },
+    {
+      "name": "HTC 10",
+      "price": "29.990",
+      "img": "https://www.telekom.mk/webimg?id=22467&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=22467&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=lava%20red",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "screen": "5.2 inches, 1440 x 2560 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 3000 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "os": "Android 6.0.1"
+      }
+    },
+    {
+      "name": "SONY XPERIA Z5 COMPACT",
+      "price": "12.990",
+      "img": "https://www.telekom.mk/webimg?id=20545&width=240&height=240",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=20545&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=white",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+        "screen": "4.6 inches, 720 x 1280 pixels",
+        "main_camera": "23MP",
+        "selfie_camera": "5.1MP",
+        "battery": "Li-Po 2700 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+        "os": "Android 5.1.1"
+      }
+    },
+    {
+      "name": "HUAWEI P30 ",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28876&contractId=2&tariffId=1616&groupId=119&paymentId=2&instalments=24&color=breathing%20crystal",
+      "img": "https://www.telekom.mk/webimg?id=28876&width=240&height=240",
+      "price": "44.990",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.1 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,16MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 3650 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P30 PRO",
+      "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28909&contractId=2&tariffId=1616&groupId=119&paymentId=2&instalments=24&color=black",
+      "img": "https://www.telekom.mk/webimg?id=28909&width=240&height=240",
+      "price": "57.990",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.47 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,20MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 980 (7 nm)",
+        "os": "Android 9.0"
+      }
+    }
+  ]
+}

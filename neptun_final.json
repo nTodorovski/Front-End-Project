@@ -1,0 +1,2044 @@
+﻿{
+  "name": [
+    {
+      "name": "ALCATEL 1066G 0.08MP, 400mAh, DualSIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/ALCATEL-1066G",
+      "img": "https://www.neptun.mk/2018/08/14/Tiger_L5_Black_Special_v11.23_1c0a6cd6-8705-42ad-a6ba-db7c7b939b7c.jpg?width=192",
+      "price": "1.499",
+      "specifications": {
+        "ram": "4 MB",
+        "cpu": "/",
+        "screen": "1.8 inches, 128 x 160 pixels",
+        "main_camera": "0.08MP",
+        "selfie_camera": "/",
+        "battery": "Li-Po 400 mAh",
+        "memory": "4MB",
+        "chipset": "/",
+        "os": "endor"
+      }
+    },
+    {
+      "name": "ALCATEL 1054D, 1.8\", 400mAh",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/TELEFON-ALCATEL-1054D",
+      "img": "https://www.neptun.mk/2018/06/15/alcatel-1016d-dualsim-black_f16f00c6-4967-42ee-8166-d804e134d112.jpg?width=192",
+      "price": "1.799",
+      "specifications": {
+        "ram": "4 MB",
+        "cpu": "/",
+        "screen": "2.4 inches, 640 x 480 pixels",
+        "main_camera": "0.31MP",
+        "selfie_camera": "/",
+        "battery": "Li-Po 800 mAh",
+        "memory": "4MB, up to 32 GB",
+        "chipset": "/",
+        "os": "Vendor"
+      }
+    },
+    {
+      "name": "ALCATEL 2008G, 2.4\", 16/8MB, 1400mAh, FM, BT",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/ALCATEL-2008G-Black",
+      "img": "https://www.neptun.mk/2018/01/30/1_7255987d-3eb3-4e64-a6d3-bdb9cd066356.jpg?width=192",
+      "price": "2.499",
+      "specifications": {
+        "ram": "/",
+        "cpu": "/",
+        "screen": "2.4 inches, 320 x 240 pixels",
+        "main_camera": "2MP",
+        "selfie_camera": "/",
+        "battery": "Li-Po 1400 mAh",
+        "memory": "16MB, up to 32 GB",
+        "chipset": "/",
+        "os": "/"
+      }
+    },
+    {
+      "name": "ALCATEL 2051D, 2.4\", 8/8MB, 2MP, 750mAh, сребрена",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/ALCATEL-2051D-Metal-Silver",
+      "img": "https://www.neptun.mk/2018/01/30/1_e09c63e7-ca5d-4b4d-b091-0bc215da96e6.jpg?width=192",
+      "price": "2.999",
+      "specifications": {
+        "ram": "8 MB",
+        "cpu": "/",
+        "screen": "2.4 inches, 240 x 320 pixels",
+        "main_camera": "1.92MP",
+        "selfie_camera": "/",
+        "battery": "Li-Po 750 mAh",
+        "memory": "8MB, up to 32 GB",
+        "chipset": "/",
+        "os": "/"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi Go (C3G) 5.0\" (720X1280), 1/8GB, 8/5MP, 3000mAh Black EU DualSim",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Go--C3G--1-8GB-Black-EU-DS",
+      "img": "https://www.neptun.mk/2019/03/25/Redmi_Go_bdf4a415-1c25-4048-b8bd-c242cef45d2f.png?width=192",
+      "price": "5.999",
+      "specifications": {
+        "ram": "1 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "5.0 inches, 720 x 1280 pixels",
+        "main_camera": "8MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "32 GB up to 128 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi 6A (C3C) 5.45\", 2/16GB, 13/5MP, 3000mAh Blue EU DualSim",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-6A--C3C--2-16GB-Blue-EU-DS",
+      "img": "https://www.neptun.mk/2019/01/18/xiaomi-redmi-6a-ds-16gb-mobilus-telefonas-blue-1_df38423d-3df7-4a22-9d40-dc4b1499edad.jpg?width=192",
+      "price": "6.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Mediatek MT6761 Helio A22 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI Y5 (2018), 5.45\", 16/2GB, 8/5MP, 3020mAh, DRA-L21 Black Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Y5-2018--DRA-L21--Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/06/15/1_f42f5a04-137e-4907-bce2-e591c44af2ba.JPG?width=192",
+      "price": "7.499",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3020 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Mediatek MT6739 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI Y5 (2018), 5.45\", 16/2GB, 8/5MP, 3020mAh, DRA-L21 Blue Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Y5-2018--DRA-L21--Blue-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/06/15/1_03fd40e5-8469-40bf-b8b3-897c752ab062.JPG?width=192",
+      "price": "7.499",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.5 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3020 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Mediatek MT6739 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi 6A 5.84\", 2/32GB, 13/5MP, 3000mAh, Black (EU)",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-6A-2-32-EU-Black",
+      "img": "https://www.neptun.mk/2018/09/05/redmi-6a-dual-sim-32gb-lte-4g-negru_10055931_1_1533735271_4bd4871a-6279-4dab-8aa7-48b8a85ee6f2.jpg?width=192",
+      "price": "7.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 2.0 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Mediatek MT6761 Helio A22 ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Motorola Moto E5, 5.7\", 16/2GB, 13/5MP, 4000mAh (XT1944-2), gold",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Motorola-Moto-E5--XT1944-2--2-16-DS-Gold",
+      "img": "https://www.neptun.mk/2018/07/07/MotoE5_gold_c5911303-03f4-4fe2-9f94-753bdee29b8a.jpg?width=192",
+      "price": "7.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Motorola Moto E5, 5.7\", 16/2GB, 13/5MP, 4000mAh (XT1944-2), сив",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Motorola-Moto-E5--XT1944-2--2-16-DS-Flash-Grey",
+      "img": "https://www.neptun.mk/2018/07/07/MotoE5_gray_02d202b9-ff3d-44cc-883e-64315391a64b.jpg?width=192",
+      "price": "7.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI Y6 (2018), 5,7\", 16/2GB, 13/5MP, 3000mAh, син, ATOMU",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Y6-2018--Atomu--Blue-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/06/13/y62.jpeg?width=192",
+      "price": "8.799",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI Y6 (2018), 5,7\", 16/2GB, 13/5MP, 3000mAh, црн, ATOMU",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Y6-2018--Atomu--Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/05/10/1_a88eb35a-3a91-4a6b-902b-1aa628b8a373.jpg?width=192",
+      "price": "8.799",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI Y6 (2018), 5.7\", 16/2GB, 13/5MP, Gold, Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Y6-2018--Atomu--Gold-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/05/23/1_58e223be-fdf1-4d9b-8a33-56ac7420de43.jpg?width=192",
+      "price": "8.799",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425 ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi 6 (C3D) 5.45\", 3/64GB, 12+12/5MP, 3000mAh Black EU DualSIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-6--C3D--2-64GB-Black-EU-DS",
+      "img": "https://www.neptun.mk/2019/02/18/Xiaomi_Redmi_6__C3D__3_64GB_Black_EU_DS.jpg?width=192",
+      "price": "9.799",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.45 inches, 720 x 1440 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi S2, 5.99\", 3/32GB, 12+5/16MP, 3080mAh, Grey",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-Xiaomi-Redmi-S2-EU-3-32GB-Grey",
+      "img": "https://www.neptun.mk/2018/07/12/redmis2_gray2_897b9dd6-a8d5-4a90-8fed-fa2801a432fd.jpg?width=192",
+      "price": "10.299",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.99 inches, 720 x 1440 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-Ion 3080 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Motorola Moto G6 Play, 5.7\", 32/3GB, 13/5MP, 4000mAh (XT1922-3), Indigo",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Motorola-Moto-G6-Play--XT1922-3--3-32-DS-Deep-Indigo",
+      "img": "https://www.neptun.mk/2018/07/07/Moto_G6_Play_indigo_384ac083-32e4-4664-9725-33f7f4b7752a.jpg?width=192",
+      "price": "10.699",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.4 GHz Cortex-A53",
+        "screen": "5.7 inches, 720 x 1440 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8937 Snapdragon 430 ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG J4 plus (2018) SM-J415 FZKGSEE 6.0\", 32/2GB, 13/5MP, 3300mAh Black DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-J4-plus--2018--SM-J415-FZKGSEE-Black-DS",
+      "img": "https://www.neptun.mk/2018/10/19/Samsung_J4_Plus_2_32_GB_Smartphone_803ba5c6-eeb0-4a88-b3e0-45340a1d8c21.jpg?width=192",
+      "price": "10.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "6.0 inches, 720 x 1480 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3300 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG J4 plus (2018) SM-J415 FZIGSE 6.0\", 32/2GB, 16/5MP, 3300mAh, Pink DualSIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-J4-plus--2018--SM-J415-FZIGSE-Pink-DS",
+      "img": "https://www.neptun.mk/2018/10/19/album-1537425801-j41_3cb4bcd3-317b-41b4-a806-bd25cd5fdd72.jpg?width=192",
+      "price": "10.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "6.0 inches, 720 x 1480 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3300 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG J4 plus (2018) SM-J415 FZDGSEE 6.0\", 32/2GB, 13/5MP, 3300mAh Gold DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-J4-plus--2018--SM-J415-FZDGSEE-Gold-DS",
+      "img": "https://www.neptun.mk/2018/10/19/Samsung-Galaxy-J4-Plus_f94f4b70-fc72-473d-b31d-d955d3a8ab71.jpg?width=192",
+      "price": "10.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 1.4 GHz Cortex-A53",
+        "screen": "6.0 inches, 720 x 1480 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3300 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Qualcomm MSM8917 Snapdragon 425",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi S2, 5.99\", 64/4GB, Dual 12/16MP, 3080mAh, DS, Dark Grey",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-S2-4-64-EU-DS-Dark-Grey",
+      "img": "https://www.neptun.mk/2018/10/06/redmi5black_8093916a-f305-4cdb-ab3d-41bb8d378d8d.jpg?width=192",
+      "price": "11.499",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.99 inches, 720 x 1440 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-Ion 3080 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi S2, 5.99\", 64/4GB, Dual 12/16MP, 3080mAh, DS, Gold",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-S2-4-64-EU-DS-Gold",
+      "img": "https://www.neptun.mk/2018/10/06/redmi5gold_8474a357-998e-493e-bcef-cf71a2af15c3.jpg?width=192",
+      "price": "11.499",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.99 inches, 720 x 1440 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-Ion 3080 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG J5 (2017), 5.2\", 16/2GB, 13/13MP, 3000mAh, сребрен SM-J530FZSDSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-J5--2017--SM-J530-FZSDSEE-DS-Silver",
+      "img": "https://www.neptun.mk/2018/01/30/1_76baa46a-6368-49c1-ba2a-1246adf69f3f.jpg?width=192",
+      "price": "11.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.2 inches, 720 x 1280 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "13MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "16 GB up to 256 GB",
+        "chipset": "Exynos 7870 Octa (14 nm)",
+        "os": "Android 7.0"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi 5 Plus EU, 5.99\", 4/64GB, 12/5MP, 4000mAh Gold",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-5-Plus-EU-4-64GB-Gold",
+      "img": "https://www.neptun.mk/2018/07/12/redmi5plus_gold_0da506cb-d839-4b74-afef-39ae0eb59227.jpg?width=192",
+      "price": "12.499",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.99 inches, 1080 x 2160 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "32 GB up to 128 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "os": "Android 7.1.2 ("
+      }
+    },
+    {
+      "name": "XIAOMI Mi A1 (D2), 5.5\", 64/4GB, 12/5MP, 3080mAh, златен",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/XIAOMI-Mi-A1--D2--4-64-Gold-DualSim",
+      "img": "https://www.neptun.mk/2018/05/10/1_1f051a42-2996-47b6-844b-de2bd54264b3.jpg?width=192",
+      "price": "12.499",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.5 inches, 1080 x 1920 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3080 mAh",
+        "memory": "64 GB up to 128 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "os": "Android 7.1.2"
+      }
+    },
+    {
+      "name": "XIAOMI Mi A1 (D2), 5.5\", 64/4GB, 12/5MP, 3080mAh, црн",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/XIAOMI-Mi-A1--D2--4-64-Black-DualSim",
+      "img": "https://www.neptun.mk/2018/01/31/1_436938b7-705b-4e68-80ff-b5152e111e56.jpg?width=192",
+      "price": "12.499",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.5 inches, 1080 x 1920 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Ion 3080 mAh",
+        "memory": "64 GB up to 128 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "os": "Android 7.1.2"
+      }
+    },
+    {
+      "name": "SMARTPHONE SAMSUNG J6 (2018) SM-J600 FZKUSEE Black DualSIM, 32GB/3GB, 13MP/8MP, 3000mAh",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-J6--2018--SM-J600-FZKUSEE-Black-DualSIM",
+      "img": "https://www.neptun.mk/2018/08/22/samsung-galaxy-j6-2018-1-600x600-600x600-600x600-600x600.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Exynos 7870 Octa ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SMARTPHONE SAMSUNG J6 (2018) SM-J600 FZDUSEE Gold DualSIM, 32GB/3GB, 13MP/8MP, 3000mAh",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-J6--2018--SM-J600-FZDUSEE-Gold-DualSIM",
+      "img": "https://www.neptun.mk/2018/07/02/j6gold_61c0cc09-dbb6-4457-a717-98ef0054a35f.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Exynos 7870 Octa ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SMARTPHONE SAMSUNG J6 (2018) SM-J600 FZVUSEE Orhid Gray DualSIM, 32GB/3GB, 13MP/8MP, 3000mAh",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-J6--2018--SM-J600-FZVUSEE-Orhid-Gray-DualSIM",
+      "img": "https://www.neptun.mk/2018/07/02/j6gray_0964dcb0-d983-45f2-9792-6d86758467d2.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480  pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 3000 mAh",
+        "memory": "32 GB up to 256 GB",
+        "chipset": "Exynos 7870 Octa ",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI P-SMART, 5,65\", 32/3GB, 13+2/8MP, 3000mAh, црн FIGO-L31",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P-SMART--FIGO-L31--Black",
+      "img": "https://www.neptun.mk/2018/02/13/1_16378e30-ad7f-4ed7-abbf-de376942550b.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "screen": "5.65 inches, 1080 x 2160 pixels",
+        "main_camera": "13MP,2MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 659 (16 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HUAWEI P-SMART, 5,65\", 32/3GB, 13+2/8MP, 3000mAh, златен FIGO-L31",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P-SMART--FIGO-L31--Gold",
+      "img": "https://www.neptun.mk/2018/02/13/1_2e74469c-ed49-4386-9f14-5376352bc916.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "screen": "5.65 inches, 1080 x 2160 pixels",
+        "main_camera": "13MP,2MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 659 (16 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Motorola ONE, 5,9\", 4/64GB, 13+2/8MP, 3000mAh, DS White, XT1941-4",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Motorola-ONE--XT1941-4--4-64GB-DS-White",
+      "img": "https://www.neptun.mk/2018/11/22/Motorola_One-White-Laydown_combo_a23c3556-5eba-4d94-bc8e-2495266427bc.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.9 inches, 720 x 1520 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Motorola ONE, 5,9\", 4/64GB, 13+2/8MP, 3000mAh, DS Black, XT1941-4",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Motorola-ONE--XT1941-4--4-64GB-DS-Black",
+      "img": "https://www.neptun.mk/2018/11/02/Motorola_One-Black-Laydown_combo_065b4226-353f-4cb9-92f2-7f5de594b055.jpg?width=192",
+      "price": "12.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.9 inches, 720 x 1520 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi MI A2 Lite 5.84\", 4/64GB, dual12MP/5MP, 4000mAh Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-MI-A2-Lite-64GB-Black",
+      "img": "https://www.neptun.mk/2018/08/31/mi-a2-lite-dual-sim-64gb-lte-4g-negru-4gb-ram_10055710_3_1532003387_b83877cd-bb5d-4e4e-9eac-c2ea4e44c73e.jpg?width=192",
+      "price": "13.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 4000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Mi A2 Lite, 5.84\", 64/4GB, 12/5MP, 4000mAh, DS, Gold",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Mi-A2-Lite-4-64-EU-DS-Gold",
+      "img": "https://www.neptun.mk/2018/10/06/mia2litegold_d723b3b1-58c7-45d8-95ea-2d2af22df714.jpg?width=192",
+      "price": "13.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 2.0 GHz Cortex-A53",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 4000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm MSM8953 Snapdragon 625",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Motorola Moto G6, 5.7\", 32/3GB, 12+5/8MP, 3000mAh (XT1925-5), Indigo",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Motorola-Moto-G6--XT1925-5--3-32-DS-Deep-Indigo",
+      "img": "https://www.neptun.mk/2018/07/07/motog6_indigo_a9e0317a-400a-40ca-a2a0-7123618a5777.jpg?width=192",
+      "price": "13.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.8 GHz Cortex-A53",
+        "screen": "5.7 inches, 1080 x 2160 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "8MP or 16MP",
+        "battery": "Li-Po 3000 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi Note 6 Pro (E7T) 4/64GB, 12+5/20+2MP, 4000mAh Blue EU DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-6-Pro--E7T--4-64GB-Blue-EU-DS",
+      "img": "https://www.neptun.mk/2019/02/21/album_1538201523_M61_611768f5-94b6-4431-8d80-1c4eaf595e92.png?width=192",
+      "price": "14.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.8 GHz Kryo 260",
+        "screen": "6.26 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "20MP",
+        "battery": "Li-Po 4000 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Redmi Note 6 Pro (E7T) 6.26\", 4/64GB, 12+5/20+2MP, 4000mAh Black EU DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-6-Pro--E7T--4-64GB-Black-EU-DS",
+      "img": "https://www.neptun.mk/2019/01/31/62332899_2413382244.jpg?width=192",
+      "price": "14.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core 1.8 GHz Kryo 260",
+        "screen": "6.26 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "20MP",
+        "battery": "Li-Po 4000 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P-Smart 2019 (Potter-L21) 6.21\", 64/3GB, 13+2/8MP, 3400mAh Dual SIM Blue",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P-Smart-2019--Potter-L21--Dual-SIM-Blue",
+      "img": "https://www.neptun.mk/2019/01/31/p_smart_2019_blue_83e902e0-ef04-4a90-8c6d-f953631f80c4.jpg?width=192",
+      "price": "15.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.21 inches, 1080 x 2340 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Hisilicon Kirin 710",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P-Smart 2019 6.21\", 3/64GB, 13+2/8MP, 3400mAh (Potter-L21) Dual SIM Twilight",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P-Smart-2019--Potter-L21--Dual-SIM-Twilight",
+      "img": "https://www.neptun.mk/2019/02/09/p_smart_2019_twillight_a3fefecf-6cb5-4140-a9da-f4537022adaa.jpg?width=192",
+      "price": "15.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.21 inches, 1080 x 2340 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Hisilicon Kirin 710",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P-Smart 2019 (Potter-L21) 6.21\", 64/3GB, 13+2/8MP, 3400mAh Dual SIM Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P-Smart-2019--Potter-L21--Dual-SIM-Black",
+      "img": "https://www.neptun.mk/2019/01/31/p_smart_2019_black_3c0111f7-1444-4f21-aa78-07390675cda4.jpg?width=192",
+      "price": "15.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.21 inches, 1080 x 2340 pixels",
+        "main_camera": "13MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Hisilicon Kirin 710",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HONOR 10 lite 6.21\", 32/3GB, 13+2/24MP, 3400mAh Blue Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-10-lite-32GB-Blue-Dual-SIM",
+      "img": "https://www.neptun.mk/2019/03/07/02471261_44ff03bf-32b4-4b6f-9453-097fd4197bd5.jpg?width=192",
+      "price": "15.999",
+      "specifiSions": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.21 inches, 1080 x 2340 pixels",
+        "main_camera": "13MP,2MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Hisilicon Kirin 710 (12 nm)",
+        "os": "Android 9.0 "
+      }
+    },
+    {
+      "name": "HONOR 10 lite 6.21\", 32/3GB, 13+2/24MP, 3400mAh Black Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-10-lite-32GB-Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2019/03/06/02471266_f58cf112-bb9c-40a9-a898-73a4b68b2850.jpg?width=192",
+      "price": "15.999",
+      "specifiSions": {
+        "ram": "3 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.21 inches, 1080 x 2340 pixels",
+        "main_camera": "13MP,2MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "32 GB, up to 512 GB",
+        "chipset": "Hisilicon Kirin 710 (12 nm)",
+        "os": "Android 9.0 "
+      }
+    },
+    {
+      "name": "SAMSUNG A6 (2018), 5.6\", 32/3GB, 16/16MP, 3000mAh, SM-A600 FZDNSEE Gold DualSIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-A6--2018--SM-A600-FZDNSEE-Gold-DualSIM",
+      "img": "https://www.neptun.mk/2019/02/19/a62018gold.jpg?width=192",
+      "price": "16.999",
+      "specifiSions": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480 pixels",
+        "main_camera": "16MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Exynos 7870 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A6 (2018), 5.6\", 32/3GB, 16/16, 3000mAh, сив, DualSIM SM-A600 FZVNSEE Orhid Gray",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-A6--2018--SM-A600-FZVNSEE-Orhid-Gray-DualSIM",
+      "img": "https://www.neptun.mk/2019/02/19/a62018orchid.jpg?width=192",
+      "price": "16.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480 pixels",
+        "main_camera": "16MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Exynos 7870 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A6 (2018), 5.6\", 32/3GB, 16/16MP, 3000mAh, црн, DualSIM SM-A600 FZKNSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-A6--2018--SM-A600-FZKNSEE-Black-DualSIM",
+      "img": "https://www.neptun.mk/2019/02/19/a62018black.jpg?width=192",
+      "price": "16.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "screen": "5.6 inches, 720 x 1480 pixels",
+        "main_camera": "16MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Exynos 7870 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Xiaomi MI A2 EU, 5.99\", 64/4GB, 20+12/20MP, 3000mAh, Gold",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-MI-A2-EU-64GB-Gold",
+      "img": "https://www.neptun.mk/2018/10/10/Xiaomi-Mi-A2-5-99-Inch-4GB-64GB-Smartphone-Gold-691698-_9b1f035d-a648-46a8-b860-59b5b264dd6e.jpg?width=192",
+      "price": "16.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "5.99 inches, 1080 x 2160 pixels",
+        "main_camera": "20MP,12MP",
+        "selfie_camera": "20MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Mi A2, 5.99\", 64/4GB, 20+12/20MP, 4000mAh, DS, Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Mi-A2-4-64-EU-DS-Black",
+      "img": "https://www.neptun.mk/2018/10/06/mia2black_356cf58e-74db-469b-bc04-ce7f2425a4fd.jpg?width=192",
+      "price": "16.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "5.99 inches, 1080 x 2160 pixels",
+        "main_camera": "20MP,12MP",
+        "selfie_camera": "20MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Mi 8 Lite Midnight (D2T) 6.26\", 4/64GB, 12+5/24MP, 3350mAh Blue EU DualSIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Mi-8-Lite-Midnight--D2T--4-64-Blue-EU-DS",
+      "img": "https://www.neptun.mk/2019/02/18/65198265_3813061059.jpg?width=192",
+      "price": "17.499",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "6.26 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3350 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Xiaomi Mi 8 Lite (D2T) 6.26\", 64/4GB, 12+5/24MP, 3350mAh Black EU DualSim",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Mi-8-Lite-Midnight--D2T--4-64-Black-EU-DS",
+      "img": "https://www.neptun.mk/2019/01/31/Xiaomi-Mi-8-Lite-6-26-Inch-4GB-64GB-Smartphone-Gray-736292-_78acf6fb-6e57-4f4d-bfca-f6790d2ba187.jpg?width=192",
+      "price": "17.499",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "6.26 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3350 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20 Lite, 5.84\", 64/4GB, 16+2/16MP, 3000mAh, црн Anne-L21",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20-Lite--Anne-L21--Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/05/25/53706298_8323617819.jpg?width=192",
+      "price": "18.799",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "16MP,2MP",
+        "selfie_camera": "16MP,24MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 659",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "HONOR 8X 6.5\", 64/4GB, 20+2/16MP, 3750mAh Black Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-8X-64GB-Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2019/03/06/02471220_f2df707c-84c5-4b9a-8304-c07da208006a.jpg?width=192",
+      "price": "19.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.5 inches, 1080 x 2340 pixels",
+        "main_camera": "20MP,2MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3750 mAh",
+        "memory": "64 GB, up to 400 GB",
+        "chipset": "Hisilicon Kirin 710 (12 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HONOR 8X 6.5\", 64/4GB, 20+2/16MP, 3750mAh Blue Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-8X-64GB-Blue-Dual-SIM",
+      "img": "https://www.neptun.mk/2019/03/07/02471221_bc2eb750-d5cf-480b-841c-782ae8f5f962.jpg?width=192",
+      "price": "19.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+        "screen": "6.5 inches, 1080 x 2340 pixels",
+        "main_camera": "20MP,2MP",
+        "selfie_camera": "16MP",
+        "battery": "Li-on 3750 mAh",
+        "memory": "64 GB, up to 400 GB",
+        "chipset": "Hisilicon Kirin 710 (12 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20 Lite (Sydney M-L21) 6.3\", 4/64GB, 20+2/24+2MP, 3750mAh, Dual SIM, Blue",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20-Lite--Sydney-M-L21--Dual-SIM-Blue",
+      "img": "https://www.neptun.mk/2018/10/02/61154195_3178899692.jpg?width=192",
+      "price": "21.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53",
+        "screen": "6.30 inches, 1080 x 2340 pixels",
+        "main_camera": "Dual 20MP + 2MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3750 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 710",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20 Lite (Sydney M-L21) 6.3\", 4/64GB, 20+2/24+2MP, 3750mAh, Dual SIM, Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20-Lite--Sydney-M-L21--Dual-SIM-Black",
+      "img": "https://www.neptun.mk/2018/09/19/SydneyM_Product_Image_KSP_angle_Black_Final_with_UI_20180730_edited_42e933bb-e7a3-48f8-8c6b-245c2e3f9705.jpg?width=192",
+      "price": "21.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53",
+        "screen": "6.30 inches, 1080 x 2340 pixels",
+        "main_camera": "Dual 20MP + 2MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3750 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 710",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20 Lite (Sydney M-L21) 6.3\", 4/64GB, 20+2/24+2MP, 3750mAh, Dual SIM, Gold",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20-Lite--Sydney-M-L21--Dual-SIM-Gold",
+      "img": "https://www.neptun.mk/2018/09/27/SydneyM_Product_Image_KSP_angle_Gold_Final_with_UI_20180730_edited_929ecfcc-fa48-4127-b797-d86c4f71e755.jpg?width=192",
+      "price": "21.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core 4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53",
+        "screen": "6.30 inches, 1080 x 2340 pixels",
+        "main_camera": "Dual 20MP + 2MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3750 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 710",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG A7 (2018) SM-A750 FZDUSEE 6.0\", 64/4GB, 24+8+5/24MP, 3300mAh Gold DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-A7--2018--SM-A750-FZDUSEE-Gold-DS",
+      "img": "https://www.neptun.mk/2018/10/19/SM-A750F_004_L-Perspective_Gold_1fbf6500-7eb1-4fff-9dab-ce7b69c6bce3.jpg?width=192",
+      "price": "22.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+        "screen": "6.0 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP.5MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-Po 3300 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 7885 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A7 (2018) SM-A750 FZKUSEE 6.0\", 64/4GB, 24+8+5/24MP, 3300mAh Black DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-A7--2018--SM-A750-FZKUSEE-Black-DS",
+      "img": "https://www.neptun.mk/2018/10/19/SM-A750F_003_R-Perspective_Black_637abd11-0f33-4984-97bf-834493be7f8c.jpg?width=192",
+      "price": "22.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+        "screen": "6.0 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP.5MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-Po 3300 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 7885 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A7 (2018) SM-A750 FZKUSEE 6.0\", 64/4GB, 24+8+5/24MP, 3300mAh Blue DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-A7--2018--SM-A750-FZKUSEE-Blue-DS",
+      "img": "https://www.neptun.mk/2018/10/19/SM-A750F_003_R-Perspective_Blue_4131c417-9e6a-436e-ba45-5a014ae048aa.jpg?width=192",
+      "price": "22.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+        "screen": "6.0 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP,5MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-Po 3300 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 7885 Octa",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Xiaomi POCOPHONE F1, 6.18\", 64/6GB, 12+5/20MP, 4000mAh, Graphite Black DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-POCOPHONE-F1-6-64-EU-DS-Graphite-Black",
+      "img": "https://www.neptun.mk/2018/10/11/51veLBym4iL._SX679__d6a9f2fb-f29e-4d0d-a078-a64d41c74aa6.jpg?width=192",
+      "price": "23.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+        "screen": "6.18 inches, 1080 x 2246 pixels",
+        "main_camera": "12MP,5MP",
+        "selfie_camera": "20MP",
+        "battery": "Li-Po 4000 mAh",
+        "memory": "64 GB, up to 256 GB",
+        "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "Apple iPhone 6 s, 4.7\", 32/2GB, 12/5MP, 1715mAh, Silver mn0x2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/iPhone-6s-32GB-Silver-mn0x2cn-a",
+      "img": "https://www.neptun.mk/2018/11/15/image_0262912a-dabc-40ae-97e8-85727df728ff.jpg?width=192",
+      "price": "24.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Dual-core 1.84 GHz Twister",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 1715 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Apple A9 (14 nm)",
+        "os": "iOS 9"
+      }
+    },
+    {
+      "name": "Apple iPhone 6 s, 4.7\", 32/2GB, 12/5MP, 1715mAh, Gold mn112cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/iPhone-6s-32GB-Gold-mn112cn-a",
+      "img": "https://www.neptun.mk/2018/11/15/6-gold_cf4283cc-d504-4633-8898-6e042520bf72.png?width=192",
+      "price": "24.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Dual-core 1.84 GHz Twister",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 1715 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Apple A9 (14 nm)",
+        "os": "iOS 9"
+      }
+    },
+    {
+      "name": "Apple iPhone 6 s, 4.7\", 32/2GB, 12/5MP, 1715mAh, Rose Gold mn122cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/iPhone-6s-32GB-Rose-Gold-mn122cn-a",
+      "img": "https://www.neptun.mk/2018/11/15/iPhone_6s_Gold_12_26f444e0-0b0f-4516-9245-990f54526f2e.jpg?width=192",
+      "price": "24.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Dual-core 1.84 GHz Twister",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 1715 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Apple A9 (14 nm)",
+        "os": "iOS 9"
+      }
+    },
+    {
+      "name": "Apple iPhone 6 s, 4.7\", 32/2GB, 12/5MP, 1715mAh, Space Gray",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-6s-32GB-Space-Gray",
+      "img": "https://www.neptun.mk/2018/10/10/l_10151585_002_97cd59dd-8830-4371-9c77-209e79be47c2.jpg?width=192",
+      "price": "24.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Dual-core 1.84 GHz Twister",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "5MP",
+        "battery": "Li-Po 1715 mAh",
+        "memory": "32 GB, up to 256 GB",
+        "chipset": "Apple A9 (14 nm)",
+        "os": "iOS 9"
+      }
+    },
+    {
+      "name": "HONOR 10 5.84\", 64/4GB, 16+24/24MP, 3400mAh Blue Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-10-64GB-Blue-Dual-SIM",
+      "img": "https://www.neptun.mk/2019/03/06/02471173_1d7bc8e8-cfc0-4c87-94c7-2be5c2c7d067.jpg?width=192",
+      "price": "27.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "24MP,16MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-Po 3400 mAh",
+        "memory": "64 GB",
+        "chipset": "Hisilicon Kirin 970 (10 nm)",
+        "os": "Android 8.1 "
+      }
+    },
+    {
+      "name": "HONOR 10 5.84\", 64/4GB, 16+24/24MP, 3400mAh Black Dual SIM",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-10-64GB-Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2019/03/07/honor-10-dual-sim-en-negro-de-64gb-y-4gb-ram_d8759696-7523-4c1b-ae3b-390f09a0b01d.jpg?width=192",
+      "price": "27.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.84 inches, 1080 x 2280 pixels",
+        "main_camera": "24MP,16MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-Po 3400 mAh",
+        "memory": "64 GB",
+        "chipset": "Hisilicon Kirin 970 (10 nm)",
+        "os": "Android 8.1 "
+      }
+    },
+    {
+      "name": "HUAWEI P20, 5.8\", 64/4GB, 20+12/24MP, 3400mAh, Twilight Emily-L29C",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20-4-64GB--Emily-L29B--Twilight",
+      "img": "https://www.neptun.mk/2019/03/21/huawei-p20-128gb-dual-sim-twilight_ac564348-30b0-4c86-87dc-69246d69d9d2.jpg?width=192",
+      "price": "28.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.8 inches, 1080 x 2240 pixels",
+        "main_camera": "12MP,20MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20, 5.8\", 128/4GB, 20+12/24MP, 3400mAh, син Emily-L29C",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20--Emily-L29C--Blue-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/05/25/54437101_6002647765.jpg?width=192",
+      "price": "31.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.8 inches, 1080 x 2240 pixels",
+        "main_camera": "12MP,20MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20, 5.8\", 128/4GB, 20+12/24MP, 3400mAh, црн Emily-L29C",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20--Emily-L29C--Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/04/04/1_bba80bd4-e1a3-4f49-95fe-a50e184bcd1b.jpg?width=192",
+      "price": "31.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.8 inches, 1080 x 2240 pixels",
+        "main_camera": "12MP,20MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20, 5.8\", 128/4GB, 20+12/24MP, 3400mAh, розев Emily-L29C",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20--Emily-L29C--Pink-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/04/14/1_a6428aa4-8068-4edd-914a-6180d3f31c5f.jpg?width=192",
+      "price": "31.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "5.8 inches, 1080 x 2240 pixels",
+        "main_camera": "12MP,20MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20, 6.53\", 128/4GB, 12+16+8/24MP, 4000mAh, Dual SIM, Blue (Hima-L29CA)",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20--Hima-L29CA--Dual-SIM-Blue",
+      "img": "https://www.neptun.mk/2018/11/12/1139939.jpg?width=192",
+      "price": "36.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.53 inches, 1080 x 2244 pixels",
+        "main_camera": "12MP,16MP,8MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 980 (7 nm)",
+        "os": "Android 9.0 "
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20, 6.53\", 128/4GB, 12+16+8/24MP, 4000mAh, Dual SIM, Black, (Hima-L29CA)",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-HUAWEI-Mate-20--Hima-L29CA--Dual-SIM-Black",
+      "img": "https://www.neptun.mk/2018/10/23/mate20_black_00.jpg?width=192",
+      "price": "36.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.53 inches, 1080 x 2244 pixels",
+        "main_camera": "12MP,16MP,8MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 980 (7 nm)",
+        "os": "Android 9.0 "
+      }
+    },
+    {
+      "name": "SAMSUNG S9 DS Gold, 5.8\", 64/4GB, Dual 12/8MP, 3000mAh, SM-G960FZKDSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S9--SM-G960-FZDDSEE--DS-Gold",
+      "img": "https://www.neptun.mk/2018/07/02/s9gold_9782432b-561e-4c5f-bc84-53930ce7dbd2.jpg?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S9, 5.8\", 64/4GB, Dual 12/8MP, 3000mAh, син SM-G960FZBDSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S9--SM-G960-FZBDSEE--DS-Blue",
+      "img": "https://www.neptun.mk/2018/03/16/3_1ebee225-8de9-4105-a1d1-9c7e5dd84056.jpg?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S9, 5.8\", 64/4GB, Dual 12/8MP, 3000mAh, пурпурна SM-G960FZPDSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S9--SM-G960-FZPDSEE--DS-Purple",
+      "img": "https://www.neptun.mk/2018/03/16/1_e5f429aa-e8f0-4cd9-8bfd-907b3516112e.jpg?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A9 (2018) 6.3\", 128/6GB, 24+8+5+10/24MP, 3720mAh SM-A920 FZIDSEE Pink DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-A9--2018--SM-A920-FZIDSEE-Pink-DS",
+      "img": "https://www.neptun.mk/2018/11/26/Samsung-Galaxy-A9-2018-128-GB-pink4G-LTE_15698526_e0ab34302844bd947d9cfc407ba28802.JPG?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "6.3 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP,5MP,10MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3720 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A9 (2018) 6.3\", 128/6GB, 24+8+5+10/24MP, 3720mAh SM-A920 FZBDSEE Blue DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-A9--2018--SM-A920-FZBDSEE-Blue-DS",
+      "img": "https://www.neptun.mk/2018/11/26/Samsung-Galaxy-A9-2018-128-GB-Blue-4G-LTE_15698526_e0ab34302844bd947d9cfc407ba28802.jpg?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "6.3 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP,5MP,10MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3720 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG A9 (2018) 6.3\", 128/6GB, 24+8+5+10/24MP, 3720mAh SM-A920 FZKDSEE Black DS",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-A9--2018--SM-A920-FZKDSEE-Black-DS",
+      "img": "https://www.neptun.mk/2018/11/26/galaxy-a9-a920-sm-a9200zkdtgy-black-128211306.jpg?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+        "screen": "6.3 inches, 1080 x 2220 pixels",
+        "main_camera": "24MP,8MP,5MP,10MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 3720 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S9, 5.8\", 64/4GB, Dual 12/8MP, 3000mAh, црн SM-G960FZKDSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S9--SM-G960-FZKDSEE--DS-Black",
+      "img": "https://www.neptun.mk/2018/03/16/4_baacb6ef-a09e-468a-87f6-998c86ce0faf.jpg?width=192",
+      "price": "37.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3000 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Xiaomi Mi Mix 3 (E5) 6.39\", 128/6GB, 12+12/24+2MP, 3200mAh Onyx Black EU DualSim",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Mi-Mix-3--E5--6-128GB-Onyx-Black-EU-DS",
+      "img": "https://www.neptun.mk/2019/01/31/Xiaomi-Mi-Mix-3-6-39-Inch-6GB-128GB-Smartphone-Black-757111-_bdf016fe-2e53-4ee6-b56a-087fb0c4237d.jpg?width=192",
+      "price": "38.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+        "screen": "6.39 inches, 1080 x 2340 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "24MP,2MP",
+        "battery": "Li-on 3200 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S9 Plus (SM-G965 FZDDSEE) DS Gold, 6.2\", 64/6GB, Dual 12/8MP, 3500mAh,",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S9-Plus--SM-G965-FZDDSEE--DS-Gold",
+      "img": "https://www.neptun.mk/2019/01/31/gs9-plus-gold-render-3.jpg?width=192",
+      "price": "43.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "6.2 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-on 3500 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+        "os": "Android 8.0"
+      }
+    },
+    {
+      "name": "Apple iPhone 8, 4.7\", 64/2GB, 12/7MP, 1821mAh, Space Grey mq6g2aa/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-8-64GB-Space-Grey-mq6g2aa-a",
+      "img": "https://www.neptun.mk/2018/01/30/3_5ebbd48a-67a9-488d-8f40-582883c4b0fb.JPG?width=192",
+      "price": "43.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 1821 mAh",
+        "memory": "64 GB",
+        "chipset": "Apple A11 Bionic (10 nm)",
+        "os": "iOS 11"
+      }
+    },
+    {
+      "name": "HUAWEI P30 6.1\"(2340x1080), 6/128GB, 40+16+8/32MP, 3650mAh (ELE-L29B) Dual SIM Breathing Crystal",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-HUAWEI-P30-6-128GB--ELE-L29B--Dual-SIM-Breathing-Crystal",
+      "img": "https://www.neptun.mk/2019/03/27/p30_Elle_Blue_.jpg?width=192",
+      "price": "44.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.1 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,16MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 3650 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P30 6.1\"(2340x1080), 6/128GB, 40+16+8/32MP, 3650mAh (ELE-L29B) Dual SIM Aurora Blue",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-HUAWEI-P30-6-128GB--ELE-L29B--Dual-SIM-Aurora-Blue",
+      "img": "https://www.neptun.mk/2019/03/27/p30_Elle_Aurora_.jpg?width=192",
+      "price": "44.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.1 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,16MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 3650 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P30 6.1\"(2340x1080), 6/128GB, 40+16+8/32MP, 3650mAh (ELE-L29B) Dual SIM Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-HUAWEI-P30-6-128GB--ELE-L29B--Dual-SIM-Black",
+      "img": "https://www.neptun.mk/2019/03/27/p30_Elle_Black_.jpg?width=192",
+      "price": "44.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.1 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,16MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 3650 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P20 Pro, 6.1\", 128/6GB, 40+20+8/24MP, 4000mAh, син Charlotte-L29C",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20-Pro--Charlotte-L29C--Blue-Dual-SIM-",
+      "img": "https://www.neptun.mk/2018/04/24/1_dbd9ddf2-9246-4544-a16b-b4fba8e5abd1.jpeg?width=192",
+      "price": "46.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "6.1 inches, 1080 x 2240 pixels",
+        "main_camera": "40MP,20MP,8MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "HUAWEI P20 Pro, 6.1\", 128/6GB, 40+20+8/24MP, 4000mAh, црн Charlotte-L29C",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P20-Pro--Charlotte-L29C--Black-Dual-SIM",
+      "img": "https://www.neptun.mk/2018/04/24/1_28ccfbd4-8471-4307-898e-1024750b21d2.jpeg?width=192",
+      "price": "46.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+        "screen": "6.1 inches, 1080 x 2240 pixels",
+        "main_camera": "40MP,20MP,8MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4000 mAh",
+        "memory": "128 GB",
+        "chipset": "Hisilicon Kirin 970",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG Note8, 6.3\", 64/6GB, Dual 12/8MP, 3300mAh, златен SM-N950FZKDSEE",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Note-8-SM-N950-FZDDSEE-DS-Gold",
+      "img": "https://www.neptun.mk/2018/11/30/note8g.jpg?width=192",
+      "price": "47.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEA",
+        "screen": "6.3 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP, 12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Po 3300 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Exynos 8895 Octa (10 nm) - EMEA",
+        "os": "Android 7.1.1"
+      }
+    },
+    {
+      "name": "SAMSUNG S10e 5.8\", 6GB/128GB, 12+16/10, 3100mAh (SM-G970FZWDSEE) White",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10e-6GB-128GB--SM-G970FZWDSEE--White",
+      "img": "https://www.neptun.mk/2019/03/18/SAMSUNG_S10e_6GB_128GB__SM-G970FZWDSEE__White.jpg?width=192",
+      "price": "48.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,16MP",
+        "selfie_camera": "10MP",
+        "battery": "Li-on 3100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S10e 5.8\", 6GB/128GB, 12+16/10, 3100mAh (SM-G970FZGDSEE) Green",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10e-6GB-128GB--SM-G970FZGDSEE--Green",
+      "img": "https://www.neptun.mk/2019/03/18/SAMSUNG_S10e_6GB_128GB__SM-G970FZGDSEE__Green.jpg?width=192",
+      "price": "48.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,16MP",
+        "selfie_camera": "10MP",
+        "battery": "Li-on 3100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S10e 5.8\", 6GB/128GB, 12+16/10, 3100mAh (SM-G970FZKDSEE) Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10e-6GB-128GB--SM-G970FZKDSEE--Black",
+      "img": "https://www.neptun.mk/2019/03/18/SAMSUNG_S10e_6GB_128GB__SM-G970FZKDSEE__Black.jpg?width=192",
+      "price": "48.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,16MP",
+        "selfie_camera": "10MP",
+        "battery": "Li-on 3100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S10e 5.8\", 6GB/128GB, 12+16/10, 3100mAh (SM-G970FZYDSEE) Yellow",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10e-6GB-128GB--SM-G970FZYDSEE--Yellow",
+      "img": "https://www.neptun.mk/2019/03/18/SAMSUNG_S10e_6GB_128GB__SM-G970FZYDSEE__Yellow.jpg?width=192",
+      "price": "48.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "5.8 inches, 1080 x 2280 pixels",
+        "main_camera": "12MP,16MP",
+        "selfie_camera": "10MP",
+        "battery": "Li-on 3100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "Apple iPhone 7 Plus 5.5\", 128/3GB, 12+12/7MP, 2900mAh Black mn4m2aa/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-7-Plus-128GB-Black-mn4m2aa-a",
+      "img": "https://www.neptun.mk/2019/02/09/1_61f1be5c-259f-463a-9d57-989d4249a4c8.jpg?width=192",
+      "price": "48.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
+        "screen": "5.5 inches, 1080 x 1920 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2900 mAh",
+        "memory": "128 GB",
+        "chipset": "Apple A10 Fusion (16 nm)",
+        "os": "iOS 10.0.1"
+      }
+    },
+    {
+      "name": "HUAWEI P30 Pro 6.47\"(2340x1080), 40+20+8+TOF3D/32MP, 6/128GB, 4200mAh (VOG-L29B) Dual SIM Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P30-Pro-6-128GB--VOG-L29B--Dual-SIM-Black",
+      "img": "https://www.neptun.mk/2019/03/27/p30_pro_Vogue_Black_ba83eddf-a39b-4852-a007-527394c91e64.png?width=192",
+      "price": "57.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.47 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,20MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 980 (7 nm)",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI P30 Pro 6.47\"(2340x1080), 40+20+8+TOF3D/32MP, 6/128GB, 4200mAh (VOG-L29B) Dual SIM Breathing Crystal",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-P30-Pro-6-128GB--VOG-L29B--Dual-SIM-Breathing-Crystal",
+      "img": "https://www.neptun.mk/2019/03/28/p30_pro_Vogue_Blue.jpg?width=192",
+      "price": "57.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.47 inches, 1080 x 2340 pixels",
+        "main_camera": "40MP,20MP,8MP",
+        "selfie_camera": "32MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "HiSilicon Kirin 980 (7 nm)",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SMARTPHONE SAMSUNG S10 ",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10-8GB-128GB--SM-G973FZKDSEE--Black",
+      "img": "https://www.neptun.mk/2019/03/18/SAMSUNG_S10_8GB_128GB__SM-G973FZKDSEE__Black.jpg?width=192",
+      "price": "59.999",
+      "specifications": {
+        "ram": "8 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440x3040 pixels",
+        "main_camera": "12MP,12MP,16MP",
+        "selfie_camera": "10MP,8MP",
+        "battery": "Li-on 3400 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "Apple iPhone 8, 4.7\", 256/2GB, 12/7MP, 1821mAh, Space Grey mq7c2aa/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-8-256GB-Space-Grey-mq7c2aa-a",
+      "img": "https://www.neptun.mk/2018/01/30/3_b0e9f766-3645-4cdf-8c62-e8b452653075.JPG?width=192",
+      "price": "59.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 1821 mAh",
+        "memory": "64 GB",
+        "chipset": "Apple A11 Bionic (10 nm)",
+        "os": "iOS 11"
+      }
+    },
+    {
+      "name": "Apple iPhone 8, 4.7\", 256/2GB, 12/7MP, 1821mAh, сребрена mq7d2aa/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-8-256GB-Silver-mq7d2aa-a",
+      "img": "https://www.neptun.mk/2018/01/30/2_c72d2a8e-8b53-4368-9a8a-9523aa308786.jpg?width=192",
+      "price": "59.999",
+      "specifications": {
+        "ram": "2 GB",
+        "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "screen": "4.7 inches, 750 x 1334 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 1821 mAh",
+        "memory": "64 GB",
+        "chipset": "Apple A11 Bionic (10 nm)",
+        "os": "iOS 11"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20 PRO (Laya-L29C) 6.4\", 128/6GB, 40+20+8/24MP, 4200mAh, Dual SIM, Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20-PRO--Laya-L29C--Dual-SIM-Black",
+      "img": "https://www.neptun.mk/2018/11/13/62351451_8419004087.jpg?width=192",
+      "price": "59.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.39 inches, 1440 x 3120 pixels",
+        "main_camera": "40MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20 PRO (Laya-L29C) 6.4\", 128/6GB, 40+20+8/24MP, 4200mAh, Dual SIM, Twilight",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20-PRO--Laya-L29C--Dual-SIM-Twilight",
+      "img": "https://www.neptun.mk/2019/01/14/1157086-1024x768.jpg?width=192",
+      "price": "59.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.39 inches, 1440 x 3120 pixels",
+        "main_camera": "40MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "HUAWEI Mate 20 PRO (Laya-L29C) 6.4\", 128/6GB, 40+20+8/24MP, 4200mAh, Dual SIM, Blue",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HUAWEI-Mate-20-PRO--Laya-L29C--Dual-SIM-Blue",
+      "img": "https://www.neptun.mk/2018/11/21/HUAWEI-Mate-20-Pro-6-39-Inch-8GB-256GB-Smartphone-Sapphire-Blue-751900-.jpg?width=192",
+      "price": "59.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+        "screen": "6.39 inches, 1440 x 3120 pixels",
+        "main_camera": "40MP",
+        "selfie_camera": "24MP",
+        "battery": "Li-on 4200 mAh",
+        "memory": "128 GB, up to 256 GB",
+        "chipset": "Hisilicon Kirin 980",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "Apple iPhone XR 64/3GB, 12/7MP, 2942mAh RED mry62cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XR-64GB-RED-MRY62AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXr_RED.jpg?width=192",
+      "price": "60.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.1 inches, 828 x 1792 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2942 mAh",
+        "memory": "128 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XR, 6.2\", 64/3GB, 12/7MP, 2942mAh, Blue MRYA2AA/A",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XR-64GB-Blue-MRYA2AA-A",
+      "img": "https://www.neptun.mk/2018/10/26/iPhoneXr_Blue.jpg?width=192",
+      "price": "60.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.1 inches, 828 x 1792 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2942 mAh",
+        "memory": "128 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XR 64GB64/3GB, 12/7MP, 2942mAh Black MRY42AA/A",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XR-64GB-Black-MRY42AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXr_Black.jpg?width=192",
+      "price": "60.999",
+      "specifications": {
+        "ram": "3 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.1 inches, 828 x 1792 pixels",
+        "main_camera": "12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2942 mAh",
+        "memory": "128 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "SAMSUNG Note 9 6.4\", 6/128GB, 8/Dual 12MP, 4000mAh, (SM-N960FZBDSEE) DS Blue",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Note-9--SM-N960FZBDSEE--DS-Blue",
+      "img": "https://www.neptun.mk/2018/11/30/note9blue.jpg?width=192",
+      "price": "63.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP 12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "128 GB up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG Note 9 6.4\", 6/128GB, 8/Dual 12MP, 4000mAh (SM-N960FZKDSEE) DS Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Note-9--SM-N960FZKDSEE--DS-Black",
+      "img": "https://www.neptun.mk/2018/11/30/note9black.jpg?width=192",
+      "price": "63.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP 12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "128 GB up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG Note 9 6.4\", 6/128GB, 8/Dual 12MP, 4000mAh, (SM-N960FZPDSEE) DS Purple",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Note-9--SM-N960FZPDSEE-DS--Purple",
+      "img": "https://www.neptun.mk/2018/11/30/n9_Purple_cr.jpg?width=192",
+      "price": "63.999",
+      "specifications": {
+        "ram": "6 GB",
+        "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440 x 2960 pixels",
+        "main_camera": "12MP 12MP",
+        "selfie_camera": "8MP",
+        "battery": "Li-Ion 4000 mAh",
+        "memory": "128 GB up to 512 GB",
+        "chipset": "Exynos 9810 Octa (10 nm) - EMEA ",
+        "os": "Android 8.1"
+      }
+    },
+    {
+      "name": "SAMSUNG S10+ 6.4\", 8GB/128GB, 12+12+16/10, 4100mAh (SM-G975FZGDSEE) Green",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10--8GB-128GB--SM-G975FZGDSEE--Green",
+      "img": "https://www.neptun.mk/2019/03/20/SMARTPHONE_SAMSUNG_S10__8GB_128GB_Green_0cb767cb-845c-413e-8186-a898e7b2c795.jpg?width=192",
+      "price": "65.999",
+      "specifications": {
+        "ram": "8 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440x3040 pixels",
+        "main_camera": "12MP,12MP,16MP",
+        "selfie_camera": "10MP,8MP",
+        "battery": "Li-on 4100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "SAMSUNG S10+ 6.4\", 8GB/128GB, 12+12+16/10, 4100mAh (SM-G975FZKDSEE) Black",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-S10--8GB-128GB--SM-G975FZKDSEE--Black",
+      "img": "https://www.neptun.mk/2019/03/18/SAMSUNG_S10__8GB_128GB__SM-G975FZKDSEE__Black.jpg?width=192",
+      "price": "65.999",
+      "specifications": {
+        "ram": "8 GB",
+        "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+        "screen": "6.4 inches, 1440x3040 pixels",
+        "main_camera": "12MP,12MP,16MP",
+        "selfie_camera": "10MP,8MP",
+        "battery": "Li-on 4100 mAh",
+        "memory": "128 GB, up to 512 GB",
+        "chipset": "Exynos 9820 Octa",
+        "os": "Android 9.0"
+      }
+    },
+    {
+      "name": "Apple iPhone XS 5.8\", 64/3GB, 12+12/7MP, 2658mAh, Silver mt9f2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-64GB-Silver-MT9F2AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXsMax_Silver2.jpg?width=192",
+      "price": "81.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS 5.8\", 64/3GB, 12+12/7MP, 2658mAh, Space Grey mt9e2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-64GB-Space-Grey-MT9E2AA-A",
+      "img": "https://www.neptun.mk/2018/10/26/iPhoneXsMax_SpaceGray.jpg?width=192",
+      "price": "81.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS 5.8\", 64/3GB, 12+12/7MP, 2658mAh, Gold mt9g2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-64GB-Gold-MT9G2AA-A",
+      "img": "https://www.neptun.mk/2018/10/26/iPhoneXsMax_Gold.jpg?width=192",
+      "price": "81.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS Max, 6.5\", 64/4GB, 12+12/7MP, 3174mAh, Silver mt512cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-Max-64GB-Silver-MT512AA-A",
+      "img": "https://www.neptun.mk/2018/10/26/iPhoneXsMax_Silver.jpg?width=192",
+      "price": "88.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.5 inches, 1242 x 2688 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 3174 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS Max, 6.5\", 64/4GB, 12+12/7MP, 3174mAh, Space Grey mt502cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-Max-64GB-Space-Grey-MT502AA-A",
+      "img": "https://www.neptun.mk/2018/10/26/iPhoneXsMax_SpaceGray1.jpg?width=192",
+      "price": "88.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.5 inches, 1242 x 2688 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 3174 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS Max, 6.5\", 64/4GB, 12+12/7MP, 3174mAh, Gold mt522cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-Max-64GB-Gold-MT522AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXsMax_Gold3.jpg?width=192",
+      "price": "88.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.5 inches, 1242 x 2688 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 3174 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS Max, 6.5\", 256/4GB, 12+12/7MP, 3174mAh, Space Grey mt532cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-Max-256GB-Space-Grey-MT532AA-A",
+      "img": "https://www.neptun.mk/2018/10/26/iPhoneXsMax_SpaceGray2.jpg?width=192",
+      "price": "99.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.5 inches, 1242 x 2688 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 3174 mAh",
+        "memory": "64 GB, up to 512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS 5.8\", 512/3GB, 12+12/7MP, 2658mAh, Space Grey mt9l2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-512GB-Space-Grey-MT9L2AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXsMax_SpaceGray4.jpg?width=192",
+      "price": "108.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS 5.8\", 512/3GB, 12+12/7MP, 2658mAh, Silver mt9m2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-512GB-Silver-MT9M2AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXsMax_Silver1.jpg?width=192",
+      "price": "108.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS 5.8\", 512/3GB, 12+12/7MP, 2658mAh, Gold mt9n2cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-512GB-Gold-MT9N2AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXsMax_Gold2.jpg?width=192",
+      "price": "108.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "5.8 inches, 1125 x 2436 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 2658 mAh",
+        "memory": "512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    },
+    {
+      "name": "Apple iPhone XS Max, 6.5\", 512/4GB, 12+12/7MP, 3174mAh, Space Grey mt562cn/a",
+      "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-XS-Max-512GB-Space-Grey-MT562AA-A",
+      "img": "https://www.neptun.mk/2018/10/27/iPhoneXsMax_SpaceGray5.jpg?width=192",
+      "price": "115.999",
+      "specifications": {
+        "ram": "4 GB",
+        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "screen": "6.5 inches, 1242 x 2688 pixels",
+        "main_camera": "12MP,12MP",
+        "selfie_camera": "7MP",
+        "battery": "Li-on 3174 mAh",
+        "memory": "512 GB",
+        "chipset": "Apple A12 Bionic",
+        "os": "iOS 12"
+      }
+    }
+  ]
+}

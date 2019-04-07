@@ -1,0 +1,1062 @@
+{
+ "ledikom": [
+  {
+   "name": "Samsung Galaxy M20",
+   "url": "https://ledikom.mk/device/475/samsung-galaxy-m20",
+   "img": "https://ledikom.mk/images/galaxym20-707843.jpg",
+   "price": "10.390",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+    "screen": "6.3 inches, 1080 x 2340 pixels",
+    "main_camera": "13MP,5MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-on 5000 mAh",
+    "memory": "64 GB, up to 400 GB",
+    "chipset": "Exynos 7904 (14 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Honor 8X",
+   "url": "https://ledikom.mk/device/474/honor-8x",
+   "img": "https://ledikom.mk/images/8x-277316.jpg",
+   "price": "13.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "screen": "6.5 inches, 1080 x 2340 pixels",
+    "main_camera": "20MP,2MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3750 mAh",
+    "memory": "64 GB, up to 400 GB",
+    "chipset": "Hisilicon Kirin 710 (12 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S10+",
+   "url": "https://ledikom.mk/device/469/samsung-galaxy-s10",
+   "img": "https://ledikom.mk/images/galaxys10-403031.jpg",
+   "price": "53.490",
+   "specifications": {
+    "ram": "8 GB",
+    "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+    "screen": "6.4 inches, AMOLED , 1440x3040 pixels",
+    "main_camera": "12MP,12MP,16MP",
+    "selfie_camera": "10MP,8MP",
+    "battery": "Li-on 4100 mAh",
+    "memory": "128 GB, up to 512 GB",
+    "chipset": "Exynos 9820 Octa",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S10",
+   "url": "https://ledikom.mk/device/463/samsung-galaxy-s10",
+   "img": "https://ledikom.mk/images/galaxys10-840743.jpg",
+   "price": "47.290",
+   "specifications": {
+    "ram": "8 GB",
+    "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+    "screen": "6.4 inches, AMOLED , 1440x3040 pixels",
+    "main_camera": "12MP,12MP,16MP",
+    "selfie_camera": "10MP,8MP",
+    "battery": "Li-on 4100 mAh",
+    "memory": "128 GB, up to 512 GB",
+    "chipset": "Exynos 9820 Octa",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S10e",
+   "url": "https://ledikom.mk/device/458/samsung-galaxy-s10e",
+   "img": "https://ledikom.mk/images/galaxys10e-921791.jpg",
+   "price": "41.190",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA",
+    "screen": "5.8 inches, 1080 x 2280 pixels",
+    "main_camera": "12MP,16MP",
+    "selfie_camera": "10MP",
+    "battery": "Li-on 3100 mAh",
+    "memory": "128 GB, up to 512 GB",
+    "chipset": "Exynos 9820 Octa",
+    "os": "Android 9.0"
+  }
+},
+  {
+   "name": "Huawei Nova 4",
+   "url": "https://ledikom.mk/device/455/huawei-nova-4",
+   "img": "https://ledikom.mk/images/nova4-261800.jpg",
+   "price": "31.980",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "screen": "6.4 inches, 1080 x 2310 pixels",
+    "main_camera": "48MP,16MP,2MP",
+    "selfie_camera": "25MP",
+    "battery": "Li-on 3750 mAh",
+    "memory": "128 GB",
+    "chipset": "Hisilicon Kirin 970 (10 nm)",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy M10",
+   "url": "https://ledikom.mk/device/456/samsung-galaxy-m10",
+   "img": "https://ledikom.mk/images/galaxym10-891549.jpg",
+   "price": "7.990",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "6.22 inches, 720 x 1520 pixels",
+    "main_camera": "13MP,5MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-on 3400 mAh",
+    "memory": "16 GB up to 512GB",
+    "chipset": "Exynos 7870 Octa (14 nm)",
+    "os": "Android 8.1"
+  }
+
+  },
+  {
+   "name": "Xiaomi Pocophone F1",
+   "url": "https://ledikom.mk/device/453/xiaomi-pocophone-f1",
+   "img": "https://ledikom.mk/images/pocophonef1-382532.jpg",
+   "price": "18.490",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+    "screen": "6.18 inches, 1080 x 2246 pixels",
+    "main_camera": "12MP,5MP",
+    "selfie_camera": "20MP",
+    "battery": "Li-Po 4000 mAh",
+    "memory": "64 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Xiaomi Mi 8 Lite",
+   "url": "https://ledikom.mk/device/451/xiaomi-mi-8-lite",
+   "img": "https://ledikom.mk/images/mi8lite-406096.jpg",
+   "price": "13.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "screen": "6.26 inches, 1080 x 2280 pixels",
+    "main_camera": "12MP,5MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-on 3350 mAh",
+    "memory": "64 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Xiaomi Mi A2 (Mi 6X)",
+   "url": "https://ledikom.mk/device/440/xiaomi-mi-a2-mi-6x",
+   "img": "https://ledikom.mk/images/mia2mi6x-127028.jpg",
+   "price": "10.990",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "screen": "5.99 inches, 1080 x 2160 pixels",
+    "main_camera": "20MP,12MP",
+    "selfie_camera": "20MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "64 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Huawei Y9",
+   "url": "https://ledikom.mk/device/439/huawei-y9-2018",
+   "img": "https://ledikom.mk/images/y92018-355565.jpg",
+   "price": "11.690",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "screen": "5.93 inches, 1080 x 2160 pixels",
+    "main_camera": "16MP,2MP",
+    "selfie_camera": "13MP",
+    "battery": "Li-on 4000 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "HiSilicon Kirin 659 (16 nm)",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J2 Core",
+   "url": "https://ledikom.mk/device/438/samsung-galaxy-j2-core",
+   "img": "https://ledikom.mk/images/galaxyj2core-193218.jpg",
+   "price": "5.490",
+   "specifications": {
+    "ram": "1 GB",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "screen": "5.0 inches, 540 x 960 pixels",
+    "main_camera": "8MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-on 4260 mAh",
+    "memory": "8 GB, up to 256 GB",
+    "chipset": "Exynos 7570 Quad (14 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Nokia 81(Nokia X7)",
+   "url": "https://ledikom.mk/device/437/nokia-81-nokia-x7",
+   "img": "https://ledikom.mk/images/8-335125.jpg",
+   "price": "24.590",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+    "screen": "5.0 inches, 540 x 960 pixels",
+    "main_camera": "12MP,13MP",
+    "selfie_camera": "20MP",
+    "battery": "Li-on 3500 mAh",
+    "memory": "64 GB, up to 400 GB",
+    "chipset": "Qualcomm SDM710 Snapdragon 710 (10 nm)",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Oneplus 6T McLaren",
+   "url": "https://ledikom.mk/device/436/oneplus-6t-mclaren",
+   "img": "https://ledikom.mk/images/6tmclaren-163550.jpg",
+   "price": "47.390",
+   "specifications": {
+    "ram": "10 GB",
+    "cpu": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+    "screen": "6.41 inches, 1080 x 2340 pixels",
+    "main_camera": "16MP,20MP",
+    "selfie_camera": "20MP",
+    "battery": "Li-on 3700 mAh",
+    "memory": "256 GB",
+    "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Huawei P Smart (2019)",
+   "url": "https://ledikom.mk/device/435/huawei-p-smart-2019",
+   "img": "https://ledikom.mk/images/psmart2019-835009.jpg",
+   "price": "13.290",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "screen": "6.21 inches, 1080 x 2340 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3400 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Hisilicon Kirin 710",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "OnePlus 6T",
+   "url": "https://ledikom.mk/device/434/oneplus-6t",
+   "img": "https://ledikom.mk/images/6t-702649.jpg",
+   "price": "31.990",
+   "specifications": {
+    "ram": "8 GB",
+    "cpu": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+    "screen": "6.41 inches, 1080 x 2340 pixels",
+    "main_camera": "16MP,20MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3700 mAh",
+    "memory": "256 GB",
+    "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Huawei Mate 20 Lite",
+   "url": "https://ledikom.mk/device/433/huawei-mate-20-lite",
+   "img": "https://ledikom.mk/images/mate20lite-842586.jpg",
+   "price": "17.190",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+    "screen": "6.18 inches, 1080 x 2246 pixels",
+    "main_camera": "12MP,5MP",
+    "selfie_camera": "20MP",
+    "battery": "Li-Po 4000 mAh",
+    "memory": "64 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Huawei Y9 (2019)",
+   "url": "https://ledikom.mk/device/432/huawei-y9-2019",
+   "img": "https://ledikom.mk/images/y92019-787754.jpg",
+   "price": "13.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "screen": "6.5 inches, 1080 x 2340 pixels",
+    "main_camera": "13MP,2MP",
+    "selfie_camera": "16MP,2MP",
+    "battery": "Li-on 4000 mAh",
+    "memory": "64 GB, up to 400 GB",
+    "chipset": "Hisilicon Kirin 710 (12 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A8 Star (A9 Star)",
+   "url": "https://ledikom.mk/device/429/samsung-galaxy-a8-star-a9-star",
+   "img": "https://ledikom.mk/images/galaxya8stara9star-453031.jpg",
+   "price": "20.290",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "screen": "6.3 inches, 1080 x 2220 pixels",
+    "main_camera": "24MP,16MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-Po 3700 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+    "os": "Android 8"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A9 (2018)",
+   "url": "https://ledikom.mk/device/418/samsung-galaxy-a9-2018",
+   "img": "https://ledikom.mk/images/galaxya92018-305473.jpg",
+   "price": "23.990",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "screen": "6.3 inches, 1080 x 2220 pixels",
+    "main_camera": "24MP,8MP,5MP,10MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-on 3720 mAh",
+    "memory": "128 GB, up to 512 GB",
+    "chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Huawei Mate 20 Pro",
+   "url": "https://ledikom.mk/device/393/huawei-mate-20-pro",
+   "img": "https://ledikom.mk/images/mate20pro-872041.jpg",
+   "price": "47.990",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+    "screen": "6.39 inches, 1440 x 3120 pixels",
+    "main_camera": "40MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-on 4200 mAh",
+    "memory": "128 GB, up to 256 GB",
+    "chipset": "Hisilicon Kirin 980",
+    "os": "Android 9.0"
+  }
+  },
+  {
+   "name": "Apple iPhone XR",
+   "url": "https://ledikom.mk/device/365/apple-iphone-xr",
+   "img": "https://ledikom.mk/images/iphonexr-844564.jpg",
+   "price": "40.590",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+    "screen": "6.1 inches, 828 x 1792 pixels",
+    "main_camera": "12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 2942 mAh",
+    "memory": "128 GB",
+    "chipset": "Apple A12 Bionic",
+    "os": "iOS 12"
+  }
+  },
+  {
+   "name": "Apple iPhone XS Max",
+   "url": "https://ledikom.mk/device/355/apple-iphone-xs-max",
+   "img": "https://ledikom.mk/images/iphonexsmax-947005.jpg",
+   "price": "58.390",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+    "screen": "6.5 inches, 1242 x 2688 pixels",
+    "main_camera": "12MP,12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 3174 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Apple A12 Bionic",
+    "os": "iOS 12"
+  }
+  },
+  {
+   "name": "Apple iPhone XS",
+   "url": "https://ledikom.mk/device/352/apple-iphone-xs",
+   "img": "https://ledikom.mk/images/iphonexs-891040.jpg",
+   "price": "55.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+    "screen": "5.8 inches, 1125 x 2436 pixels",
+    "main_camera": "12MP,12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 2658 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Apple A12 Bionic",
+    "os": "iOS 12"
+  }
+  },
+  {
+   "name": "Huawei P20 Lite",
+   "url": "https://ledikom.mk/device/322/huawei-p20-lite",
+   "img": "https://ledikom.mk/images/p20lite-861550.jpg",
+   "price": "14.150",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "screen": "5.84 inches, 1080 x 2280 pixels",
+    "main_camera": "16MP,2MP",
+    "selfie_camera": "16MP,24MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "64 GB, up to 256 GB",
+    "chipset": "Hisilicon Kirin 659",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Huawei P20 Pro",
+   "url": "https://ledikom.mk/device/329/huawei-p20-pro",
+   "img": "https://ledikom.mk/images/p20pro-746606.jpg",
+   "price": "32.590",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "screen": "6.1 inches, 1080 x 2240 pixels",
+    "main_camera": "40MP,20MP,8MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-on 4000 mAh",
+    "memory": "128 GB",
+    "chipset": "Hisilicon Kirin 970",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Huawei P8",
+   "url": "https://ledikom.mk/device/298/huawei-p8",
+   "img": "https://ledikom.mk/images/p8-365762.jpg",
+   "price": "13.490",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
+    "screen": "5.2 inches, 1080 x 1920 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-on 2680 mAh",
+    "memory": "16 up to 256 GB",
+    "chipset": "HiSilicon Kirin 930 (28 nm)",
+    "os": "Android 4.4.2 (KitKat)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy Note 9",
+   "url": "https://ledikom.mk/device/348/samsung-galaxy-note-9",
+   "img": "https://ledikom.mk/images/galaxynote9-103181.jpg",
+   "price": "38.190",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+    "screen": "6.4 inches, 1440 x 2960 pixels",
+    "main_camera": "12MP 12MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-Ion 4000 mAh",
+    "memory": "128 GB up to 512 GB",
+    "chipset": "Exynos 9810 Octa (10 nm) - EMEA ",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A7 (2018)",
+   "url": "https://ledikom.mk/device/382/samsung-galaxy-a7-2018",
+   "img": "https://ledikom.mk/images/galaxya72018-53113.jpg",
+   "price": "14.790",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+    "screen": "6.0 inches, 1080 x 2220 pixels",
+    "main_camera": "24MP,8MP.5MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-Po 3300 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Exynos 7885 Octa",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S9+",
+   "url": "https://ledikom.mk/device/251/samsung-galaxy-s9",
+   "img": "https://ledikom.mk/images/galaxys9-17118.jpg",
+   "price": "30.690",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+    "screen": "6.2 inches, 1440 x 2960 pixels",
+    "main_camera": "12MP,12MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-on 3500 mAh",
+    "memory": "128 GB, up to 512 GB",
+    "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S9",
+   "url": "https://ledikom.mk/device/247/samsung-galaxy-s9",
+   "img": "https://ledikom.mk/images/galaxys9-1004421.jpg",
+   "price": "28.290",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA",
+    "screen": "5.8 inches, 1440 x 2960 pixels",
+    "main_camera": "12MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "128 GB, up to 512 GB",
+    "chipset": "Exynos 9810 Octa (10 nm) - EMEA",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J6+",
+   "url": "https://ledikom.mk/device/294/samsung-galaxy-j6",
+   "img": "https://ledikom.mk/images/galaxyj6-185883.jpg",
+   "price": "9.490",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "screen": "6.0 inches, 720 x 1480 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-on 3300 mAh",
+    "memory": "32 GB, up to 512 GB",
+    "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J4+",
+   "url": "https://ledikom.mk/device/389/samsung-galaxy-j4",
+   "img": "https://ledikom.mk/images/galaxyj4-440496.jpg",
+   "price": "7.390",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "screen": "6.0 inches, 720 x 1480 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-Ion 3300 mAh",
+    "memory": "32 GB, up to 512 GB",
+    "chipset": "Qualcomm MSM8917 Snapdragon 425",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J4 Core",
+   "url": "https://ledikom.mk/device/386/samsung-galaxy-j4-core",
+   "img": "https://ledikom.mk/images/galaxyj4core-842736.jpg",
+   "price": "7.390",
+   "specifications": {
+    "ram": "1 GB",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "screen": "6.0 inches, 720 x 1480 pixels",
+    "main_camera": "8MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-Ion 3300 mAh",
+    "memory": "16 GB, up to 512 GB",
+    "chipset": "Qualcomm MSM8917 Snapdragon 425",
+    "os": "Android 8.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J8",
+   "url": "https://ledikom.mk/device/273/samsung-galaxy-j8",
+   "img": "https://ledikom.mk/images/galaxyj8-603787.jpg",
+   "price": "11.990",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "6.0 inches, 720 x 1480 pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-Ion 3500 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J6",
+   "url": "https://ledikom.mk/device/270/samsung-galaxy-j6",
+   "img": "https://ledikom.mk/images/galaxyj6-253546.jpg",
+   "price": "8.890",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.6 inches, 720 x 1480  pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-Ion 3000 mAh",
+    "memory": "32 GB up to 256 GB",
+    "chipset": "Exynos 7870 Octa ",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J4",
+   "url": "https://ledikom.mk/device/267/samsung-galaxy-j4",
+   "img": "https://ledikom.mk/images/galaxyj4-804552.jpg",
+   "price": "6.990",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "6.0 inches, 720 x 1480 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-Ion 3300 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A6+ (2018)",
+   "url": "https://ledikom.mk/device/259/samsung-galaxy-a6-2018",
+   "img": "https://ledikom.mk/images/galaxya62018-667496.jpg",
+   "price": "12.890",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.8 GHz Cortex-A53",
+    "screen": "6.0 inches, 1080 x 2220 pixels",
+    "main_camera": "16MP,5MP",
+    "selfie_camera": "24MP",
+    "battery": "Li-on 3500 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A6 (2018)",
+   "url": "https://ledikom.mk/device/255/samsung-galaxy-a6-2018",
+   "img": "https://ledikom.mk/images/galaxya62018-114881.jpg",
+   "price": "10.990",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.6 inches, 720 x 1480 pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "64 GB, up to 256 GB",
+    "chipset": "Exynos 7870 Octa",
+    "os": "Android 8.0"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A8+ (2018)",
+   "url": "https://ledikom.mk/device/226/samsung-galaxy-a8-2018",
+   "img": "https://ledikom.mk/images/galaxya82018-160850.jpg",
+   "price": "18.990",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+    "screen": "6.0 inches, 1080 x 2220 pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP,8MP",
+    "battery": "Li-on 3500 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Exynos 7885 (14 nm)",
+    "os": "Android 7.1.1 (Nougat)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A8 (2018)",
+   "url": "https://ledikom.mk/device/222/samsung-galaxy-a8-2018",
+   "img": "https://ledikom.mk/images/galaxya82018-747154.jpg",
+   "price": "16.590",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+    "screen": "5.6 inches, 1080 x 2220 pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP,8MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Exynos 7885 (14 nm)",
+    "os": "Android 7.1.1 (Nougat)"
+  }
+   
+  },
+  {
+   "name": "Samsung Galaxy Note 8",
+   "url": "https://ledikom.mk/device/217/samsung-galaxy-note-8",
+   "img": "https://ledikom.mk/images/galaxynote8-255756.jpg",
+   "price": "28.390",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEA",
+    "screen": "6.3 inches, 1440 x 2960 pixels",
+    "main_camera": "12MP, 12MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-Po 3300 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Exynos 8895 Octa (10 nm) - EMEA",
+    "os": "Android 7.1.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S8+",
+   "url": "https://ledikom.mk/device/194/samsung-galaxy-s8",
+   "img": "https://ledikom.mk/images/galaxys8-997923.jpg",
+   "price": "23.390",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEA",
+    "screen": "6.2 inches, 1440 x 2960 pixels",
+    "main_camera": "12MP, 12MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-Po 3500 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Exynos 8895 Octa (10 nm) - EMEA",
+    "os": "Android 7.0 (Nougat)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy S8",
+   "url": "https://ledikom.mk/device/189/samsung-galaxy-s8",
+   "img": "https://ledikom.mk/images/galaxys8-1002042.jpg",
+   "price": "21.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEA",
+    "screen": "5.8 inches, 1440 x 2960 pixels",
+    "main_camera": "12MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-Po 3000 mAh",
+    "memory": "64 GB, up to 512 GB",
+    "chipset": "Exynos 8895 Octa (10 nm) - EMEA",
+    "os": "Android 7.0 (Nougat)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J2 Pro (2018)",
+   "url": "https://ledikom.mk/device/232/samsung-galaxy-j2-pro-2018",
+   "img": "https://ledikom.mk/images/galaxyj2pro2018-299772.jpg",
+   "price": "6.790",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "screen": "5.0 inches, 540 x 960 pixels",
+    "main_camera": "8MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-Po 2600 mAh",
+    "memory": "16 GB, up to 256 GB",
+    "chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+    "os": "Android 7.1 (Nougat)"
+  }
+  },
+  {
+   "name": "Apple iPhone X",
+   "url": "https://ledikom.mk/device/77/apple-iphone-x",
+   "img": "https://ledikom.mk/images/iphonex-360327.jpg",
+   "price": "47.290",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
+    "screen": "5.8 inches, 1125 x 2436 pixels",
+    "main_camera": "12MP,12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 2716 mAh",
+    "memory": "64 GB",
+    "chipset": "Apple A11 Bionic (10 nm)",
+    "os": "iOS 11.1.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J7 Duo",
+   "url": "https://ledikom.mk/device/243/samsung-galaxy-j7-duo",
+   "img": "https://ledikom.mk/images/galaxyj7duo-759676.jpg",
+   "price": "11.990",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+    "screen": "5.5 inches, 720 x 1280 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-Po 3000 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Exynos 7885 (14 nm)",
+    "os": "Android 8.0 (Oreo)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J7 Nxt",
+   "url": "https://ledikom.mk/device/241/samsung-galaxy-j7-nxt",
+   "img": "https://ledikom.mk/images/galaxyj7nxt-710065.jpg",
+   "price": "8.490",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.5 inches, 720 x 1280 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-Po 3000 mAh",
+    "memory": "16 GB, up to 256 GB",
+    "chipset": "Exynos 7870 Octa (14 nm)",
+    "os": "Android 7.0 (Nougat)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J7 Prime 2",
+   "url": "https://ledikom.mk/device/238/samsung-galaxy-j7-prime-2",
+   "img": "https://ledikom.mk/images/galaxyj7prime2-237721.jpg",
+   "price": "10.390",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.5 inches, 720 x 1280 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "13MP",
+    "battery": "Li-Po 3300 mAh",
+    "memory": "32 GB, up to 256 GB",
+    "chipset": "Exynos 7870 Octa (14 nm)",
+    "os": "Android 7.0 (Nougat)"
+  }
+  },
+  {
+   "name": "Apple iPhone 8 Plus",
+   "url": "https://ledikom.mk/device/58/apple-iphone-8-plus",
+   "img": "https://ledikom.mk/images/iphone8plus-24645.jpg",
+   "price": "41.190",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+    "screen": "5.5 inches, 1080 x 1920 pixels",
+    "main_camera": "12MP,12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 2691 mAh",
+    "memory": "64 GB",
+    "chipset": "Apple A11 Bionic (10 nm)",
+    "os": "iOS 11"
+  }
+  },
+  {
+   "name": "Apple iPhone 8",
+   "url": "https://ledikom.mk/device/55/apple-iphone-8",
+   "img": "https://ledikom.mk/images/iphone8-212419.jpg",
+   "price": "34.390",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Hexa-core (2x Monsoon + 4x Mistral)",
+    "screen": "4.7 inches, 750 x 1334 pixels",
+    "main_camera": "12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 1821 mAh",
+    "memory": "64 GB",
+    "chipset": "Apple A11 Bionic (10 nm)",
+    "os": "iOS 11"
+  }
+  },
+  {
+   "name": "Samsung Galaxy J7 (2017) 64GB",
+   "url": "https://ledikom.mk/device/408/samsung-galaxy-j7-2017-64gb",
+   "img": "https://ledikom.mk/images/galaxyj72017-682114.jpg",
+   "price": "12.290",
+   "specifications": {
+    "ram": "1.5 GB",
+    "cpu": "Octa-core (4x1.4 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+    "screen": "5.5 inches, 720 x 1280 pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "16 GB",
+    "chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+    "os": "Android 5.1 (Lollipop)"
+  }
+  },
+ 
+  {
+   "name": "Apple iPhone 7 Plus",
+   "url": "https://ledikom.mk/device/51/apple-iphone-7-plus",
+   "img": "https://ledikom.mk/images/iphone7plus-923284.jpg",
+   "price": "33.790",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
+    "screen": "5.5 inches, 1080 x 1920 pixels",
+    "main_camera": "12MP,12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 2900 mAh",
+    "memory": "32 GB",
+    "chipset": "Apple A10 Fusion (16 nm)",
+    "os": "iOS 10.0.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A7 2017",
+   "url": "https://ledikom.mk/device/181/samsung-galaxy-a7-2017",
+   "img": "https://ledikom.mk/images/galaxya72017-551672.jpg",
+   "price": "14.790",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.9 GHz Cortex-A53",
+    "screen": "5.7 inches, 1080 x 1920 pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "32 GB up to 256 GB",
+    "chipset": "Exynos 7880 (14 nm)",
+    "os": "Android 6.0.1 (Marshmallow)"
+  }
+
+  },
+  {
+   "name": "Apple iPhone 7",
+   "url": "https://ledikom.mk/device/48/apple-iphone-7",
+   "img": "https://ledikom.mk/images/iphone7-178130.jpg",
+   "price": "26.990",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
+    "screen": "4.7 inches, 750 x 1334 pixels",
+    "main_camera": "12MP",
+    "selfie_camera": "7MP",
+    "battery": "Li-on 1821 mAh",
+    "memory": "64 GB",
+    "chipset": "Apple A10 Fusion (16 nm)",
+    "os": "iOS 10.0.1"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A5 (2017)",
+   "url": "https://ledikom.mk/device/177/samsung-galaxy-a5-2017",
+   "img": "https://ledikom.mk/images/galaxya52017-203864.jpg",
+   "price": "12.290",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.9 GHz Cortex-A53",
+    "screen": "5.2 inches, 1080 x 1920 pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3000 mAh",
+    "memory": "32 GB up to 256 GB",
+    "chipset": "Exynos 7880 (14 nm)",
+    "os": "Android 6.0.1 (Marshmallow)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A3 (2017)",
+   "url": "https://ledikom.mk/device/173/samsung-galaxy-a3-2017",
+   "img": "https://ledikom.mk/images/galaxya32017-480652.jpg",
+   "price": "10.390",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.2 inches, 720 x 1280  pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "8MP",
+    "battery": "Li-on 2350 mAh",
+    "memory": "16 GB up to 256 GB",
+    "chipset": "Exynos 7870 (14 nm)",
+    "os": "Android 6.0.1 (Marshmallow)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy C9 Pro",
+   "url": "https://ledikom.mk/device/186/samsung-galaxy-c9-pro",
+   "img": "https://ledikom.mk/images/galaxyc9pro-651437.jpg",
+   "price": "17.190",
+   "specifications": {
+    "ram": "6 GB",
+    "cpu": "Octa-core (4x1.95 GHz Cortex-A72 & 4x1.4 GHz Cortex-A53)",
+    "screen": "6.0 inches, 1080 x 1920  pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 4000 mAh",
+    "memory": "64 GB up to 256 GB",
+    "chipset": "Qualcomm MSM8976 Pro Snapdragon 653 (28 nm)",
+    "os": "Android 6.0.1 (Marshmallow)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy C7 Pro",
+   "url": "https://ledikom.mk/device/214/samsung-galaxy-c7-pro",
+   "img": "https://ledikom.mk/images/galaxyc7pro-101957.jpg",
+   "price": "16.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core 2.2 GHz Cortex-A53",
+    "screen": "5.7 inches, 1080 x 1920  pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3300 mAh",
+    "memory": "64 GB up to 256 GB",
+    "chipset": "Qualcomm MSM8953-Pro Snapdragon 626 (14 nm)",
+    "os": "Android 6.0.1 (Marshmallow)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy C5 Pro",
+   "url": "https://ledikom.mk/device/211/samsung-galaxy-c5-pro",
+   "img": "https://ledikom.mk/images/galaxyc5pro-1020663.jpg",
+   "price": "14.490",
+   "specifications": {
+    "ram": "4 GB",
+    "cpu": "Octa-core 2.2 GHz Cortex-A53",
+    "screen": "5.2 inches, 1080 x 1920  pixels",
+    "main_camera": "16MP",
+    "selfie_camera": "16MP",
+    "battery": "Li-on 3300 mAh",
+    "memory": "64 GB up to 256 GB",
+    "chipset": "Qualcomm MSM8953-Pro Snapdragon 626 (14 nm)",
+    "os": "AAndroid 7.0 (Nougat)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A7 (2016)",
+   "url": "https://ledikom.mk/device/151/samsung-galaxy-a7-2016",
+   "img": "https://ledikom.mk/images/galaxya72016-956949.jpg",
+   "price": "13.490",
+   "specifications": {
+    "ram": "3 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.5 inches, 1080 x 1920  pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-on 3300 mAh",
+    "memory": "16 GB up to 256 GB",
+    "chipset": "Exynos 7580 Octa",
+    "os": "Android 5.1.1 (Lollipop)"
+  }
+  },
+  {
+   "name": "Samsung Galaxy A5 (2016)",
+   "url": "https://ledikom.mk/device/147/samsung-galaxy-a5-2016",
+   "img": "https://ledikom.mk/images/galaxya52016-46393.jpg",
+   "price": "10.990",
+   "specifications": {
+    "ram": "2 GB",
+    "cpu": "Octa-core 1.6 GHz Cortex-A53",
+    "screen": "5.2 inches, 1080 x 1920  pixels",
+    "main_camera": "13MP",
+    "selfie_camera": "5MP",
+    "battery": "Li-on 2900 mAh",
+    "memory": "16 GB up to 256 GB",
+    "chipset": "Exynos 7580 Octa",
+    "os": "Android 5.1.1 (Lollipop)"
+  }
+  }
+ ]
+}
