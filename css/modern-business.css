@@ -1,0 +1,33 @@
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#logo{
+  font-family: "Pacifico";
+  font-size: 24px;
+  color: coral;
+}
+
+.btn{
+  font-family: "Pacifico";
+  color: #353a3f;
+  background-color: coral;
+  margin-left: 10px;
+}
+
+.d-block{
+  width: 1200px;
+  height: 480px;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
