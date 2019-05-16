@@ -31,3 +31,17 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.logoa{
+  height: 50px;
+  width: 100px;
+}
+.buy{
+  background-color: rgb(110, 183, 207);
+  color: black;
+}
+.card{
+  display: inline-block;
+  margin: 5px;
+  font-size: 19px;
+}
