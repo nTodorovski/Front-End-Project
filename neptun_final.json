@@ -701,7 +701,7 @@
       "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-10-lite-32GB-Blue-Dual-SIM",
       "img": "https://www.neptun.mk/2019/03/07/02471261_44ff03bf-32b4-4b6f-9453-097fd4197bd5.jpg?width=192",
       "price": "15.999",
-      "specifiSions": {
+      "specifications": {
         "ram": "3 GB",
         "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
         "screen": "6.21 inches, 1080 x 2340 pixels",
@@ -718,7 +718,7 @@
       "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-10-lite-32GB-Black-Dual-SIM",
       "img": "https://www.neptun.mk/2019/03/06/02471266_f58cf112-bb9c-40a9-a898-73a4b68b2850.jpg?width=192",
       "price": "15.999",
-      "specifiSions": {
+      "specifications": {
         "ram": "3 GB",
         "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
         "screen": "6.21 inches, 1080 x 2340 pixels",
@@ -735,7 +735,7 @@
       "phone_url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-SAMSUNG-A6--2018--SM-A600-FZDNSEE-Gold-DualSIM",
       "img": "https://www.neptun.mk/2019/02/19/a62018gold.jpg?width=192",
       "price": "16.999",
-      "specifiSions": {
+      "specifications": {
         "ram": "4 GB",
         "cpu": "Octa-core 1.6 GHz Cortex-A53",
         "screen": "5.6 inches, 720 x 1480 pixels",
