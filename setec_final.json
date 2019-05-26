@@ -1,5 +1,4 @@
-{
-  "setec": [
+[
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69204&limit=100",
@@ -2063,5 +2062,4 @@
         "os": "Android 9.0"
       }
     }
-  ]
-}
+ ]
