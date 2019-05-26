@@ -1,5 +1,4 @@
-{
- "ledikom": [
+[
   {
    "name": "Samsung Galaxy M20",
    "url": "https://ledikom.mk/device/475/samsung-galaxy-m20",
@@ -1058,5 +1057,4 @@
     "os": "Android 5.1.1 (Lollipop)"
   }
   }
- ]
-}
+]
