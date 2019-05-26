@@ -1,23 +1,6 @@
 [
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69204&limit=100",
-      "name": "Xiaomi Redmi 2",
-      "price": "3.999",
-      "specifications": {
-        "ram": "1 GB",
-        "cpu": "Quad-core 1.2 GHz Cortex-A53",
-        "screen": "4.7 inches, 720 x 1280 pixels",
-        "main_camera": "8MP",
-        "selfie_camera": "2MP",
-        "battery": "Li-Ion 2200 mAh",
-        "memory": "16 GB up to 32 GB",
-        "chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
-        "os": "Android 4.4.4"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+   {
+      "img": "http://setec.mk/image/cache/catalog/Product/69205_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69205&limit=100",
       "name": "Xiaomi Redmi 2",
       "price": "3.999",
@@ -34,7 +17,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/43864_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=43864&limit=100",
       "name": "HUAWEI Y6",
       "price": "5.999",
@@ -51,7 +34,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/44919_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44919&limit=100",
       "name": "Huawei Y6 II compact",
       "price": "5.999",
@@ -68,24 +51,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44920&limit=100",
-      "name": "Huawei Y6 II compact",
-      "price": "5.999",
-      "specifications": {
-        "ram": "2 GB",
-        "cpu": "Octa-core 1.4 GHz Cortex-A53",
-        "screen": "5.7 inches, 720 x 1440 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "5MP",
-        "battery": "Li-Ion 3000 mAh",
-        "memory": "16 GB up to 256 GB",
-        "chipset": "Qualcomm MSM8917 Snapdragon 425 ",
-        "os": "Android 8.0"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/43736_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=43736&limit=100",
       "name": "Samsung Galaxy J3",
       "price": "5.999",
@@ -102,7 +68,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/43737_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=43737&limit=100",
       "name": "Samsung Galaxy J3",
       "price": "5.999",
@@ -119,41 +85,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70875&limit=100",
-      "name": "Xiaomi Redmi 4x",
-      "price": "5.999",
-      "specifications": {
-        "ram": "2 GB",
-        "cpu": "Octa-core 1.4 GHz Cortex-A53",
-        "screen": "5.0 inches, 720 x 1280 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "5MP",
-        "battery": "Li-Ion 4100 mAh",
-        "memory": "16 GB up to 128 GB",
-        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
-        "os": "Android 6.0.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70874&limit=100",
-      "name": "Xiaomi Redmi 4x",
-      "price": "5.999",
-      "specifications": {
-        "ram": "2 GB",
-        "cpu": "Octa-core 1.4 GHz Cortex-A53",
-        "screen": "5.0 inches, 720 x 1280 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "5MP",
-        "battery": "Li-Ion 4100 mAh",
-        "memory": "16 GB up to 128 GB",
-        "chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
-        "os": "Android 6.0.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71757_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71757&limit=100",
       "name": "Xiaomi Redmi Note 5A",
       "price": "5.999",
@@ -170,7 +102,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45597_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45597&limit=100",
       "name": "HUAWEI Y6 (2017)",
       "price": "6.299",
@@ -187,7 +119,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72018_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72018&limit=100",
       "name": "Xiaomi Redmi 6Aa",
       "price": "6.339",
@@ -204,7 +136,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72019_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72019&limit=100",
       "name": "Xiaomi Redmi 6a",
       "price": "6.339",
@@ -221,7 +153,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46543_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46543&limit=100",
       "name": "Huawei Y5 (2018)",
       "price": "6.539",
@@ -238,7 +170,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46544_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46544&limit=100",
       "name": "Huawei Y5 (2018)",
       "price": "6.539",
@@ -255,24 +187,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45766&limit=100",
-      "name": "HUAWEI Y6 (2017)",
-      "price": "6.799",
-      "specifications": {
-        "ram": "1 GB",
-        "cpu": "Quad-core 1.1 GHz Cortex-A7",
-        "screen": "5.0 inches, 720 x 1280 pixels",
-        "main_camera": "8MP",
-        "selfie_camera": "2MP",
-        "battery": "Li-Ion 22000 mAh",
-        "memory": "8 GB up to 256 GB",
-        "chipset": "Qualcomm MSM8909 Snapdragon 210 (28 nm)",
-        "os": "Android 5.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/70877_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70877&limit=100",
       "name": "Xiaomi Redmi 4x",
       "price": "6.999",
@@ -289,7 +204,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71859_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71859&limit=100",
       "name": "Xiaomi Redmi 5",
       "price": "6.999",
@@ -306,7 +221,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71753_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71753&limit=100",
       "name": "Xiaomi Redmi 5",
       "price": "6.999",
@@ -323,7 +238,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/68776_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=68776&limit=100",
       "name": "Xiaomi Redmi Note 3",
       "price": "6.999",
@@ -578,7 +493,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45315_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45315&limit=100",
       "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
@@ -595,7 +510,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45489_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45489&limit=100",
       "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
@@ -612,41 +527,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45490&limit=100",
-      "name": "Samsung Galaxy J5 (2017)",
-      "price": "8.909",
-      "specifications": {
-        "ram": "2 GB",
-        "cpu": "Octa-core 1.6 GHz Cortex-A53",
-        "screen": "5.2 inches, 720 x 1280 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "13MP",
-        "battery": "Li-Ion 3000 mAh",
-        "memory": "16 GB up to 256 GB",
-        "chipset": "Exynos 7870 Octa (14 nm)",
-        "os": "Android 7.0"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45313&limit=100",
-      "name": "Samsung Galaxy J5 (2017)",
-      "price": "8.909",
-      "specifications": {
-        "ram": "2 GB",
-        "cpu": "Octa-core 1.6 GHz Cortex-A53",
-        "screen": "5.2 inches, 720 x 1280 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "13MP",
-        "battery": "Li-Ion 3000 mAh",
-        "memory": "16 GB up to 256 GB",
-        "chipset": "Exynos 7870 Octa (14 nm)",
-        "os": "Android 7.0"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46563_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46563&limit=100",
       "name": "Samsung Galaxy J6 (2018)",
       "price": "9.749",
@@ -663,7 +544,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46565_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46565&limit=100",
       "name": "Samsung Galaxy J6 (2018)",
       "price": "9.749",
@@ -680,7 +561,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72014_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72014&limit=100",
       "name": "Xiaomi Mi A2 Lite",
       "price": "9.749",
@@ -697,7 +578,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72015_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72015&limit=100",
       "name": "Xiaomi Mi A2 Lite",
       "price": "9.749",
@@ -714,7 +595,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72016_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72016&limit=100",
       "name": "Xiaomi Mi A2 Lite",
       "price": "9.749",
@@ -731,7 +612,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46564_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46564&limit=100",
       "name": "Samsung Galaxy J6 (2018)",
       "price": "9.899",
@@ -748,24 +629,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71747&limit=100",
-      "name": "Xiaomi A1",
-      "price": "9.999",
-      "specifications": {
-        "ram": "4 GB",
-        "cpu": "Octa-core 2.0 GHz Cortex-A53",
-        "screen": "5.5 inches, 1080 x 1920 pixels",
-        "main_camera": "12MP,12MP",
-        "selfie_camera": "5MP",
-        "battery": "Li-Ion 3080 mAh",
-        "memory": "64 GB up to 128 GB",
-        "chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
-        "os": "Android 7.1.2"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/70884_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70884&limit=100",
       "name": "Xiaomi Note 4x",
       "price": "9.999",
@@ -782,7 +646,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46148_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46148&limit=100",
       "name": "HUAWEI P SMART",
       "price": "10.729",
@@ -799,7 +663,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46149_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46149&limit=100",
       "name": "HUAWEI P SMART",
       "price": "10.729",
@@ -816,7 +680,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/70324_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70324&limit=100",
       "name": "Huawei Honor 8 Lite",
       "price": "10.999",
@@ -833,7 +697,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/70356_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70356&limit=100",
       "name": "Huawei Honor 8 Lite",
       "price": "10.999",
@@ -850,7 +714,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/70357_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70357&limit=100",
       "name": "Huawei Honor 8 Lite",
       "price": "10.999",
@@ -867,58 +731,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45356&limit=100",
-      "name": "Samsung Galaxy J7 (2017)",
-      "price": "10.999",
-      "specifications": {
-        "ram": "3 GB",
-        "cpu": "Octa-core 1.6 GHz Cortex-A53",
-        "screen": "5.5 inches, 1080 x 1920 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "13MP",
-        "battery": "Li-on 3600 mAh",
-        "memory": "16 GB, up to 256 GB",
-        "chipset": "Exynos 7870 Octa (14 nm)",
-        "os": "Android 7.0"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45357&limit=100",
-      "name": "Samsung Galaxy J7 (2017)",
-      "price": "10.999",
-      "specifications": {
-        "ram": "3 GB",
-        "cpu": "Octa-core 1.6 GHz Cortex-A53",
-        "screen": "5.5 inches, 1080 x 1920 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "13MP",
-        "battery": "Li-on 3600 mAh",
-        "memory": "16 GB, up to 256 GB",
-        "chipset": "Exynos 7870 Octa (14 nm)",
-        "os": "Android 7.0"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45355&limit=100",
-      "name": "Samsung Galaxy J7 (2017)",
-      "price": "10.999",
-      "specifications": {
-        "ram": "3 GB",
-        "cpu": "Octa-core 1.6 GHz Cortex-A53",
-        "screen": "5.5 inches, 1080 x 1920 pixels",
-        "main_camera": "13MP",
-        "selfie_camera": "13MP",
-        "battery": "Li-on 3600 mAh",
-        "memory": "16 GB, up to 256 GB",
-        "chipset": "Exynos 7870 Octa (14 nm)",
-        "os": "Android 7.0"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72011_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72011&limit=100",
       "name": "Xiaomi Mi A2 lite",
       "price": "11.699",
@@ -935,7 +748,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46522_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46522&limit=100",
       "name": "Samsung Galaxy A6 2018",
       "price": "11.999",
@@ -952,7 +765,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46521_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46521&limit=100",
       "name": "Samsung Galaxy A6 2018",
       "price": "11.999",
@@ -969,7 +782,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46523_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46523&limit=100",
       "name": "Samsung Galaxy A6 2018",
       "price": "11.999",
@@ -986,7 +799,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45136_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45136&limit=100",
       "name": "Huawei Nova",
       "price": "12.999",
@@ -1003,7 +816,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45137_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45137&limit=100",
       "name": "Huawei Nova",
       "price": "12.999",
@@ -1020,7 +833,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45138_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45138&limit=100",
       "name": "Huawei Nova",
       "price": "12.999",
@@ -1037,7 +850,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45293_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45293&limit=100",
       "name": "Huawei P10 lite",
       "price": "12.999",
@@ -1054,7 +867,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45596_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45596&limit=100",
       "name": "Huawei P10 lite",
       "price": "12.999",
@@ -1071,7 +884,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47503_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47503&limit=100",
       "name": "HUAWEI P SMART 2019",
       "price": "13.299",
@@ -1088,7 +901,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47504_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47504&limit=100",
       "name": "HUAWEI P SMART 2019",
       "price": "13.299",
@@ -1105,7 +918,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/44852_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44852&limit=100",
       "name": "Samsung Galaxy A5 2017",
       "price": "13.999",
@@ -1122,7 +935,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/44853_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44853&limit=100",
       "name": "Samsung Galaxy A52017",
       "price": "13.999",
@@ -1139,7 +952,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/44871_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44871&limit=100",
       "name": "Samsung Galaxy A52017",
       "price": "13.999",
@@ -1156,7 +969,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46255_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46255&limit=100",
       "name": "Huawei P20 lite",
       "price": "14.999",
@@ -1173,7 +986,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46296_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46296&limit=100",
       "name": "Huawei P20 lite",
       "price": "14.999",
@@ -1190,7 +1003,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46546_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46546&limit=100",
       "name": "Huawei P20 lite",
       "price": "14.999",
@@ -1207,7 +1020,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45774_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45774&limit=100",
       "name": "HUAWEI Mate 10 lite",
       "price": "15.999",
@@ -1224,7 +1037,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45800_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45800&limit=100",
       "name": "HUAWEI Mate 10 lite",
       "price": "15.999",
@@ -1241,7 +1054,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/45775_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45775&limit=100",
       "name": "HUAWEI Mate 10 lite",
       "price": "15.999",
@@ -1258,7 +1071,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47045_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47045&limit=100",
       "name": "Samsung Galaxy A7 2018",
       "price": "15.999",
@@ -1275,7 +1088,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47043_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47043&limit=100",
       "name": "Samsung Galaxy A7 2018",
       "price": "15.999",
@@ -1292,7 +1105,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47044_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47044&limit=100",
       "name": "Samsung Galaxy A7 2018",
       "price": "15.999",
@@ -1309,7 +1122,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46788_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46788&limit=100",
       "name": "HUAWEI Mate 20 lite",
       "price": "17.819",
@@ -1326,7 +1139,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47062_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47062&limit=100",
       "name": "HUAWEI Mate 20 lite",
       "price": "17.819",
@@ -1343,7 +1156,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46556_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46556&limit=100",
       "name": "Samsung Galaxy A6+ 2018",
       "price": "18.809",
@@ -1360,7 +1173,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46555_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46555&limit=100",
       "name": "Samsung Galaxy A6+ 2018",
       "price": "18.809",
@@ -1377,24 +1190,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45928&limit=100",
-      "name": "Samsung Galaxy A8 2018",
-      "price": "18.999",
-      "specifications": {
-        "ram": "4 GB",
-        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
-        "screen": "5.6 inches, 1080 x 2220 pixels",
-        "main_camera": "16MP",
-        "selfie_camera": "16MP,8MP",
-        "battery": "Li-on 3000 mAh",
-        "memory": "32 GB, up to 256 GB",
-        "chipset": "Exynos 7885 (14 nm)",
-        "os": "Android 7.1.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46557_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46557&limit=100",
       "name": "Samsung Galaxy A6+ 2018",
       "price": "18.999",
@@ -1411,7 +1207,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/70872_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70872&limit=100",
       "name": "Xiaomi Mi 5s",
       "price": "19.999",
@@ -1428,47 +1224,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45927&limit=100",
-      "name": "Samsung Galaxy A8 2018",
-      "price": "20.089",
-      "specifications": {
-        "ram": "4 GB",
-        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
-        "screen": "5.6 inches, 1080 x 2220 pixels",
-        "main_camera": "16MP",
-        "selfie_camera": "16MP,8MP",
-        "battery": "Li-on 3000 mAh",
-        "memory": "32 GB, up to 256 GB",
-        "chipset": "Exynos 7885 (14 nm)",
-        "os": "Android 7.1.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45929&limit=100",
-      "name": "Samsung Galaxy A8 2018",
-      "price": "20.089",
-      "specifications": {
-        "ram": "4 GB",
-        "cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
-        "screen": "5.6 inches, 1080 x 2220 pixels",
-        "main_camera": "16MP",
-        "selfie_camera": "16MP,8MP",
-        "battery": "Li-on 3000 mAh",
-        "memory": "32 GB, up to 256 GB",
-        "chipset": "Exynos 7885 (14 nm)",
-        "os": "Android 7.1.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=65953&limit=100",
-      "name": "Samsung Galaxy S7 Edge",
-      "price": "26.729"
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46372_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46372&limit=100",
       "name": "Huawei P20",
       "price": "28.999",
@@ -1485,7 +1241,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47231_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47231&limit=100",
       "name": "Samsung Galaxy A9 2018",
       "price": "28.999",
@@ -1502,7 +1258,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47232_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47232&limit=100",
       "name": "Samsung Galaxy A9 2018",
       "price": "28.999",
@@ -1519,7 +1275,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47233_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47233&limit=100",
       "name": "Samsung Galaxy A9 2018",
       "price": "28.999",
@@ -1536,7 +1292,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46150_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46150&limit=100",
       "name": "HUAWEI Mate 10 Pro",
       "price": "29.699",
@@ -1553,7 +1309,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71485_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71485&limit=100",
       "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
@@ -1570,7 +1326,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71805_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71805&limit=100",
       "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
@@ -1587,7 +1343,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71487_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71487&limit=100",
       "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
@@ -1604,7 +1360,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71486_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71486&limit=100",
       "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
@@ -1621,7 +1377,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/44511_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44511&limit=100",
       "name": "Apple iPhone 7",
       "price": "33.999",
@@ -1638,7 +1394,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/47063_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47063&limit=100",
       "name": "HUAWEI Mate 20",
       "price": "33.999",
@@ -1655,7 +1411,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71493_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71493&limit=100",
       "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
@@ -1672,7 +1428,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71804_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71804&limit=100",
       "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
@@ -1689,7 +1445,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71495_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71495&limit=100",
       "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
@@ -1706,7 +1462,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/71494_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71494&limit=100",
       "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
@@ -1723,7 +1479,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46373_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46373&limit=100",
       "name": "Huawei P20 Pro",
       "price": "38.999",
@@ -1944,7 +1700,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/72381_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72381&limit=100",
       "name": "Samsung Galaxy S10+ 2019",
       "price": "60.999",
@@ -1961,7 +1717,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46617_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46617&limit=100",
       "name": "Apple iPhone X",
       "price": "70.449",
@@ -1978,7 +1734,7 @@
       }
     },
     {
-      "img": "http://setec.mk/image/catalog/blank.gif",
+      "img": "http://setec.mk/image/cache/catalog/Product/46616_0-1000x1000.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46616&limit=100",
       "name": "Apple iPhone X",
       "price": "70.449",
@@ -1992,40 +1748,6 @@
         "memory": "64 GB",
         "chipset": "Apple A11 Bionic (10 nm)",
         "os": "iOS 11.1.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46161&limit=100",
-      "name": "Apple iPhone X",
-      "price": "71.179",
-      "specifications": {
-        "ram": "3 GB",
-        "cpu": "Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
-        "screen": "5.8 inches, 1125 x 2436 pixels",
-        "main_camera": "12MP,12MP",
-        "selfie_camera": "7MP",
-        "battery": "Li-on 2716 mAh",
-        "memory": "64 GB",
-        "chipset": "Apple A11 Bionic (10 nm)",
-        "os": "iOS 11.1.1"
-      }
-    },
-    {
-      "img": "http://setec.mk/image/catalog/blank.gif",
-      "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47358&limit=100",
-      "name": "Apple iPhone XS",
-      "price": "72.379",
-      "specifications": {
-        "ram": "4 GB",
-        "cpu": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
-        "screen": "5.8 inches, 1125 x 2436 pixels",
-        "main_camera": "12MP,12MP",
-        "selfie_camera": "7MP",
-        "battery": "Li-on 2658 mAh",
-        "memory": "64 GB, up to 512 GB",
-        "chipset": "Apple A12 Bionic",
-        "os": "iOS 12"
       }
     },
     {
