@@ -2,7 +2,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69204&limit=100",
-      "name": "Xiaomi Redmi 2 4G LTE",
+      "name": "Xiaomi Redmi 2",
       "price": "3.999",
       "specifications": {
         "ram": "1 GB",
@@ -19,7 +19,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69205&limit=100",
-      "name": "Xiaomi Redmi 2 4G LTE",
+      "name": "Xiaomi Redmi 2",
       "price": "3.999",
       "specifications": {
         "ram": "1 GB",
@@ -36,7 +36,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=43864&limit=100",
-      "name": "HUAWEI Y6 Black",
+      "name": "HUAWEI Y6",
       "price": "5.999",
       "specifications": {
         "ram": "2 GB",
@@ -87,7 +87,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=43736&limit=100",
-      "name": "Samsung SM-J320FN Galaxy J3 4G LTE",
+      "name": "Samsung Galaxy J3",
       "price": "5.999",
       "specifications": {
         "ram": "2 GB",
@@ -104,7 +104,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=43737&limit=100",
-      "name": "Samsung SM-J320FN Galaxy J3 4G LTE",
+      "name": "Samsung Galaxy J3",
       "price": "5.999",
       "specifications": {
         "ram": "2 GB",
@@ -121,7 +121,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70875&limit=100",
-      "name": "Xiaomi Redmi 4x 16GB Black Color",
+      "name": "Xiaomi Redmi 4x",
       "price": "5.999",
       "specifications": {
         "ram": "2 GB",
@@ -138,7 +138,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70874&limit=100",
-      "name": "Xiaomi Redmi 4x 16GB Gold Color",
+      "name": "Xiaomi Redmi 4x",
       "price": "5.999",
       "specifications": {
         "ram": "2 GB",
@@ -155,7 +155,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71757&limit=100",
-      "name": "Xiaomi Redmi Note 5A 16GB grey",
+      "name": "Xiaomi Redmi Note 5A",
       "price": "5.999",
       "specifications": {
         "ram": "2 GB",
@@ -172,7 +172,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45597&limit=100",
-      "name": "HUAWEI Y6 (2017) Black",
+      "name": "HUAWEI Y6 (2017)",
       "price": "6.299",
       "specifications": {
         "ram": "2 GB",
@@ -189,7 +189,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72018&limit=100",
-      "name": "Xiaomi Redmi 6a gold",
+      "name": "Xiaomi Redmi 6Aa",
       "price": "6.339",
       "specifications": {
         "ram": "3 GB",
@@ -206,7 +206,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72019&limit=100",
-      "name": "Xiaomi Redmi 6a gray",
+      "name": "Xiaomi Redmi 6a",
       "price": "6.339",
       "specifications": {
         "ram": "3 GB",
@@ -223,7 +223,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46543&limit=100",
-      "name": "Huawei Y5 (2018) Dura Black",
+      "name": "Huawei Y5 (2018)",
       "price": "6.539",
       "specifications": {
         "ram": "2 GB",
@@ -240,7 +240,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46544&limit=100",
-      "name": "Huawei Y5 (2018) Dura Blue",
+      "name": "Huawei Y5 (2018)",
       "price": "6.539",
       "specifications": {
         "ram": "2 GB",
@@ -257,7 +257,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45766&limit=100",
-      "name": "HUAWEI Y6 (2017) Grey",
+      "name": "HUAWEI Y6 (2017)",
       "price": "6.799",
       "specifications": {
         "ram": "1 GB",
@@ -274,7 +274,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70877&limit=100",
-      "name": "Xiaomi Redmi 4x 32GB Gold Color",
+      "name": "Xiaomi Redmi 4x",
       "price": "6.999",
       "specifications": {
         "ram": "3 GB",
@@ -291,7 +291,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71859&limit=100",
-      "name": "Xiaomi Redmi 5 16GB black",
+      "name": "Xiaomi Redmi 5",
       "price": "6.999",
       "specifications": {
         "ram": "3 GB",
@@ -308,7 +308,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71753&limit=100",
-      "name": "Xiaomi Redmi 5 16GB gold",
+      "name": "Xiaomi Redmi 5",
       "price": "6.999",
       "specifications": {
         "ram": "3 GB",
@@ -325,7 +325,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=68776&limit=100",
-      "name": "Xiaomi Redmi Note 3 4G LTE",
+      "name": "Xiaomi Redmi Note 3",
       "price": "6.999",
       "specifications": {
         "ram": "2 GB",
@@ -342,7 +342,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/69633_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69633&limit=100",
-      "name": "Xiaomi Redmi Note 3 Pro/16GB ROM/2GB RAM 4G LTE",
+      "name": "Xiaomi Redmi Note 3 Pro",
       "price": "6.999",
       "specifications": {
         "ram": "2 GB",
@@ -359,7 +359,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/69636_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=69636&limit=100",
-      "name": "Xiaomi Redmi Note 3 Pro/16GB ROM/2GB RAM 4G LTE",
+      "name": "Xiaomi Redmi Note 3 Pro",
       "price": "6.999",
       "specifications": {
         "ram": "2 GB",
@@ -376,7 +376,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/46409_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46409&limit=100",
-      "name": "HUAWEI Y6 (2018) Atomu Black",
+      "name": "HUAWEI Y6 (2018)",
       "price": "7.429",
       "specifications": {
         "ram": "2 GB",
@@ -393,7 +393,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/46545_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46545&limit=100",
-      "name": "HUAWEI Y6 (2018) Atomu Gold",
+      "name": "HUAWEI Y6 (2018)",
       "price": "7.429",
       "specifications": {
         "ram": "2 GB",
@@ -410,7 +410,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/46370_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46370&limit=100",
-      "name": "Samsung SM-J330FN Galaxy J3 (2017) Dual Black",
+      "name": "Samsung Galaxy J3 (2017)",
       "price": "7.919",
       "specifications": {
         "ram": "2 GB",
@@ -427,7 +427,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/71755_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71755&limit=100",
-      "name": "Xiaomi Redmi 5 3/32GB gold",
+      "name": "Xiaomi Redmi 5",
       "price": "7.919",
       "specifications": {
         "ram": "3 GB",
@@ -444,7 +444,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/71754_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71754&limit=100",
-      "name": "Xiaomi Redmi 5 3/32GB black",
+      "name": "Xiaomi Redmi 5",
       "price": "7.999",
       "specifications": {
         "ram": "3 GB",
@@ -461,7 +461,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72020_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72020&limit=100",
-      "name": "Xiaomi Redmi 6 32GB black",
+      "name": "Xiaomi Redmi 6",
       "price": "8.779",
       "specifications": {
         "ram": "3 GB",
@@ -478,7 +478,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72021_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72021&limit=100",
-      "name": "Xiaomi Redmi 6 32GB blue",
+      "name": "Xiaomi Redmi 6",
       "price": "8.779",
       "specifications": {
         "ram": "3 GB",
@@ -495,7 +495,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72022_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72022&limit=100",
-      "name": "Xiaomi Redmi 6 32GB gold",
+      "name": "Xiaomi Redmi 6",
       "price": "8.779",
       "specifications": {
         "ram": "3 GB",
@@ -512,7 +512,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/47038_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47038&limit=100",
-      "name": "Samsung SM-J415 Galaxy J4+ (2018) Black",
+      "name": "Samsung Galaxy J4+ (2018)",
       "price": "8.799",
       "specifications": {
         "ram": "2 GB",
@@ -529,7 +529,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/47037_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47037&limit=100",
-      "name": "Samsung SM-J415 Galaxy J4+ (2018) Gold",
+      "name": "Samsung Galaxy J4+ (2018)",
       "price": "8.799",
       "specifications": {
         "ram": "2 GB",
@@ -546,7 +546,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/47042_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47042&limit=100",
-      "name": "Samsung SM-J415 Galaxy J4+ (2018) Pink",
+      "name": "Samsung Galaxy J4+ (2018)",
       "price": "8.799",
       "specifications": {
         "ram": "2 GB",
@@ -563,7 +563,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/45524_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45524&limit=100",
-      "name": "Samsung SM-J530F Galaxy J5 (2017)",
+      "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
       "specifications": {
         "ram": "2 GB",
@@ -580,7 +580,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45315&limit=100",
-      "name": "Samsung SM-J530F Galaxy J5 (2017)",
+      "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
       "specifications": {
         "ram": "2 GB",
@@ -597,7 +597,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45489&limit=100",
-      "name": "Samsung SM-J530F Galaxy J5 (2017)",
+      "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
       "specifications": {
         "ram": "2 GB",
@@ -614,7 +614,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45490&limit=100",
-      "name": "Samsung SM-J530F Galaxy J5 (2017)",
+      "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
       "specifications": {
         "ram": "2 GB",
@@ -631,7 +631,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45313&limit=100",
-      "name": "Samsung SM-J530F Galaxy J5 (2017)",
+      "name": "Samsung Galaxy J5 (2017)",
       "price": "8.909",
       "specifications": {
         "ram": "2 GB",
@@ -648,7 +648,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46563&limit=100",
-      "name": "Samsung SM-J600 Galaxy J6 (2018) Gold Color",
+      "name": "Samsung Galaxy J6 (2018)",
       "price": "9.749",
       "specifications": {
         "ram": "3 GB",
@@ -665,7 +665,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46565&limit=100",
-      "name": "Samsung SM-J600 Galaxy J6 (2018) Orchid Gray color",
+      "name": "Samsung Galaxy J6 (2018)",
       "price": "9.749",
       "specifications": {
         "ram": "3 GB",
@@ -682,7 +682,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72014&limit=100",
-      "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro) 32GB Black",
+      "name": "Xiaomi Mi A2 Lite",
       "price": "9.749",
       "specifications": {
         "ram": "4 GB",
@@ -699,7 +699,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72015&limit=100",
-      "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro) 32GB Blue",
+      "name": "Xiaomi Mi A2 Lite",
       "price": "9.749",
       "specifications": {
         "ram": "4 GB",
@@ -716,7 +716,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72016&limit=100",
-      "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro) 32GB Gold",
+      "name": "Xiaomi Mi A2 Lite",
       "price": "9.749",
       "specifications": {
         "ram": "4 GB",
@@ -733,7 +733,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46564&limit=100",
-      "name": "Samsung SM-J600 Galaxy J6 (2018) Black Color",
+      "name": "Samsung Galaxy J6 (2018)",
       "price": "9.899",
       "specifications": {
         "ram": "3 GB",
@@ -750,7 +750,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71747&limit=100",
-      "name": "Xiaomi A1 64gb Gold",
+      "name": "Xiaomi A1",
       "price": "9.999",
       "specifications": {
         "ram": "4 GB",
@@ -767,7 +767,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70884&limit=100",
-      "name": "Xiaomi Note 4x 64GB Black Color",
+      "name": "Xiaomi Note 4x",
       "price": "9.999",
       "specifications": {
         "ram": "3 GB",
@@ -784,7 +784,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46148&limit=100",
-      "name": "HUAWEI P SMART Black",
+      "name": "HUAWEI P SMART",
       "price": "10.729",
       "specifications": {
         "ram": "3 GB",
@@ -801,7 +801,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46149&limit=100",
-      "name": "HUAWEI P SMART Gold",
+      "name": "HUAWEI P SMART",
       "price": "10.729",
       "specifications": {
         "ram": "3 GB",
@@ -869,7 +869,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45356&limit=100",
-      "name": "Samsung SM-J730 Black Galaxy J7 (2017)",
+      "name": "Samsung Galaxy J7 (2017)",
       "price": "10.999",
       "specifications": {
         "ram": "3 GB",
@@ -886,7 +886,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45357&limit=100",
-      "name": "Samsung SM-J730 Blue Galaxy J7 (2017)",
+      "name": "Samsung Galaxy J7 (2017)",
       "price": "10.999",
       "specifications": {
         "ram": "3 GB",
@@ -903,7 +903,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45355&limit=100",
-      "name": "Samsung SM-J730 Gold Galaxy J7 (2017)",
+      "name": "Samsung Galaxy J7 (2017)",
       "price": "10.999",
       "specifications": {
         "ram": "3 GB",
@@ -920,7 +920,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72011&limit=100",
-      "name": "Xiaomi Mi A2 lite (MI 6PRO) 64GB Black",
+      "name": "Xiaomi Mi A2 lite",
       "price": "11.699",
       "specifications": {
         "ram": "4 GB",
@@ -937,7 +937,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46522&limit=100",
-      "name": "Samsung SM-A600 Galaxy A6 2018 Black",
+      "name": "Samsung Galaxy A6 2018",
       "price": "11.999",
       "specifiSions": {
         "ram": "4 GB",
@@ -954,7 +954,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46521&limit=100",
-      "name": "Samsung SM-A600 Galaxy A6 2018 Gold",
+      "name": "Samsung Galaxy A6 2018",
       "price": "11.999",
       "specifiSions": {
         "ram": "4 GB",
@@ -971,7 +971,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46523&limit=100",
-      "name": "Samsung SM-A600 Galaxy A6 2018 Orhiday grey",
+      "name": "Samsung Galaxy A6 2018",
       "price": "11.999",
       "specifiSions": {
         "ram": "4 GB",
@@ -1056,7 +1056,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45596&limit=100",
-      "name": "Huawei P10 lite Gold",
+      "name": "Huawei P10 lite",
       "price": "12.999",
       "specifications": {
         "ram": "3 GB",
@@ -1073,7 +1073,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47503&limit=100",
-      "name": "HUAWEI P SMART 2019 Aurora blue",
+      "name": "HUAWEI P SMART 2019",
       "price": "13.299",
       "specifications": {
         "ram": "3 GB",
@@ -1090,7 +1090,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47504&limit=100",
-      "name": "HUAWEI P SMART 2019 Midnight Black",
+      "name": "HUAWEI P SMART 2019",
       "price": "13.299",
       "specifications": {
         "ram": "3 GB",
@@ -1107,7 +1107,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44852&limit=100",
-      "name": "Samsung SM-A520 Galaxy A5 NEW 2017",
+      "name": "Samsung Galaxy A5 2017",
       "price": "13.999",
       "specifications": {
         "ram": "3 GB",
@@ -1124,7 +1124,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44853&limit=100",
-      "name": "Samsung SM-A520 Galaxy A5 NEW 2017",
+      "name": "Samsung Galaxy A52017",
       "price": "13.999",
       "specifications": {
         "ram": "3 GB",
@@ -1141,7 +1141,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44871&limit=100",
-      "name": "Samsung SM-A520 Galaxy A5 NEW 2017",
+      "name": "Samsung Galaxy A52017",
       "price": "13.999",
       "specifications": {
         "ram": "3 GB",
@@ -1158,7 +1158,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46255&limit=100",
-      "name": "Huawei P20 lite Black",
+      "name": "Huawei P20 lite",
       "price": "14.999",
       "specifications": {
         "ram": "4 GB",
@@ -1175,7 +1175,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46296&limit=100",
-      "name": "Huawei P20 lite Blue",
+      "name": "Huawei P20 lite",
       "price": "14.999",
       "specifications": {
         "ram": "4 GB",
@@ -1192,7 +1192,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46546&limit=100",
-      "name": "Huawei P20 lite Pink",
+      "name": "Huawei P20 lite",
       "price": "14.999",
       "specifications": {
         "ram": "4 GB",
@@ -1209,7 +1209,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45774&limit=100",
-      "name": "HUAWEI Mate 10 lite Black",
+      "name": "HUAWEI Mate 10 lite",
       "price": "15.999",
       "specifications": {
         "ram": "4 GB",
@@ -1226,7 +1226,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45800&limit=100",
-      "name": "HUAWEI Mate 10 lite Blue",
+      "name": "HUAWEI Mate 10 lite",
       "price": "15.999",
       "specifications": {
         "ram": "4 GB",
@@ -1243,7 +1243,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45775&limit=100",
-      "name": "HUAWEI Mate 10 lite Gold",
+      "name": "HUAWEI Mate 10 lite",
       "price": "15.999",
       "specifications": {
         "ram": "4 GB",
@@ -1260,7 +1260,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47045&limit=100",
-      "name": "Samsung SM-A750 Galaxy A7 2018 Black",
+      "name": "Samsung Galaxy A7 2018",
       "price": "15.999",
       "specifications": {
         "ram": "4 GB",
@@ -1277,7 +1277,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47043&limit=100",
-      "name": "Samsung SM-A750 Galaxy A7 2018 Blue",
+      "name": "Samsung Galaxy A7 2018",
       "price": "15.999",
       "specifications": {
         "ram": "4 GB",
@@ -1294,7 +1294,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47044&limit=100",
-      "name": "Samsung SM-A750 Galaxy A7 2018 Gold",
+      "name": "Samsung Galaxy A7 2018",
       "price": "15.999",
       "specifications": {
         "ram": "4 GB",
@@ -1311,7 +1311,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46788&limit=100",
-      "name": "HUAWEI Mate 20 lite Black",
+      "name": "HUAWEI Mate 20 lite",
       "price": "17.819",
       "specifications": {
         "ram": "4 GB",
@@ -1328,7 +1328,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47062&limit=100",
-      "name": "HUAWEI Mate 20 lite Platinum gold",
+      "name": "HUAWEI Mate 20 lite",
       "price": "17.819",
       "specifications": {
         "ram": "4 GB",
@@ -1345,7 +1345,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46556&limit=100",
-      "name": "Samsung SM-A605 Galaxy A6+ 2018 Black",
+      "name": "Samsung Galaxy A6+ 2018",
       "price": "18.809",
       "specifications": {
         "ram": "3 GB",
@@ -1362,7 +1362,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46555&limit=100",
-      "name": "Samsung SM-A605 Galaxy A6+ 2018 Gold",
+      "name": "Samsung Galaxy A6+ 2018",
       "price": "18.809",
       "specifications": {
         "ram": "3 GB",
@@ -1379,7 +1379,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45928&limit=100",
-      "name": "Samsung SM-A530 Galaxy A8 2018 Black",
+      "name": "Samsung Galaxy A8 2018",
       "price": "18.999",
       "specifications": {
         "ram": "4 GB",
@@ -1396,7 +1396,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46557&limit=100",
-      "name": "Samsung SM-A605 Galaxy A6+ 2018 Orhiday grey",
+      "name": "Samsung Galaxy A6+ 2018",
       "price": "18.999",
       "specifications": {
         "ram": "3 GB",
@@ -1413,7 +1413,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=70872&limit=100",
-      "name": "Xiaomi Mi 5s 128GB White Color",
+      "name": "Xiaomi Mi 5s",
       "price": "19.999",
       "specifications": {
         "ram": "4 GB",
@@ -1430,7 +1430,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45927&limit=100",
-      "name": "Samsung SM-A530 Galaxy A8 2018 Gold",
+      "name": "Samsung Galaxy A8 2018",
       "price": "20.089",
       "specifications": {
         "ram": "4 GB",
@@ -1447,7 +1447,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45929&limit=100",
-      "name": "Samsung SM-A530 Galaxy A8 2018 Orhiday grey",
+      "name": "Samsung Galaxy A8 2018",
       "price": "20.089",
       "specifications": {
         "ram": "4 GB",
@@ -1464,13 +1464,13 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=65953&limit=100",
-      "name": "Samsung SM-G935F Galaxy S7 Edge",
+      "name": "Samsung Galaxy S7 Edge",
       "price": "26.729"
     },
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46372&limit=100",
-      "name": "Huawei P20 Black",
+      "name": "Huawei P20",
       "price": "28.999",
       "specifications": {
         "ram": "4 GB",
@@ -1487,7 +1487,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47231&limit=100",
-      "name": "Samsung SM-A920 Galaxy A9 2018 Black",
+      "name": "Samsung Galaxy A9 2018",
       "price": "28.999",
       "specifications": {
         "ram": "6 GB",
@@ -1504,7 +1504,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47232&limit=100",
-      "name": "Samsung SM-A920 Galaxy A9 2018 Blue",
+      "name": "Samsung Galaxy A9 2018",
       "price": "28.999",
       "specifications": {
         "ram": "6 GB",
@@ -1521,7 +1521,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47233&limit=100",
-      "name": "Samsung SM-A920 Galaxy A9 2018 Pink",
+      "name": "Samsung Galaxy A9 2018",
       "price": "28.999",
       "specifications": {
         "ram": "6 GB",
@@ -1538,7 +1538,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46150&limit=100",
-      "name": "HUAWEI Mate 10 Pro Black",
+      "name": "HUAWEI Mate 10 Pro",
       "price": "29.699",
       "specifications": {
         "ram": "4 GB",
@@ -1555,7 +1555,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71485&limit=100",
-      "name": "Samsung Galaxy S9 2018 Coral Blue",
+      "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
       "specifications": {
         "ram": "4 GB",
@@ -1572,7 +1572,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71805&limit=100",
-      "name": "Samsung Galaxy S9 2018 Gold",
+      "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
       "specifications": {
         "ram": "4 GB",
@@ -1589,7 +1589,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71487&limit=100",
-      "name": "Samsung Galaxy S9 2018 Lilac Purple",
+      "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
       "specifications": {
         "ram": "4 GB",
@@ -1606,7 +1606,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71486&limit=100",
-      "name": "Samsung Galaxy S9 2018 Midnight Black",
+      "name": "Samsung Galaxy S9 2018",
       "price": "31.199",
       "specifications": {
         "ram": "4 GB",
@@ -1623,7 +1623,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=44511&limit=100",
-      "name": "Apple iPhone 7 - 256GB Gold",
+      "name": "Apple iPhone 7",
       "price": "33.999",
       "specifications": {
         "ram": "2 GB",
@@ -1640,7 +1640,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47063&limit=100",
-      "name": "HUAWEI Mate 20 Black",
+      "name": "HUAWEI Mate 20",
       "price": "33.999",
       "specifications": {
         "ram": "4 GB",
@@ -1657,7 +1657,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71493&limit=100",
-      "name": "Samsung Galaxy S9+ 2018 Coral Blue",
+      "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
       "specifications": {
         "ram": "6 GB",
@@ -1674,7 +1674,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71804&limit=100",
-      "name": "Samsung Galaxy S9+ 2018 Gold",
+      "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
       "specifications": {
         "ram": "6 GB",
@@ -1691,7 +1691,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71495&limit=100",
-      "name": "Samsung Galaxy S9+ 2018 Lilac Purple",
+      "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
       "specifications": {
         "ram": "6 GB",
@@ -1708,7 +1708,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71494&limit=100",
-      "name": "Samsung Galaxy S9+ 2018 Midnight Black",
+      "name": "Samsung Galaxy S9+ 2018",
       "price": "36.079",
       "specifications": {
         "ram": "6 GB",
@@ -1725,7 +1725,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46373&limit=100",
-      "name": "Huawei P20 Pro Black",
+      "name": "Huawei P20 Pro",
       "price": "38.999",
       "specifications": {
         "ram": "6 GB",
@@ -1742,7 +1742,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/45522_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45522&limit=100",
-      "name": "Samsung Galaxy Note 8 NEW 2017",
+      "name": "Samsung Galaxy Note 8 2017",
       "price": "40.999",
       "specifications": {
         "ram": "6 GB",
@@ -1759,7 +1759,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/45523_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=45523&limit=100",
-      "name": "Samsung Galaxy Note 8 NEW 2017",
+      "name": "Samsung Galaxy Note 8 2017",
       "price": "40.999",
       "specifications": {
         "ram": "6 GB",
@@ -1776,7 +1776,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72376_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72376&limit=100",
-      "name": "Samsung Galaxy S10e 2019 Black",
+      "name": "Samsung Galaxy S10e 2019",
       "price": "44.999",
       "specifications": {
         "ram": "6 GB",
@@ -1793,7 +1793,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/47064_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47064&limit=100",
-      "name": "HUAWEI Mate 20 PRO Black",
+      "name": "HUAWEI Mate 20 PRO",
       "price": "52.109",
       "specifications": {
         "ram": "6 GB",
@@ -1810,7 +1810,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/47557_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47557&limit=100",
-      "name": "HUAWEI Mate 20 PRO Twilight",
+      "name": "HUAWEI Mate 20 PRO",
       "price": "52.109",
       "specifications": {
         "ram": "6 GB",
@@ -1827,7 +1827,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72378_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72378&limit=100",
-      "name": "Samsung Galaxy S10 2019 Black",
+      "name": "Samsung Galaxy S10 2019",
       "price": "54.999",
       "specifications": {
         "ram": "8 GB",
@@ -1844,7 +1844,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72377_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72377&limit=100",
-      "name": "Samsung Galaxy S10 2019 Green",
+      "name": "Samsung Galaxy S10 2019",
       "price": "54.999",
       "specifications": {
         "ram": "8 GB",
@@ -1861,7 +1861,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72379_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72379&limit=100",
-      "name": "Samsung Galaxy S10 2019 White",
+      "name": "Samsung Galaxy S10 2019",
       "price": "54.999",
       "specifications": {
         "ram": "8 GB",
@@ -1878,7 +1878,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/71984_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71984&limit=100",
-      "name": "Samsung Galaxy Note 9 Black",
+      "name": "Samsung Galaxy Note 9",
       "price": "56.549",
       "specifications": {
         "ram": "6 GB",
@@ -1895,7 +1895,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/71983_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71983&limit=100",
-      "name": "Samsung Galaxy Note 9 Blue",
+      "name": "Samsung Galaxy Note 9",
       "price": "56.549",
       "specifications": {
         "ram": "6 GB",
@@ -1912,7 +1912,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/71985_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=71985&limit=100",
-      "name": "Samsung Galaxy Note 9 Purple",
+      "name": "Samsung Galaxy Note 9",
       "price": "56.549",
       "specifications": {
         "ram": "6 GB",
@@ -1929,7 +1929,7 @@
     {
       "img": "http://setec.mk/image/cache/catalog/Product/72380_0-228x228.jpg",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72380&limit=100",
-      "name": "Samsung Galaxy S10+ 2019 Black",
+      "name": "Samsung Galaxy S10+ 2019",
       "price": "60.999",
       "specifications": {
         "ram": "8 GB",
@@ -1946,7 +1946,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=72381&limit=100",
-      "name": "Samsung Galaxy S10+ 2019 White",
+      "name": "Samsung Galaxy S10+ 2019",
       "price": "60.999",
       "specifications": {
         "ram": "8 GB",
@@ -1963,7 +1963,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46617&limit=100",
-      "name": "Apple iPhone X - 64GB Black",
+      "name": "Apple iPhone X,
       "price": "70.449",
       "specifications": {
         "ram": "3 GB",
@@ -1980,7 +1980,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46616&limit=100",
-      "name": "Apple iPhone X - 64GB White",
+      "name": "Apple iPhone X",
       "price": "70.449",
       "specifications": {
         "ram": "3 GB",
@@ -1997,7 +1997,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=46161&limit=100",
-      "name": "Apple iPhone X - 64GB Space Gray",
+      "name": "Apple iPhone X",
       "price": "71.179",
       "specifications": {
         "ram": "3 GB",
@@ -2014,7 +2014,7 @@
     {
       "img": "http://setec.mk/image/catalog/blank.gif",
       "phone_url": "http://setec.mk/index.php?route=product/product&path=10066_10067&product_id=47358&limit=100",
-      "name": "Apple iPhone XS - 64GB Gold",
+      "name": "Apple iPhone XS",
       "price": "72.379",
       "specifications": {
         "ram": "4 GB",
