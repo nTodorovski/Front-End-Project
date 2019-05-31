@@ -1,6 +1,6 @@
 [
    {
-      "name":"Samsung Galaxy M20",
+      "name":"Samsung M20",
       "phone_url":"https://ledikom.mk/device/475/samsung-galaxy-m20",
       "img":"https://ledikom.mk/images/galaxym20-707843.jpg",
       "price":"10.399",
@@ -34,7 +34,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S10+",
+      "name":"Samsung S10+",
       "phone_url":"https://ledikom.mk/device/469/samsung-galaxy-s10",
       "img":"https://ledikom.mk/images/galaxys10-403031.jpg",
       "price":"53.499",
@@ -51,7 +51,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S10",
+      "name":"Samsung S10",
       "phone_url":"https://ledikom.mk/device/463/samsung-galaxy-s10",
       "img":"https://ledikom.mk/images/galaxys10-840743.jpg",
       "price":"47.299",
@@ -68,7 +68,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S10e",
+      "name":"Samsung S10e",
       "phone_url":"https://ledikom.mk/device/458/samsung-galaxy-s10e",
       "img":"https://ledikom.mk/images/galaxys10e-921791.jpg",
       "price":"41.199",
@@ -102,7 +102,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy M10",
+      "name":"Samsung M10",
       "phone_url":"https://ledikom.mk/device/456/samsung-galaxy-m10",
       "img":"https://ledikom.mk/images/galaxym10-891549.jpg",
       "price":"7.999",
@@ -187,7 +187,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J2 Core",
+      "name":"Samsung J2 Core",
       "phone_url":"https://ledikom.mk/device/438/samsung-galaxy-j2-core",
       "img":"https://ledikom.mk/images/galaxyj2core-193218.jpg",
       "price":"5.499",
@@ -238,7 +238,7 @@
       }
    },
    {
-      "name":"Huawei P Smart (2019)",
+      "name":"Huawei P-Smart 2019",
       "phone_url":"https://ledikom.mk/device/435/huawei-p-smart-2019",
       "img":"https://ledikom.mk/images/psmart2019-835009.jpg",
       "price":"13.299",
@@ -289,7 +289,7 @@
       }
    },
    {
-      "name":"Huawei Y9 (2019)",
+      "name":"Huawei Y9 2019",
       "phone_url":"https://ledikom.mk/device/432/huawei-y9-2019",
       "img":"https://ledikom.mk/images/y92019-787754.jpg",
       "price":"13.499",
@@ -306,7 +306,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A8 Star (A9 Star)",
+      "name":"Samsung A8 Star",
       "phone_url":"https://ledikom.mk/device/429/samsung-galaxy-a8-star-a9-star",
       "img":"https://ledikom.mk/images/galaxya8stara9star-453031.jpg",
       "price":"20.299",
@@ -323,7 +323,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A9 (2018)",
+      "name":"Samsung A9 2018",
       "phone_url":"https://ledikom.mk/device/418/samsung-galaxy-a9-2018",
       "img":"https://ledikom.mk/images/galaxya92018-305473.jpg",
       "price":"23.999",
@@ -459,7 +459,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy Note 9",
+      "name":"Samsung Note 9",
       "phone_url":"https://ledikom.mk/device/348/samsung-galaxy-note-9",
       "img":"https://ledikom.mk/images/galaxynote9-103181.jpg",
       "price":"38.199",
@@ -476,7 +476,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A7 (2018)",
+      "name":"Samsung A7 2018",
       "phone_url":"https://ledikom.mk/device/382/samsung-galaxy-a7-2018",
       "img":"https://ledikom.mk/images/galaxya72018-53113.jpg",
       "price":"14.799",
@@ -493,7 +493,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S9+",
+      "name":"Samsung S9+",
       "phone_url":"https://ledikom.mk/device/251/samsung-galaxy-s9",
       "img":"https://ledikom.mk/images/galaxys9-17118.jpg",
       "price":"30.699",
@@ -510,7 +510,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S9",
+      "name":"Samsung S9",
       "phone_url":"https://ledikom.mk/device/247/samsung-galaxy-s9",
       "img":"https://ledikom.mk/images/galaxys9-1004421.jpg",
       "price":"28.299",
@@ -527,7 +527,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J6+",
+      "name":"Samsung J6+",
       "phone_url":"https://ledikom.mk/device/294/samsung-galaxy-j6",
       "img":"https://ledikom.mk/images/galaxyj6-185883.jpg",
       "price":"9.499",
@@ -544,7 +544,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J4+",
+      "name":"Samsung J4+",
       "phone_url":"https://ledikom.mk/device/389/samsung-galaxy-j4",
       "img":"https://ledikom.mk/images/galaxyj4-440496.jpg",
       "price":"7.399",
@@ -561,7 +561,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J4 Core",
+      "name":"Samsung J4 Core",
       "phone_url":"https://ledikom.mk/device/386/samsung-galaxy-j4-core",
       "img":"https://ledikom.mk/images/galaxyj4core-842736.jpg",
       "price":"7.399",
@@ -578,7 +578,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J8",
+      "name":"Samsung J8",
       "phone_url":"https://ledikom.mk/device/273/samsung-galaxy-j8",
       "img":"https://ledikom.mk/images/galaxyj8-603787.jpg",
       "price":"11.999",
@@ -595,7 +595,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J6",
+      "name":"Samsung J6",
       "phone_url":"https://ledikom.mk/device/270/samsung-galaxy-j6",
       "img":"https://ledikom.mk/images/galaxyj6-253546.jpg",
       "price":"8.899",
@@ -612,7 +612,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J4",
+      "name":"Samsung J4",
       "phone_url":"https://ledikom.mk/device/267/samsung-galaxy-j4",
       "img":"https://ledikom.mk/images/galaxyj4-804552.jpg",
       "price":"6.999",
@@ -629,7 +629,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A6+ (2018)",
+      "name":"Samsung A6+ 2018",
       "phone_url":"https://ledikom.mk/device/259/samsung-galaxy-a6-2018",
       "img":"https://ledikom.mk/images/galaxya62018-667496.jpg",
       "price":"12.899",
@@ -646,7 +646,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A6 (2018)",
+      "name":"Samsung A6 2018",
       "phone_url":"https://ledikom.mk/device/255/samsung-galaxy-a6-2018",
       "img":"https://ledikom.mk/images/galaxya62018-114881.jpg",
       "price":"10.999",
@@ -663,7 +663,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A8+ (2018)",
+      "name":"Samsung A8+ 2018",
       "phone_url":"https://ledikom.mk/device/226/samsung-galaxy-a8-2018",
       "img":"https://ledikom.mk/images/galaxya82018-160850.jpg",
       "price":"18.999",
@@ -680,7 +680,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A8 (2018)",
+      "name":"Samsung A8 2018",
       "phone_url":"https://ledikom.mk/device/222/samsung-galaxy-a8-2018",
       "img":"https://ledikom.mk/images/galaxya82018-747154.jpg",
       "price":"16.599",
@@ -697,7 +697,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy Note 8",
+      "name":"Samsung Note 8",
       "phone_url":"https://ledikom.mk/device/217/samsung-galaxy-note-8",
       "img":"https://ledikom.mk/images/galaxynote8-255756.jpg",
       "price":"28.399",
@@ -714,7 +714,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S8+",
+      "name":"Samsung S8+",
       "phone_url":"https://ledikom.mk/device/194/samsung-galaxy-s8",
       "img":"https://ledikom.mk/images/galaxys8-997923.jpg",
       "price":"23.399",
@@ -731,7 +731,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy S8",
+      "name":"Samsung S8",
       "phone_url":"https://ledikom.mk/device/189/samsung-galaxy-s8",
       "img":"https://ledikom.mk/images/galaxys8-1002042.jpg",
       "price":"21.499",
@@ -748,7 +748,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J2 Pro (2018)",
+      "name":"Samsung J2 Pro 2018",
       "phone_url":"https://ledikom.mk/device/232/samsung-galaxy-j2-pro-2018",
       "img":"https://ledikom.mk/images/galaxyj2pro2018-299772.jpg",
       "price":"6.799",
@@ -782,7 +782,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J7 Duo",
+      "name":"Samsung J7 Duo",
       "phone_url":"https://ledikom.mk/device/243/samsung-galaxy-j7-duo",
       "img":"https://ledikom.mk/images/galaxyj7duo-759676.jpg",
       "price":"11.999",
@@ -799,7 +799,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J7 Nxt",
+      "name":"Samsung J7 Nxt",
       "phone_url":"https://ledikom.mk/device/241/samsung-galaxy-j7-nxt",
       "img":"https://ledikom.mk/images/galaxyj7nxt-710065.jpg",
       "price":"8.499",
@@ -816,7 +816,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J7 Prime 2",
+      "name":"Samsung J7 Prime 2",
       "phone_url":"https://ledikom.mk/device/238/samsung-galaxy-j7-prime-2",
       "img":"https://ledikom.mk/images/galaxyj7prime2-237721.jpg",
       "price":"10.399",
@@ -833,7 +833,7 @@
       }
    },
    {
-      "name":"Apple iPhone 8 Plus",
+      "name":"Apple iPhone 8+",
       "phone_url":"https://ledikom.mk/device/58/apple-iphone-8-plus",
       "img":"https://ledikom.mk/images/iphone8plus-24645.jpg",
       "price":"41.199",
@@ -867,7 +867,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy J7 (2017) 64GB",
+      "name":"Samsung J7 2017",
       "phone_url":"https://ledikom.mk/device/408/samsung-galaxy-j7-2017-64gb",
       "img":"https://ledikom.mk/images/galaxyj72017-682114.jpg",
       "price":"12.299",
@@ -901,7 +901,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A7 2017",
+      "name":"Samsung A7 2017",
       "phone_url":"https://ledikom.mk/device/181/samsung-galaxy-a7-2017",
       "img":"https://ledikom.mk/images/galaxya72017-551672.jpg",
       "price":"14.799",
@@ -935,7 +935,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A5 (2017)",
+      "name":"Samsung A5 2017",
       "phone_url":"https://ledikom.mk/device/177/samsung-galaxy-a5-2017",
       "img":"https://ledikom.mk/images/galaxya52017-203864.jpg",
       "price":"12.299",
@@ -952,7 +952,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A3 (2017)",
+      "name":"Samsung A3 2017",
       "phone_url":"https://ledikom.mk/device/173/samsung-galaxy-a3-2017",
       "img":"https://ledikom.mk/images/galaxya32017-480652.jpg",
       "price":"10.399",
@@ -969,7 +969,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy C9 Pro",
+      "name":"Samsung C9 Pro",
       "phone_url":"https://ledikom.mk/device/186/samsung-galaxy-c9-pro",
       "img":"https://ledikom.mk/images/galaxyc9pro-651437.jpg",
       "price":"17.199",
@@ -986,7 +986,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy C7 Pro",
+      "name":"Samsung C7 Pro",
       "phone_url":"https://ledikom.mk/device/214/samsung-galaxy-c7-pro",
       "img":"https://ledikom.mk/images/galaxyc7pro-101957.jpg",
       "price":"16.499",
@@ -1003,7 +1003,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy C5 Pro",
+      "name":"Samsung C5 Pro",
       "phone_url":"https://ledikom.mk/device/211/samsung-galaxy-c5-pro",
       "img":"https://ledikom.mk/images/galaxyc5pro-1020663.jpg",
       "price":"14.499",
@@ -1020,7 +1020,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A7 (2016)",
+      "name":"Samsung A7 2016",
       "phone_url":"https://ledikom.mk/device/151/samsung-galaxy-a7-2016",
       "img":"https://ledikom.mk/images/galaxya72016-956949.jpg",
       "price":"13.499",
@@ -1037,7 +1037,7 @@
       }
    },
    {
-      "name":"Samsung Galaxy A5 (2016)",
+      "name":"Samsung A5 2016",
       "phone_url":"https://ledikom.mk/device/147/samsung-galaxy-a5-2016",
       "img":"https://ledikom.mk/images/galaxya52016-46393.jpg",
       "price":"10.999",

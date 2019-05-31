@@ -1,6 +1,6 @@
 [
     {
-      "name": "HUAWEI MATE 20 LITE",
+      "name": "HUAWEI MATE 20 LITE Black",
       "price": "17.999",
       "img": "https://www.telekom.mk/webimg?id=27381&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27381&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY A6 (2018)",
+      "name": "SAMSUNG A6 2018 Lavender",
       "price": "13.999",
       "img": "https://www.telekom.mk/webimg?id=27066&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27066&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=lavender",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "name": "SONY XPERIA XA2",
+      "name": "SONY XPERIA XA2 Black",
       "price": "12.999",
       "img": "https://www.telekom.mk/webimg?id=26931&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26931&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY S10+",
+      "name": "SAMSUNG S10+ Green",
       "price": "58.999",
       "img": "https://www.telekom.mk/webimg?id=28729&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28729&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=prism%20green",
@@ -68,7 +68,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY S10",
+      "name": "SAMSUNG S10 Black",
       "price": "53.999",
       "img": "https://www.telekom.mk/webimg?id=28699&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28699&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=prism%20black",
@@ -85,7 +85,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY S10e",
+      "name": "SAMSUNG S10e Black",
       "price": "43.999",
       "img": "https://www.telekom.mk/webimg?id=28669&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28669&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=prism%20black",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "name": "HUAWEI P SMART 2019",
+      "name": "HUAWEI P-SMART 2019 Black",
       "price": "13.999",
       "img": "https://www.telekom.mk/webimg?id=28560&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28560&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20black",
@@ -119,7 +119,7 @@
       }
     },
     {
-      "name": "iPhone XS MAX",
+      "name": "iPhone XS MAX Silver",
       "price": "87.999",
       "img": "https://www.telekom.mk/webimg?id=28500&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28500&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "name": "MOTOROLA ONE",
+      "name": "MOTOROLA ONE White",
       "price": "11.999",
       "img": "https://www.telekom.mk/webimg?id=28388&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28388&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=white",
@@ -153,7 +153,7 @@
       }
     },
     {
-      "name": "iPhone XS",
+      "name": "iPhone XS Silver",
       "price": "70.999",
       "img": "https://www.telekom.mk/webimg?id=28226&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28226&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2",
@@ -170,7 +170,7 @@
       }
     },
     {
-      "name": "XIAOMI MI A2 LITE",
+      "name": "XIAOMI MI A2 LITE Black",
       "price": "10.999",
       "img": "https://www.telekom.mk/webimg?id=28163&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28163&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -187,7 +187,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY A7 (2018)",
+      "name": "SAMSUNG A7 2018 Blue",
       "price": "19.999",
       "img": "https://www.telekom.mk/webimg?id=28130&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28130&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY J4+",
+      "name": "SAMSUNG J4+ Pink",
       "price": "8.999",
       "img": "https://www.telekom.mk/webimg?id=28102&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28102&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=pink",
@@ -221,7 +221,7 @@
       }
     },
     {
-      "name": "NOKIA 5.1",
+      "name": "NOKIA 5.1 Blue",
       "price": "10.999",
       "img": "https://www.telekom.mk/webimg?id=28074&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28074&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "name": "NOKIA 2.1",
+      "name": "NOKIA 2.1 Blue",
       "price": "3.999",
       "img": "https://www.telekom.mk/webimg?id=28036&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28036&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
@@ -255,7 +255,7 @@
       }
     },
     {
-      "name": "iPhone XR",
+      "name": "iPhone XR Blue",
       "price": "55.999",
       "img": "https://www.telekom.mk/webimg?id=27874&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27874&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
@@ -272,7 +272,7 @@
       }
     },
     {
-      "name": "HUAWEI MATE 20 PRO",
+      "name": "HUAWEI MATE 20 PRO Twilight",
       "price": "49.999",
       "img": "https://www.telekom.mk/webimg?id=27780&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27780&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=twilight",
@@ -289,7 +289,7 @@
       }
     },
     {
-      "name": "XIAOMI MI MIX 2S",
+      "name": "XIAOMI MI MIX 2S Black",
       "price": "30.999",
       "img": "https://www.telekom.mk/webimg?id=27730&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27730&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -306,7 +306,7 @@
       }
     },
     {
-      "name": "XIAOMI REDMI 6A",
+      "name": "XIAOMI REDMI 6A Black",
       "price": "4.999",
       "img": "https://www.telekom.mk/webimg?id=27701&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27701&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -323,7 +323,7 @@
       }
     },
     {
-      "name": "SONY XPERIA XZ3",
+      "name": "SONY XPERIA XZ3 Black",
       "price": "37.999",
       "img": "https://www.telekom.mk/webimg?id=27301&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27301&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -340,7 +340,7 @@
       }
     },
     {
-      "name": "MOTOROLA MOTO G6 PLAY",
+      "name": "MOTOROLA MOTO G6 PLAY Deep Indigo",
       "price": "9.999",
       "img": "https://www.telekom.mk/webimg?id=27260&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27260&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=deep%20indigo",
@@ -357,7 +357,7 @@
       }
     },
     {
-      "name": "HUAWEI Y6 2018",
+      "name": "HUAWEI Y6 2018 Blue",
       "price": "6.999",
       "img": "https://www.telekom.mk/webimg?id=27229&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27229&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=blue",
@@ -374,7 +374,7 @@
       }
     },
     {
-      "name": "SAMSUNG NOTE 9",
+      "name": "SAMSUNG NOTE 9 Black",
       "price": "52.999",
       "img": "https://www.telekom.mk/webimg?id=27184&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27184&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -391,7 +391,7 @@
       }
     },
     {
-      "name": "ALCATEL 1X",
+      "name": "ALCATEL 1X Grey",
       "price": "4.999",
       "img": "https://www.telekom.mk/webimg?id=27157&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27157&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=grey",
@@ -408,7 +408,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY J6",
+      "name": "SAMSUNG J6 Black",
       "price": "9.999",
       "img": "https://www.telekom.mk/webimg?id=27051&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=27051&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -425,7 +425,7 @@
       }
     },
     {
-      "name": "HUAWEI Y5 2018",
+      "name": "HUAWEI Y5 2018 Black",
       "price": "5.999",
       "img": "https://www.telekom.mk/webimg?id=26973&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26973&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "name": "SONY XPERIA L1",
+      "name": "SONY XPERIA L1 Black",
       "price": "5.999",
       "img": "https://www.telekom.mk/webimg?id=26903&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26903&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -459,7 +459,7 @@
       }
     },
     {
-      "name": "SONY XPERIA XZ2",
+      "name": "SONY XPERIA XZ2 Black",
       "price": "19.999",
       "img": "https://www.telekom.mk/webimg?id=26870&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26870&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -476,7 +476,7 @@
       }
     },
     {
-      "name": "HUAWEI P20 PRO",
+      "name": "HUAWEI P20 PRO Black",
       "price": "42.999",
       "img": "https://www.telekom.mk/webimg?id=26802&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26802&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -493,7 +493,7 @@
       }
     },
     {
-      "name": "HUAWEI P20",
+      "name": "HUAWEI P20 Blue",
       "price": "35.999",
       "img": "https://www.telekom.mk/webimg?id=26771&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26771&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20blue",
@@ -510,7 +510,7 @@
       }
     },
     {
-      "name": "HUAWEI P20 LITE",
+      "name": "HUAWEI P20 LITE Pink",
       "price": "15.999",
       "img": "https://www.telekom.mk/webimg?id=26678&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26678&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=pink",
@@ -527,7 +527,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY S9+",
+      "name": "SAMSUNG S9+ Black",
       "price": "42.999",
       "img": "https://www.telekom.mk/webimg?id=26599&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26599&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20black",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY S9",
+      "name": "SAMSUNG S9 Black",
       "price": "37.999",
       "img": "https://www.telekom.mk/webimg?id=26569&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26569&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=midnight%20black",
@@ -561,7 +561,7 @@
       }
     },
     {
-      "name": "NOKIA 105 (2017)",
+      "name": "NOKIA 105 2017 Black",
       "price": "499",
       "img": "https://www.telekom.mk/webimg?id=26476&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26476&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -578,7 +578,7 @@
       }
     },
     {
-      "name": "iPhone 8",
+      "name": "iPhone 8 Silver",
       "price": "51.999",
       "img": "https://www.telekom.mk/webimg?id=25451&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25451&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=silver",
@@ -595,7 +595,7 @@
       }
     },
     {
-      "name": "MOTOROLA MOTO E4 PLUS",
+      "name": "MOTOROLA MOTO E4+ Gold",
       "price": "8.999",
       "img": "https://www.telekom.mk/webimg?id=26155&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26155&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=gold",
@@ -612,7 +612,7 @@
       }
     },
     {
-      "name": "MOTOROLA MOTO C 4G",
+      "name": "MOTOROLA MOTO C 4G Gold",
       "price": "3.999",
       "img": "https://www.telekom.mk/webimg?id=26128&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=26128&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=gold",
@@ -629,7 +629,7 @@
       }
     },
     {
-      "name": "iPhone X",
+      "name": "iPhone X Silver",
       "price": "61.999",
       "img": "https://www.telekom.mk/webimg?id=25965&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25965&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2",
@@ -646,7 +646,7 @@
       }
     },
     {
-      "name": "iPhone 8 Plus",
+      "name": "iPhone 8+ Grey",
       "price": "49.999",
       "img": "https://www.telekom.mk/webimg?id=25486&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25486&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=space%20gray",
@@ -663,7 +663,7 @@
       }
     },
     {
-      "name": "SAMSUNG GALAXY NOTE 8",
+      "name": "SAMSUNG NOTE 8 Gold",
       "price": "49.999",
       "img": "https://www.telekom.mk/webimg?id=25316&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25316&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=gold",
@@ -680,7 +680,7 @@
       }
     },
     {
-      "name": "SONY XPERIA XZ PREMIUM",
+      "name": "SONY XPERIA XZ PREMIUM Black",
       "price": "40.999",
       "img": "https://www.telekom.mk/webimg?id=25217&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25217&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -697,7 +697,7 @@
       }
     },
     {
-      "name": "HTC U11",
+      "name": "HTC U11 Blue",
       "price": "19.999",
       "img": "https://www.telekom.mk/webimg?id=25055&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=25055&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=sapphire%20blue",
@@ -714,7 +714,7 @@
       }
     },
     {
-      "name": "HUAWEI P10 PLUS",
+      "name": "HUAWEI P10+ Silver",
       "price": "19.999",
       "img": "https://www.telekom.mk/webimg?id=24783&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=24783&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=silver",
@@ -731,7 +731,7 @@
       }
     },
     {
-      "name": "SONY XPERIA XZ",
+      "name": "SONY XPERIA XZ Black",
       "price": "37.999",
       "img": "https://www.telekom.mk/webimg?id=24018&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=24018&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -748,7 +748,7 @@
       }
     },
     {
-      "name": "CAT B30",
+      "name": "CAT B30 Black",
       "price": "3.499",
       "img": "https://www.telekom.mk/webimg?id=23896&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=23896&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black",
@@ -765,7 +765,7 @@
       }
     },
     {
-      "name": "ALCATEL 2008G",
+      "name": "ALCATEL 2008G Black",
       "price": "999",
       "img": "https://www.telekom.mk/webimg?id=22935&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=22935&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=black/metal%20silver",
@@ -782,7 +782,7 @@
       }
     },
     {
-      "name": "SONY XPERIA X",
+      "name": "SONY XPERIA X White",
       "price": "31.999",
       "img": "https://www.telekom.mk/webimg?id=22627&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=22627&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=white",
@@ -799,7 +799,7 @@
       }
     },
     {
-      "name": "HTC 10",
+      "name": "HTC 10 Red",
       "price": "29.999",
       "img": "https://www.telekom.mk/webimg?id=22467&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=22467&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=lava%20red",
@@ -816,7 +816,7 @@
       }
     },
     {
-      "name": "SONY XPERIA Z5 COMPACT",
+      "name": "SONY XPERIA Z5 COMPACT White",
       "price": "12.999",
       "img": "https://www.telekom.mk/webimg?id=20545&width=240&height=240",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=20545&tariffId=567&groupId=103&contractId=1&paymentId=1&contractId=2&color=white",
@@ -833,7 +833,7 @@
       }
     },
     {
-      "name": "HUAWEI P30 ",
+      "name": "HUAWEI P30 Breathing Crystal",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28876&contractId=2&tariffId=1616&groupId=119&paymentId=2&instalments=24&color=breathing%20crystal",
       "img": "https://www.telekom.mk/webimg?id=28876&width=240&height=240",
       "price": "44.999",
@@ -850,7 +850,7 @@
       }
     },
     {
-      "name": "HUAWEI P30 PRO",
+      "name": "HUAWEI P30 PRO Black",
       "phone_url": "https://www.telekom.mk/mobile-device-details.nspx?deviceId=28909&contractId=2&tariffId=1616&groupId=119&paymentId=2&instalments=24&color=black",
       "img": "https://www.telekom.mk/webimg?id=28909&width=240&height=240",
       "price": "57.999",
