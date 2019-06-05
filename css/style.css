@@ -1,0 +1,386 @@
+@media only screen and (max-width: 767px) {
+    .carousel-item{
+        height: 300px;
+    }
+    .d-block{
+        height: 300px !important;
+    }
+    .pagination{
+        max-width: 540px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .card-img-top {
+        min-height: 280px;
+    }
+    .card {
+        max-width: 350px;
+    }
+    #settings {
+        max-width: 350px;
+    }
+    .pagination{
+        max-width: 340px;
+    }
+}
+
+@media only screen and (max-width: 473px) {
+    .carousel-item{
+        height: 200px;
+    }
+    .d-block{
+        height: 200px !important;
+    }
+}
+
+*{
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+body{
+    margin-top: 80px;
+    background: linear-gradient(to right,#2c3e50, #bdc3c7, #2c3e50);
+}
+
+.py-5 {
+    background: linear-gradient(to right,#85d8ce, #085078, #85d8ce);
+    padding: 25px !important;
+}
+
+.scrolled {
+    background: linear-gradient(to right,#85d8ce, #085078, #85d8ce);
+}
+
+.card-body a:hover {
+    color: yellow !important;
+}
+
+.carousel-item {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#logo {
+    font-family: "Pacifico";
+    font-size: 24px;
+    color: coral;
+}
+
+#main_page {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navBtn {
+    color: #353a3f;
+    background-color: coral;
+    margin: 5px;
+    white-space: normal;
+}
+
+.nav-link{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 50px;
+    color: #737177;
+    cursor: pointer;
+    /* transition: all 0.5s ease; */
+}
+
+
+.d-block {
+    width: 1200px;
+    height: 480px;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.logos {
+    height: 34px;
+    width: 66px;
+    margin-left: 10px;
+}
+
+.modal-content {
+    font-family: 'Roboto';
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.modalce {
+    margin-left: 20px;
+}
+
+.modal-header {
+    font-size: 40px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    text-align: center;
+    background-color: #007bff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.specs {
+    margin: auto;
+}
+
+.modal-title {
+    margin: auto;
+    color: white;
+}
+
+.card-title {
+    font-size: 18px;
+}
+
+.price-btn {
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+}
+
+.card {
+    font-family: 'Roboto';
+    margin-bottom: 20px;
+    border: 2px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+.btn-primary {
+    background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)
+}
+
+.btn{
+    background-position: right center;
+    transition: background-image .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.telekomMK {
+    background-color: #e30074;
+}
+
+.amcMK {
+    background-color: #34466a;
+}
+
+.neptunMK {
+    background-color: #003d76;
+}
+
+.setecMK {
+    background-color: #283982;
+}
+
+.ledikomMK {
+    background-color: #000000;
+}
+
+.card-title-div {
+    height: 70px;
+}
+
+.pagination{
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+    width: 100%;
+    flex-wrap: wrap;
+    max-width: 900px;
+}
+
+#paginacija>ul>li {
+    transition: 0.3s;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+#paginacija>ul>li:hover {
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.shops {
+    background-color: white;
+    border-radius: 0 0 5px 5px;
+    border: 2px solid #007bff;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.manufacturer {
+    background-color: white;
+    border-radius: 0 0 5px 5px;
+    border: 2px solid #007bff;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ui-widget-header {
+    background: #007bff !important;
+}
+
+#price-range {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 20px;
+}
+
+#priceRangeLabel {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 0px;
+}
+
+.page-link {
+    background-color: #007bff;
+    color: white;
+}
+
+
+
+.youtube {
+    max-width: 100x;
+    max-height: 70px;
+}
+
+#youtube_logo,
+.famous-youtubers {
+    max-height: 100px;
+    background-color: #c8302a;
+    padding: 0 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.chooseAscDsc {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.dropdown-menu {
+    background-color: #007bff;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.form-control{
+    border: 2px solid #007bff;
+    border-radius: 0 0 5px 5px;
+}
+
+#inputGroup-sizing-default{
+    background-color: #007bff;
+    color: white;
+}
+
+.page-item.active .page-link {
+    background-color: coral;
+}
+
+#search-nav{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 5px 5px 0 0;
+}
+
+#manufacturer-nav{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 5px 5px 0 0;
+}
+
+#shops-nav{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 5px 5px 0 0;
+} 
+
+#price-nav{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 5px 5px 0 0;
+}
+
+.img-ledikomMK{
+    width: 75%;
+}
+
+.search-inputs{
+    border-radius: 0;
+}
+
+.no-result-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+.jumbo-square {
+    background-color: #e9edef;
+    width: 100%;
+    height: 100%;
+}
+
+#search-input::-webkit-search-cancel-button {
+    -webkit-appearance: searchfield-cancel-button;
+}
+
+td{
+    border: 1px solid #e3e3e3;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: large;
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.red{
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #db0000;
+    background-color: #f3f3f3;
+}
+
+.card-compare{
+    border: 2px solid #bfcaca;
+}
+
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
