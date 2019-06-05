@@ -1,6 +1,6 @@
 function compare() {
     collapseNavBar();
-    $(".main_page").hide();
+    $("#main_page").hide();
     $("#phones-div").hide();
     $("#compare-div").removeClass("hidden");
     $("#compare-div").empty();

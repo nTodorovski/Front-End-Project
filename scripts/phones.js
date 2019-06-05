@@ -19,7 +19,7 @@ function showPhones(phones) {
             <div class='card-title-div'>
               <h3 class="card-title">${phone.name.toUpperCase()}</h3>
             </div>
-            <button type="button" class="btn btn-primary btn-text" data-toggle="modal" data-target="#exampleModal${phone.id}">
+            <button type="button" class="btn btn-primary btn-text" data-toggle="modal" data-target="#exampleModal${phone.id}" style="margin-bottom:5px;">
               Specifications
             </button>
             <a href="${phone.phone_url}" class="btn ${phone.klasa} btn-text" target="_blank">
@@ -31,7 +31,7 @@ function showPhones(phones) {
             <div class="modal-dialog" role="document">
               <div class="modal-content">
                 <div class="modal-header">
-                  <span class="badge badge-pill badge-primary specs">${phone.name.toUpperCase()}</span>
+                  <span class="badge specs">${phone.name.toUpperCase()}</span>
                 </div>
                 <div class="modal-body">
                   <ul>
@@ -47,7 +47,7 @@ function showPhones(phones) {
                   </ul>
                 </div>
                 <div class="modal-footer">
-                  <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn orange" data-dismiss="modal">Close</button>
                 </div>
               </div>
             </div>

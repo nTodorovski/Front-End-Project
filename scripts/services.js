@@ -1,8 +1,17 @@
+function clearCheckedItems() {
+    for (const item of $(".input-manf")) {
+        $(item).prop('checked', false);
+    }
+    for (const item of $(".input-shops")) {
+        $(item).prop('checked', false);
+    }
+}
+
 function clearFilters() {
     $(".phones").empty();
     $("#search-input").val("");
-    enableManfButtons();
     clearCheckedItems();
+    enableManfButtons();
     showPhones(allPhones);
     changeSlider();
     makePagination();
@@ -49,15 +58,6 @@ function hideMainPage() {
 function addComponentsToPhones() {
     $("#settings").removeClass("hidden")
     $("#settings1").removeClass("hidden")
-}
-
-function clearCheckedItems() {
-    for (const item of $(".input-manf")) {
-        $(item).attr('checked', false);
-    }
-    for (const item of $(".input-shops")) {
-        $(item).attr('checked', false);
-    }
 }
 
 function disableAllButtons() {

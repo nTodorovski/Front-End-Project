@@ -1,11 +1,4 @@
 $(document).ready(function () {
-    // navbar changes color
-    $(document).scroll(function () {
-        let nav = $(".fixed-top");
-        nav.addClass('scrolled')
-        nav.toggleClass('scrolled', $(this).scrollTop() > nav.height());
-    });
-
     //ajaxCalls
     ajaxCall(telekomUrl, fillTelekom);
     ajaxCall(amcUrl, fillAmc);

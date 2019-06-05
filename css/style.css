@@ -42,96 +42,66 @@
 .hidden {
     display: none;
 }
-
+/* BODY */
 body{
-    margin-top: 80px;
-    background: linear-gradient(to right,#2c3e50, #bdc3c7, #2c3e50);
+    margin-top: 90px;
+    background: linear-gradient(to left, #34e89e,#0f3443);
 }
-
+/* FOOTER */
 .py-5 {
-    background: linear-gradient(to right,#85d8ce, #085078, #85d8ce);
+    background-color: #181820;
     padding: 25px !important;
 }
-
-.scrolled {
-    background: linear-gradient(to right,#85d8ce, #085078, #85d8ce);
-}
-
-.card-body a:hover {
-    color: yellow !important;
-}
-
-.carousel-item {
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#logo {
-    font-family: "Pacifico";
-    font-size: 24px;
-    color: coral;
-}
-
-#main_page {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.navBtn {
-    color: #353a3f;
-    background-color: coral;
-    margin: 5px;
-    white-space: normal;
+/* NAVBAR */
+.navbar{
+    background-color: #181820;
 }
 
 .nav-link{
     font-size: 23px;
-    font-weight: bold;
 }
 
 .nav-link:hover{
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-    border-radius: 50px;
-    color: #737177;
+    background-color: #fc5c2b;
+    border-radius: 5px;
     cursor: pointer;
-    /* transition: all 0.5s ease; */
 }
-
+/* CAROSUEL */
+.carousel-item {
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
 
 .d-block {
     width: 1200px;
     height: 480px;
 }
-
-.portfolio-item {
-    margin-bottom: 30px;
+/* MAIN PAGE */
+#main_page {
+    padding-left: 0;
+    padding-right: 0;
 }
 
+/* LOGOS */
 .logos {
     height: 34px;
     width: 66px;
     margin-left: 10px;
 }
-
-.modal-content {
-    font-family: 'Roboto';
-    font-weight: bold;
-    border-radius: 15px;
+/* MODAL */
+.modal-title {
+    margin: auto;
+    color: white;
 }
 
-.modalce {
-    margin-left: 20px;
+.modal-content {
+    border-radius: 15px;
 }
 
 .modal-header {
     font-size: 40px;
-    font-family: 'Roboto';
-    font-weight: bold;
     text-align: center;
-    background-color: #007bff;
+    background-color: #fc5c2b;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -139,27 +109,17 @@ body{
 .specs {
     margin: auto;
 }
-
-.modal-title {
-    margin: auto;
-    color: white;
-}
-
+/* CARD */
 .card-title {
     font-size: 18px;
 }
 
-.price-btn {
-    font-family: 'Roboto';
-    font-weight: bold;
-    color: white;
-    font-size: 25px;
+.card-title-div {
+    height: 70px;
 }
 
 .card {
-    font-family: 'Roboto';
     margin-bottom: 20px;
-    border: 2px solid white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 5px;
@@ -169,13 +129,20 @@ body{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
 }
 
-.btn-primary {
-    background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)
+.price-btn {
+    color: white;
+    font-size: 25px;
 }
 
+/* KLASI NA KOPCINJA */
 .btn{
-    background-position: right center;
-    transition: background-image .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: white;
+}
+
+.orange {
+    background-color: #fc5c2b;
+    color: white;
+    font-weight: bold;
 }
 
 .telekomMK {
@@ -198,10 +165,7 @@ body{
     background-color: #000000;
 }
 
-.card-title-div {
-    height: 70px;
-}
-
+/* PAGINATION */
 .pagination{
     display: flex;
     padding-left: 0;
@@ -225,19 +189,32 @@ body{
     font-weight: bold;
 }
 
-.shops {
-    background-color: white;
-    border-radius: 0 0 5px 5px;
-    border: 2px solid #007bff;
-    padding-left: 40px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+.page-link {
+    background-color: #007bff;
+    color: white;
+}
+/* YOUTUBE */
+.youtube {
+    max-width: 100x;
+    max-height: 70px;
 }
 
-.manufacturer {
+.youtube-div {
+    margin-bottom: 30px;
+}
+
+#youtube_logo,
+.famous-youtubers {
+    max-height: 100px;
+    background-color: #c8302a;
+    padding: 0 10px;
+    color: white;
+    font-weight: bold;
+}
+/* SETTINGS */
+.shops,.manufacturer {
     background-color: white;
     border-radius: 0 0 5px 5px;
-    border: 2px solid #007bff;
     padding-left: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -248,38 +225,15 @@ body{
 }
 
 #price-range {
+    padding: 10px;
     background-color: white;
-    border: 2px solid white;
     border-radius: 0 0 5px 5px;
     margin-bottom: 20px;
 }
 
 #priceRangeLabel {
-    font-family: 'Roboto';
-    font-weight: bold;
     font-size: 1rem;
     margin: 0px;
-}
-
-.page-link {
-    background-color: #007bff;
-    color: white;
-}
-
-
-
-.youtube {
-    max-width: 100x;
-    max-height: 70px;
-}
-
-#youtube_logo,
-.famous-youtubers {
-    max-height: 100px;
-    background-color: #c8302a;
-    padding: 0 10px;
-    color: white;
-    font-weight: bold;
 }
 
 .chooseAscDsc {
@@ -296,36 +250,16 @@ body{
 }
 
 .form-control{
-    border: 2px solid #007bff;
+    border: 2px solid white;
     border-radius: 0 0 5px 5px;
 }
 
-#inputGroup-sizing-default{
-    background-color: #007bff;
-    color: white;
-}
-
 .page-item.active .page-link {
-    background-color: coral;
+    background-color: #fc5c2b;
 }
 
-#search-nav{
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-    border-radius: 5px 5px 0 0;
-}
-
-#manufacturer-nav{
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-    border-radius: 5px 5px 0 0;
-}
-
-#shops-nav{
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-    border-radius: 5px 5px 0 0;
-} 
-
-#price-nav{
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
+#search-nav,#manufacturer-nav,#shops-nav,#price-nav{
+    margin: 0px;
     border-radius: 5px 5px 0 0;
 }
 
@@ -349,10 +283,6 @@ body{
     background-color: #e9edef;
     width: 100%;
     height: 100%;
-}
-
-#search-input::-webkit-search-cancel-button {
-    -webkit-appearance: searchfield-cancel-button;
 }
 
 td{
@@ -383,4 +313,8 @@ table{
     max-height: 200px;
     overflow-y: auto;
     overflow-x: hidden;
+}
+
+.badge{
+    padding:0;
 }
