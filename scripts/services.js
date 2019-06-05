@@ -9,6 +9,7 @@ function clearCheckedItems() {
 
 function clearFilters() {
     $(".phones").empty();
+    debugger
     $("#search-input").val("");
     clearCheckedItems();
     enableManfButtons();
@@ -32,12 +33,19 @@ function noResults() {
     setTimeout(() => {
         $(".phones").removeClass("no-result-container");
         $(".phones").empty();
-        $(".chooseAscDsc").show();
-        enableAllButtons();
-        clearCheckedItems();
-        showPhones(allPhones);
-        changeSlider();
-        makePagination();
+        if($("#search-input").val().length>0){
+            searchBtn();
+            enableAllButtons();
+            clearCheckedItems();
+        }else{
+            $("#search-input").val("");
+            $(".chooseAscDsc").show();
+            enableAllButtons();
+            clearCheckedItems();
+            showPhones(allPhones);
+            changeSlider();
+            makePagination();
+        }
     }, 3000);
 }
 
