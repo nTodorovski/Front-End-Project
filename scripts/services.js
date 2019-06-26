@@ -9,7 +9,6 @@ function clearCheckedItems() {
 
 function clearFilters() {
     $(".phones").empty();
-    debugger
     $("#search-input").val("");
     clearCheckedItems();
     enableManfButtons();
@@ -63,6 +62,7 @@ function hideMainPage() {
     $("#compare-div").addClass("hidden");
 }
 
+//divovite so checkboxovite da se prikazat
 function addComponentsToPhones() {
     $("#settings").removeClass("hidden")
     $("#settings1").removeClass("hidden")

@@ -4,6 +4,7 @@ let neptunUrl = "https://raw.githubusercontent.com/nTodorovski/Front-End-Project
 let ledikomUrl = "https://raw.githubusercontent.com/nTodorovski/Front-End-Project/master/ledikom_final.json";
 let telekomUrl = "https://raw.githubusercontent.com/nTodorovski/Front-End-Project/master/telekom_final.json";
 
+//counter za dodavanje na sekoj telefon ID
 let counter = 0;
 let telekom = [];
 let amc = [];
@@ -16,7 +17,9 @@ let allPhones = [];
 function fillTelekom(data) {
     telekom = data;
     for (const phone of telekom) {
+        //klasa za css
         phone.klasa = 'telekomMK';
+        //logo
         phone.logo = './img/telekom.jpg';
         phone.id = counter;
         phone.shop = "telekom";

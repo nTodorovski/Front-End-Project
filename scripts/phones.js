@@ -64,6 +64,7 @@ function searchBtn() {
   let flag = true;
   let inputs = $("#search-input").val().toLowerCase().split(" ");
   let selectedPhones = [];
+  //ako stisnal na X-ceto a nema prebarano nisto
   if ($("#search-input").val().length == 0) {
     enableManfButtons();
     flag = false;
@@ -72,10 +73,12 @@ function searchBtn() {
   for (const phone of allPhones) {
     let counter = 0;
     for (const input of inputs) {
+      //ako go sodrzi inputot zgolemi go counter
       if (phone.name.toLowerCase().includes(input)) {
         counter++;
       }
     }
+    //ako counterot e ist so site zborcinja od searchot togas dodaj go telefonot
     if (counter == inputs.length)
       selectedPhones.push(phone)
   }

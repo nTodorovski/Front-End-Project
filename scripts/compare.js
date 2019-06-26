@@ -39,6 +39,7 @@ function compare() {
         }
     }
     availableTags = availableTags.sort();
+    //jquery ui autocomplete
     $("#first-phone").autocomplete({
         source: availableTags,
         select: function( event, ui ) {

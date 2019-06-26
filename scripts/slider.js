@@ -1,3 +1,4 @@
+// Getting the price of the currently shown phones
 function getMaxAndMinPrice() {
     let result = [];
     for (const span of $(".phones > div > div > button > span")) {
@@ -21,7 +22,7 @@ function changeSlider() {
     if(result == undefined){
         return;
     }
-    let oldDivs = $(".phones > div");
+    let oldDivs = $(".phones > div"); // zacuvuvanje na telefonite pred da se lizga sliderot
     $("#amount").val(result[0] + " ден" + " - " + result[1] + " ден");
 
     $("#slider-range").slider({
@@ -56,7 +57,7 @@ function changeSlider() {
     });
 }
 
-
+//funkcijata za kopceto ascending,descending
 function setPhonesByPrice(event) {
     let text = event.target.innerHTML;
 

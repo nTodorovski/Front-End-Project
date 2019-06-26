@@ -14,7 +14,7 @@ function checkBox() {
         }
     }
 
-
+    //ako nema niedno selektirano od checkboxovite
     if (checkedItemsManf.length == 0 && checkedItemsShops.length == 0) {
         $(".phones").empty();
         if ($("#search-input").val().length > 0) {
@@ -23,7 +23,7 @@ function checkBox() {
             clearFilters();
         }
         return;
-    }
+    } //ako e selektirano samo od manufacturer
     else if (checkedItemsManf.length > 0 && checkedItemsShops.length == 0) {
         for (const checkedItem of checkedItemsManf) {
             for (const phone of allPhones) {
@@ -32,12 +32,14 @@ function checkBox() {
                 }
             }
         }
-    }
+    } // selektirano samo od shops
     else if (checkedItemsManf.length == 0 && checkedItemsShops.length > 0) {
+        //ako ima nesto pisano vo searchot,prvo prebaraj po toa
         if ($("#search-input").val().length > 0) {
             searchBtn();
             let currentDivs = $(".phones > div");
             let newDivs = [];
+            //gi zemam divovite so tocnata prodavnica
             for (const div of currentDivs) {
                 for (const item of checkedItemsShops) {
                     if ($(div).hasClass(item)) {
@@ -45,6 +47,7 @@ function checkBox() {
                     }
                 }
             }
+            //od tie divovi gi naogjam telefonite po ID
             for (const div of newDivs) {
                 for (const phone of allPhones) {
                     if (phone.id == $(div).attr("id")) {
@@ -52,7 +55,7 @@ function checkBox() {
                     }
                 }
             }
-        }
+        }// ako nema nisto vo searchot
         else{
             for (const checkedItem of checkedItemsShops) {
                 for (const phone of allPhones) {
@@ -62,7 +65,7 @@ function checkBox() {
                 }
             }
         }
-    }
+    }//ako prebaruva i po prodavnica i po proizvoditel
     else if (checkedItemsManf.length > 0 && checkedItemsShops.length > 0) {
         for (const shop of checkedItemsShops) {
             for (const manufacturer of checkedItemsManf) {
@@ -76,6 +79,7 @@ function checkBox() {
     }
 
     $(".phones").empty();
+    //ako nema najdeno nieden telefon po prebaruvanje
     if (newPhones.length == 0) {
         noResults();
         return;
