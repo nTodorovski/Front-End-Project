@@ -61,10 +61,11 @@ function showPhones(phones) {
 }
 
 function searchBtn() {
+  clearManfItems();
   let flag = true;
   let inputs = $("#search-input").val().toLowerCase().split(" ");
   let selectedPhones = [];
-  //ako stisnal na X-ceto a nema prebarano nisto
+  //ako stisnal na X-ceto
   if ($("#search-input").val().length == 0) {
     enableManfButtons();
     flag = false;

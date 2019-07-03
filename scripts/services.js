@@ -7,6 +7,12 @@ function clearCheckedItems() {
     }
 }
 
+function clearManfItems() {
+    for (const item of $(".input-manf")) {
+        $(item).prop('checked', false);
+    }
+}
+
 function clearFilters() {
     $(".phones").empty();
     $("#search-input").val("");
