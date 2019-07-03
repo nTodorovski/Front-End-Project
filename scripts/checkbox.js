@@ -36,9 +36,7 @@ function checkBox() {
     else if (checkedItemsManf.length == 0 && checkedItemsShops.length > 0) {
         //ako ima nesto pisano vo searchot,prvo prebaraj po toa
         if ($("#search-input").val().length > 0) {
-            let param = true;
             searchBtn();
-            // searchPhones();
             let currentDivs = $(".phones > div");
             let newDivs = [];
             //gi zemam divovite so tocnata prodavnica
