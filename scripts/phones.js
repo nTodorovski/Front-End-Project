@@ -60,14 +60,18 @@ function showPhones(phones) {
   }
 }
 
-function searchBtn() {
+function searchBtn(clearShopItem) {
   clearManfItems();
+  if(clearShopItem){
+    clearShopsItems();
+  }
   let flag = true;
   let inputs = $("#search-input").val().toLowerCase().split(" ");
   let selectedPhones = [];
   //ako stisnal na X-ceto
   if ($("#search-input").val().length == 0) {
     enableManfButtons();
+    clearCheckedItems();
     flag = false;
   }
 

@@ -13,6 +13,12 @@ function clearManfItems() {
     }
 }
 
+function clearShopsItems() {
+    for (const item of $(".input-shops")) {
+        $(item).prop('checked', false);
+    }
+}
+
 function clearFilters() {
     $(".phones").empty();
     $("#search-input").val("");
