@@ -18,7 +18,7 @@ function fillTelekom(data) {
     telekom = data;
     for (const phone of telekom) {
         //klasa za css
-        phone.klasa = 'telekomMK';
+        phone.class = 'telekomMK';
         //logo
         phone.logo = './img/telekom.jpg';
         phone.id = counter;
@@ -31,7 +31,7 @@ function fillTelekom(data) {
 function fillAmc(data) {
     amc = data;
     for (const phone of amc) {
-        phone.klasa = 'amcMK';
+        phone.class = 'amcMK';
         phone.logo = './img/amc.jpg';
         phone.id = counter;
         phone.shop = "amc";
@@ -43,7 +43,7 @@ function fillAmc(data) {
 function fillSetec(data) {
     setec = data;
     for (const phone of setec) {
-        phone.klasa = 'setecMK';
+        phone.class = 'setecMK';
         phone.logo = "./img/setec.jpg";
         phone.id = counter;
         phone.shop = "setec";
@@ -55,7 +55,7 @@ function fillSetec(data) {
 function fillLedikom(data) {
     ledikom = data;
     for (const phone of ledikom) {
-        phone.klasa = 'ledikomMK';
+        phone.class = 'ledikomMK';
         phone.logo = './img/ledikom.jpg';
         phone.id = counter;
         phone.shop = "ledikom";
@@ -67,7 +67,7 @@ function fillLedikom(data) {
 function fillNeptun(data) {
     neptun = data;
     for (const phone of neptun) {
-        phone.klasa = 'neptunMK';
+        phone.class = 'neptunMK';
         phone.logo = "./img/neptun.jpg"
         phone.id = counter;
         phone.shop = "neptun";

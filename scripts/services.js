@@ -44,19 +44,13 @@ function noResults() {
     setTimeout(() => {
         $(".phones").removeClass("no-result-container");
         $(".phones").empty();
-        if($("#search-input").val().length>0){
-            searchBtn();
-            enableAllButtons();
-            clearCheckedItems();
-        }else{
-            $("#search-input").val("");
-            $(".chooseAscDsc").show();
-            enableAllButtons();
-            clearCheckedItems();
-            showPhones(allPhones);
-            changeSlider();
-            makePagination();
-        }
+        $("#search-input").val("");
+        $(".chooseAscDsc").show();
+        enableAllButtons();
+        clearCheckedItems();
+        showPhones(allPhones);
+        changeSlider();
+        makePagination();
     }, 3000);
 }
 

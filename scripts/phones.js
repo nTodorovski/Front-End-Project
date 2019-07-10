@@ -13,7 +13,7 @@ function showPhones(phones) {
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 ${phone.shop}" id="${phone.id}">
         <div class="card">
           <div style="width:100%; text-align:center; min-height:215px">
-          <img class="card-img-top img-responsive img-${phone.klasa}" src="${phone.img}" alt="${phone.klasa}" style="height: 180px;">
+          <img class="card-img-top img-responsive img-${phone.class}" src="${phone.img}" alt="${phone.class}" style="height: 180px;">
           </div>
           <div class="card-body">
             <div class='card-title-div'>
@@ -22,7 +22,7 @@ function showPhones(phones) {
             <button type="button" class="btn btn-primary btn-text" data-toggle="modal" data-target="#exampleModal${phone.id}" style="margin-bottom:5px;">
               Specifications
             </button>
-            <a href="${phone.phone_url}" class="btn ${phone.klasa} btn-text" target="_blank">
+            <a href="${phone.phone_url}" class="btn ${phone.class} btn-text" target="_blank">
               <div>Buy from <img class="img-fluid logos" src="${phone.logo}" alt="telekom">
               </div>
             </a>
@@ -65,10 +65,11 @@ function searchBtn(clearShopItem) {
   if(clearShopItem){
     clearShopsItems();
   }
+  // ako stisnal ENTER flag e TRUE
   let flag = true;
   let inputs = $("#search-input").val().toLowerCase().split(" ");
   let selectedPhones = [];
-  //ako stisnal na X-ceto
+  //ako stisnal na X-ceto flag e FALSE
   if ($("#search-input").val().length == 0) {
     enableManfButtons();
     clearCheckedItems();
@@ -90,10 +91,10 @@ function searchBtn(clearShopItem) {
   $(".phones").empty();
   if (selectedPhones.length == 0) {
     noResults();
-    $("#search-input").val("");
     return;
   } else {
     if (flag) {
+      //ako stisnal ENTER 
       disableManfButtons();
     }
     showPhones(selectedPhones);
