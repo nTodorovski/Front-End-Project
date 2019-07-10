@@ -1,4 +1,4 @@
-// Getting the price of the currently shown phones
+// Proveruva cenata na momentalnite izlistani telefoni
 function getMaxAndMinPrice() {
     let result = [];
     for (const span of $(".phones > div > div > button > span")) {
@@ -22,7 +22,7 @@ function changeSlider() {
     if(result == undefined){
         return;
     }
-    let oldDivs = $(".phones > div"); // zacuvuvanje na telefonite pred da se lizga sliderot
+    let oldDivs = $(".phones > div"); // zacuvuvanje na momentalnite telefonite pred da se lizga sliderot
     $("#amount").val(result[0] + " ден" + " - " + result[1] + " ден");
 
     $("#slider-range").slider({
@@ -41,7 +41,7 @@ function changeSlider() {
 
             for (const div of oldDivs) {
                 for (const phone of allPhones) {
-                    if ($(div).attr("id") == phone.id) {
+                    if ($(div).attr("id") == phone.id) { // ako Id-to na Divot e ist so phone ID
                         let price = Number(phone.price.replace(".", ""))
                         if (price >= min && price <= max) {
                             newPhones.push(phone);

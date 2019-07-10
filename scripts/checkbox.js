@@ -3,6 +3,7 @@ function checkBox() {
     let checkedItemsShops = [];
     let newPhones = [];
 
+    //gi polnam nizite so selektiranite inputi od checkboxovite
     for (const item of $(".input-manf")) {
         if ($(item).is(':checked')) {
             checkedItemsManf.push(item.id);
@@ -14,9 +15,10 @@ function checkBox() {
         }
     }
 
-    //ako nema niedno selektirano od checkboxovite
+    //ako nema niedno selektirano od checkboxovite(ili imal selektirano pa odselektiral se)
     if (checkedItemsManf.length == 0 && checkedItemsShops.length == 0) {
         if ($("#search-input").val().length > 0) {
+            //ja povikuvam funckijata searchButton so parametar za da se odcekiraat site checkbox inputi
             let clearShopItems = true;
             searchBtn(clearShopItems);
         } else {
@@ -36,6 +38,7 @@ function checkBox() {
     else if (checkedItemsManf.length == 0 && checkedItemsShops.length > 0) {
         //ako ima nesto pisano vo searchot,prvo prebaraj po toa
         if ($("#search-input").val().length > 0) {
+            //ja povikuvam funkcijata searchBtn bez parametar za da ne mi gi izbrise selektiranite Shop inputs od checkboxovite
             searchBtn();
             let currentDivs = $(".phones > div");
             let newDivs = [];

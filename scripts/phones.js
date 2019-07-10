@@ -9,8 +9,9 @@ function getPhones() {
 
 function showPhones(phones) {
   for (const phone of phones) {
+    //na sekoj div mu stavame ID
     $(".phones").append(`
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 ${phone.shop}" id="${phone.id}">
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 ${phone.shop}" id="${phone.id}"> 
         <div class="card">
           <div style="width:100%; text-align:center; min-height:215px">
           <img class="card-img-top img-responsive img-${phone.class}" src="${phone.img}" alt="${phone.class}" style="height: 180px;">
@@ -60,6 +61,7 @@ function showPhones(phones) {
   }
 }
 
+//funkcijata searchBtn se povikuva i na ENTER i na X-ceto
 function searchBtn(clearShopItem) {
   clearManfItems();
   if(clearShopItem){
@@ -67,6 +69,7 @@ function searchBtn(clearShopItem) {
   }
   // ako stisnal ENTER flag e TRUE
   let flag = true;
+  //gi delam celiot input na zborcinja
   let inputs = $("#search-input").val().toLowerCase().split(" ");
   let selectedPhones = [];
   //ako stisnal na X-ceto flag e FALSE

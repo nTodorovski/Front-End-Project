@@ -83,6 +83,7 @@ function ajaxCall(url, fillFunction) {
         crossDomain: 'true',
         async: false,
         success: function (data) {
+            //fillFunction e funkcija od gorenavedenite koja vrakja niza od telefoni
             let filledData = fillFunction(JSON.parse(data));
             for (const phone of filledData) {
                 allPhones.push(phone);

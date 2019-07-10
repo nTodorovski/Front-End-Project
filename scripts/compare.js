@@ -34,8 +34,8 @@ function compare() {
     for (const phone of allPhones) {
         let name = phone.name.replace(/ Black| Blue| Gold| White| Pink| Green| Dark Grey| Twilight| Rose| Aurora| Breathing Crystal| Yellow| Purple| Cherry Red| Anthracite| Silver| Deep Indigo| Grey| Lavender| Marble| Bleen| Saphire| Midnight| Glcier Gray/g, '').toUpperCase();
         if (availableTags.indexOf(name) === -1) {
-            availableTags.push(name);
-            phones.push(phone);
+            availableTags.push(name); // stavi go imeto vo availableTags
+            phones.push(phone); // stavi go telefonot kako objekt vo phones
         }
     }
     availableTags = availableTags.sort();
